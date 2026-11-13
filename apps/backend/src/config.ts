@@ -12,7 +12,7 @@ export const config = {
   host: process.env.HOST || '0.0.0.0',
   nodeEnv: process.env.NODE_ENV || 'development',
   botToken: process.env.BOT_TOKEN || '9017987595:AAGIbitXCfk-i5eZf_dpvetwL4yvUjMV54k',
-  webAppUrl: process.env.WEBAPP_URL || 'https://46a334c5220afa.app.lhr.life',
+  webAppUrl: process.env.WEBAPP_URL || 'https://moonweb-lab.github.io/moonweb-leadgen/',
   dbPath: path.resolve(__dirname, '../../backend/data/leadgen.sqlite'),
   studio: {
     name: process.env.STUDIO_NAME || 'MoonWeb Lab',
