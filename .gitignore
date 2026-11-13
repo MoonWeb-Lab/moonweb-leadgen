@@ -1,0 +1,15 @@
+node_modules/
+.npm
+dist/
+build/
+*.log
+.DS_Store
+Thumbs.db
+.env.local
+data/*.sqlite
+data/*.sqlite-wal
+data/*.sqlite-shm
+apps/backend/data/*.sqlite
+apps/backend/data/*.sqlite-wal
+apps/backend/data/*.sqlite-shm
+cloudflared.exe
