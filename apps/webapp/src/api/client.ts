@@ -259,9 +259,10 @@ export const api = {
       'Количество отзывов': l.reviewsCount,
       'Без сайта': l.hasRealWebsite ? 'НЕТ' : 'ДА (ЦЕЛЕВОЙ)',
       'Телефон': l.phonePrimary,
-      'Instagram': l.instagram,
+      'Instagram': l.instagram ? (l.instagram.startsWith('http') ? l.instagram : `https://instagram.com/${l.instagram}`) : '',
       'Telegram': l.telegram,
       'Ссылка на диалог Telegram': l.tgLink,
+      'Ссылка на Яндекс Карты': l.yandexMapsUrl || `https://yandex.ru/maps/?text=${encodeURIComponent(l.cityName + ', ' + l.name + (l.address ? ', ' + l.address : ''))}`,
       'Статус в CRM': l.crmStatus,
       'Источник': l.source
     }));

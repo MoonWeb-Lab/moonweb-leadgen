@@ -19,12 +19,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/_storiescoffee_минс",
     "hasRealWebsite": false,
     "phonePrimary": "+375298938898",
-    "instagram": "_storiescoffee_минс",
-    "telegram": "_storiescoffee_bot",
-    "tgLink": "https://t.me/_storiescoffee_bot",
+    "instagram": "stories_coffee_minsk",
+    "telegram": "stories_coffee_minsk",
+    "tgLink": "https://t.me/stories_coffee_minsk",
     "phoneLink": "tel:+375298938898",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%2C%20%D0%9A%D0%BE%D1%84%D0%B5-%D0%B1%D0%B0%D1%80%20%C2%ABStories%20Coffee%C2%BB%2C%20%D1%83%D0%BB.%20%D0%9D%D0%B5%D0%BC%D0%B8%D0%B3%D0%B0%2C%202"
   },
   {
     "id": 2,
@@ -46,12 +47,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/_mariopizza_минс",
     "hasRealWebsite": false,
     "phonePrimary": "+375298306468",
-    "instagram": "_mariopizza_минс",
-    "telegram": "_mariopizza_bot",
-    "tgLink": "https://t.me/_mariopizza_bot",
+    "instagram": "mario_pizza_minsk",
+    "telegram": "mario_pizza_minsk",
+    "tgLink": "https://t.me/mario_pizza_minsk",
     "phoneLink": "tel:+375298306468",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%2C%20%D0%9F%D0%B8%D1%86%D1%86%D0%B5%D1%80%D0%B8%D1%8F%20%D0%BD%D0%B0%D0%B2%D1%8B%D0%BD%D0%BE%D1%81%20%C2%ABMario%20Pizza%C2%BB%2C%20%D1%83%D0%BB.%20%D0%97%D1%8B%D0%B1%D0%B8%D1%86%D0%BA%D0%B0%D1%8F%2C%203"
   },
   {
     "id": 3,
@@ -73,12 +75,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+375295334477",
-    "instagram": "_smartbuffet_минс",
-    "telegram": "",
-    "tgLink": "https://t.me/+375295334477",
+    "instagram": "smart_buffet_minsk",
+    "telegram": "smart_buffet_minsk",
+    "tgLink": "https://t.me/smart_buffet_minsk",
     "phoneLink": "tel:+375295334477",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%2C%20%D0%9A%D0%B5%D0%B9%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B3%20%C2%ABSmart%20Buffet%C2%BB%2C%20%D0%BF%D1%80-%D1%82%20%D0%94%D0%B7%D0%B5%D1%80%D0%B6%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%2C%204"
   },
   {
     "id": 4,
@@ -100,12 +103,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/_blackbeard_минс",
     "hasRealWebsite": false,
     "phonePrimary": "+375296874596",
-    "instagram": "_blackbeard_минс",
-    "telegram": "_blackbeard_bot",
-    "tgLink": "https://t.me/_blackbeard_bot",
+    "instagram": "black_beard_minsk",
+    "telegram": "black_beard_minsk",
+    "tgLink": "https://t.me/black_beard_minsk",
     "phoneLink": "tel:+375296874596",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%2C%20%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%20%C2%ABBlack%20Beard%C2%BB%2C%20%D0%BF%D1%80-%D1%82%20%D0%9F%D0%BE%D0%B1%D0%B5%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D0%B5%D0%B9%2C%205"
   },
   {
     "id": 5,
@@ -127,12 +131,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/_pinkberry_минс",
     "hasRealWebsite": false,
     "phonePrimary": "+375292301417",
-    "instagram": "_pinkberry_минс",
-    "telegram": "",
-    "tgLink": "https://t.me/+375292301417",
+    "instagram": "pink_berry_minsk",
+    "telegram": "pink_berry_minsk",
+    "tgLink": "https://t.me/pink_berry_minsk",
     "phoneLink": "tel:+375292301417",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%2C%20%D0%A1%D1%82%D1%83%D0%B4%D0%B8%D1%8F%20%D0%BC%D0%B0%D0%BD%D0%B8%D0%BA%D1%8E%D1%80%D0%B0%20%C2%ABPink%20Berry%C2%BB%2C%20%D1%83%D0%BB.%20%D0%9F%D1%80%D0%B8%D1%82%D1%8B%D1%86%D0%BA%D0%BE%D0%B3%D0%BE%2C%206"
   },
   {
     "id": 6,
@@ -154,12 +159,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/__минс",
     "hasRealWebsite": false,
     "phonePrimary": "+375293613995",
-    "instagram": "__минс",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "estet_minsk",
+    "telegram": "estet_minsk",
+    "tgLink": "https://t.me/estet_minsk",
     "phoneLink": "tel:+375293613995",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%2C%20%D0%A1%D0%B0%D0%BB%D0%BE%D0%BD%20%D0%BA%D1%80%D0%B0%D1%81%D0%BE%D1%82%D1%8B%20%C2%AB%D0%AD%D1%81%D1%82%D0%B5%D1%82%C2%BB%2C%20%D1%83%D0%BB.%20%D0%A1%D1%83%D1%80%D0%B3%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0%2C%207"
   },
   {
     "id": 7,
@@ -181,12 +187,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+375292890471",
-    "instagram": "_detailinglab_минс",
-    "telegram": "_detailinglab_bot",
-    "tgLink": "https://t.me/_detailinglab_bot",
+    "instagram": "detailing_lab_minsk",
+    "telegram": "detailing_lab_minsk",
+    "tgLink": "https://t.me/detailing_lab_minsk",
     "phoneLink": "tel:+375292890471",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%2C%20%D0%A6%D0%B5%D0%BD%D1%82%D1%80%20%D1%83%D1%85%D0%BE%D0%B4%D0%B0%20%D0%B7%D0%B0%20%D0%B0%D0%B2%D1%82%D0%BE%20%C2%ABDetailing%20Lab%C2%BB%2C%20%D1%83%D0%BB.%20%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D1%80%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F%2C%208"
   },
   {
     "id": 8,
@@ -208,12 +215,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/_h2o__минс",
     "hasRealWebsite": false,
     "phonePrimary": "+375295119906",
-    "instagram": "_h2o__минс",
-    "telegram": "",
-    "tgLink": "https://t.me/+375295119906",
+    "instagram": "h2o_ekspress_minsk",
+    "telegram": "h2o_ekspress_minsk",
+    "tgLink": "https://t.me/h2o_ekspress_minsk",
     "phoneLink": "tel:+375295119906",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%2C%20%D0%9A%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%D0%BD%D0%B0%D1%8F%20%D0%BC%D0%BE%D0%B9%D0%BA%D0%B0%20%C2%ABH2O%20%D0%AD%D0%BA%D1%81%D0%BF%D1%80%D0%B5%D1%81%D1%81%C2%BB%2C%20%D1%83%D0%BB.%20%D0%91%D0%BE%D0%B3%D0%B4%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%D0%B0%2C%209"
   },
   {
     "id": 9,
@@ -235,12 +243,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/__минс",
     "hasRealWebsite": false,
     "phonePrimary": "+375292464136",
-    "instagram": "__минс",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "dizel_motors_minsk",
+    "telegram": "dizel_motors_minsk",
+    "tgLink": "https://t.me/dizel_motors_minsk",
     "phoneLink": "tel:+375292464136",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%2C%20%D0%A1%D0%A2%D0%9E%20%C2%AB%D0%94%D0%B8%D0%B7%D0%B5%D0%BB%D1%8C%20%D0%9C%D0%BE%D1%82%D0%BE%D1%80%D1%81%C2%BB%2C%20%D1%83%D0%BB.%20%D0%AF%D0%BA%D1%83%D0%B1%D0%B0%20%D0%9A%D0%BE%D0%BB%D0%B0%D1%81%D0%B0%2C%2010"
   },
   {
     "id": 10,
@@ -262,12 +271,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/_modernkitchens_минс",
     "hasRealWebsite": false,
     "phonePrimary": "+375299356030",
-    "instagram": "_modernkitchens_минс",
-    "telegram": "_modernkitchens_bot",
-    "tgLink": "https://t.me/_modernkitchens_bot",
+    "instagram": "modern_kitchens_minsk",
+    "telegram": "modern_kitchens_minsk",
+    "tgLink": "https://t.me/modern_kitchens_minsk",
     "phoneLink": "tel:+375299356030",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%2C%20%D0%9C%D0%B5%D0%B1%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D1%84%D0%B0%D0%B1%D1%80%D0%B8%D0%BA%D0%B0%20%C2%ABModern%20Kitchens%C2%BB%2C%20%D0%BF%D1%80-%D1%82%20%D0%9D%D0%B5%D0%B7%D0%B0%D0%B2%D0%B8%D1%81%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8%2C%2011"
   },
   {
     "id": 11,
@@ -289,12 +299,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+375294439206",
-    "instagram": "__минс",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "novyy_dom_minsk",
+    "telegram": "novyy_dom_minsk",
+    "tgLink": "https://t.me/novyy_dom_minsk",
     "phoneLink": "tel:+375294439206",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%2C%20%D0%9E%D1%82%D0%B4%D0%B5%D0%BB%D0%BA%D0%B0%20%D0%BF%D0%BE%D0%B4%20%D0%BA%D0%BB%D1%8E%D1%87%20%C2%AB%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%94%D0%BE%D0%BC%C2%BB%2C%20%D1%83%D0%BB.%20%D0%9D%D0%B5%D0%BC%D0%B8%D0%B3%D0%B0%2C%2012"
   },
   {
     "id": 12,
@@ -316,12 +327,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/_skyline_минс",
     "hasRealWebsite": false,
     "phonePrimary": "+375295004822",
-    "instagram": "_skyline_минс",
-    "telegram": "",
-    "tgLink": "https://t.me/+375295004822",
+    "instagram": "sky_line_minsk",
+    "telegram": "sky_line_minsk",
+    "tgLink": "https://t.me/sky_line_minsk",
     "phoneLink": "tel:+375295004822",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%2C%20%D0%9F%D0%BE%D1%82%D0%BE%D0%BB%D0%BE%D1%87%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B%20%C2%ABSky%20Line%C2%BB%2C%20%D1%83%D0%BB.%20%D0%97%D1%8B%D0%B1%D0%B8%D1%86%D0%BA%D0%B0%D1%8F%2C%2013"
   },
   {
     "id": 13,
@@ -343,12 +355,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/__минс",
     "hasRealWebsite": false,
     "phonePrimary": "+375297614163",
-    "instagram": "__минс",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "tikhiy_ugolok_minsk",
+    "telegram": "tikhiy_ugolok_minsk",
+    "tgLink": "https://t.me/tikhiy_ugolok_minsk",
     "phoneLink": "tel:+375297614163",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%2C%20%D0%90%D0%B3%D1%80%D0%BE%D1%83%D1%81%D0%B0%D0%B4%D1%8C%D0%B1%D0%B0%20%C2%AB%D0%A2%D0%B8%D1%85%D0%B8%D0%B9%20%D0%A3%D0%B3%D0%BE%D0%BB%D0%BE%D0%BA%C2%BB%2C%20%D0%BF%D1%80-%D1%82%20%D0%94%D0%B7%D0%B5%D1%80%D0%B6%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%2C%2014"
   },
   {
     "id": 14,
@@ -370,12 +383,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/__минс",
     "hasRealWebsite": false,
     "phonePrimary": "+375292665709",
-    "instagram": "__минс",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "russkiy_par_minsk",
+    "telegram": "russkiy_par_minsk",
+    "tgLink": "https://t.me/russkiy_par_minsk",
     "phoneLink": "tel:+375292665709",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%2C%20%D0%91%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%20%D1%81%20%D1%87%D0%B0%D0%BD%D0%BE%D0%BC%20%C2%AB%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9%20%D0%9F%D0%B0%D1%80%C2%BB%2C%20%D0%BF%D1%80-%D1%82%20%D0%9F%D0%BE%D0%B1%D0%B5%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D0%B5%D0%B9%2C%2015"
   },
   {
     "id": 15,
@@ -397,12 +411,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+375299549984",
-    "instagram": "__минс",
-    "telegram": "",
-    "tgLink": "https://t.me/+375299549984",
+    "instagram": "kristall_minsk",
+    "telegram": "kristall_minsk",
+    "tgLink": "https://t.me/kristall_minsk",
     "phoneLink": "tel:+375299549984",
     "source": "2gis",
-    "crmStatus": "contacted"
+    "crmStatus": "contacted",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%2C%20%D0%9A%D0%BB%D0%B8%D0%BD%D0%B8%D0%BD%D0%B3%20%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%20%D1%80%D0%B5%D0%BC%D0%BE%D0%BD%D1%82%D0%B0%20%C2%AB%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B0%D0%BB%D0%BB%C2%BB%2C%20%D1%83%D0%BB.%20%D0%9F%D1%80%D0%B8%D1%82%D1%8B%D1%86%D0%BA%D0%BE%D0%B3%D0%BE%2C%2016"
   },
   {
     "id": 16,
@@ -424,12 +439,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/_dentart_минс",
     "hasRealWebsite": false,
     "phonePrimary": "+375293582109",
-    "instagram": "_dentart_минс",
-    "telegram": "_dentart_bot",
-    "tgLink": "https://t.me/_dentart_bot",
+    "instagram": "dent_art_minsk",
+    "telegram": "dent_art_minsk",
+    "tgLink": "https://t.me/dent_art_minsk",
     "phoneLink": "tel:+375293582109",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%2C%20%D0%9A%D0%BB%D0%B8%D0%BD%D0%B8%D0%BA%D0%B0%20%D1%8D%D1%81%D1%82%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B9%20%D1%81%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8%20%C2%ABDent%20Art%C2%BB%2C%20%D1%83%D0%BB.%20%D0%A1%D1%83%D1%80%D0%B3%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0%2C%2017"
   },
   {
     "id": 17,
@@ -451,12 +467,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/_bodyshape_минс",
     "hasRealWebsite": false,
     "phonePrimary": "+375291977765",
-    "instagram": "_bodyshape_минс",
-    "telegram": "_bodyshape_bot",
-    "tgLink": "https://t.me/_bodyshape_bot",
+    "instagram": "body_shape_minsk",
+    "telegram": "body_shape_minsk",
+    "tgLink": "https://t.me/body_shape_minsk",
     "phoneLink": "tel:+375291977765",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%2C%20%D0%A4%D0%B8%D1%82%D0%BD%D0%B5%D1%81-%D1%81%D1%82%D1%83%D0%B4%D0%B8%D1%8F%20%C2%ABBody%20Shape%C2%BB%2C%20%D1%83%D0%BB.%20%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D1%80%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F%2C%2018"
   },
   {
     "id": 18,
@@ -478,12 +495,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/_wakeup_брес",
     "hasRealWebsite": false,
     "phonePrimary": "+375294713317",
-    "instagram": "_wakeup_брес",
-    "telegram": "",
-    "tgLink": "https://t.me/+375294713317",
+    "instagram": "wake_up_brest",
+    "telegram": "wake_up_brest",
+    "tgLink": "https://t.me/wake_up_brest",
     "phoneLink": "tel:+375294713317",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D1%80%D0%B5%D1%81%D1%82%2C%20%D0%A1%D0%BF%D0%B5%D1%88%D0%B5%D0%BB%D1%82%D0%B8-%D0%BA%D0%BE%D1%84%D0%B5%20%C2%ABWake%20Up%C2%BB%20%D0%91%D1%80%D0%B5%D1%81%D1%82%2C%20%D1%83%D0%BB.%20%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F%2C%2019"
   },
   {
     "id": 19,
@@ -505,12 +523,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+375297997699",
-    "instagram": "_craftmeat_брес",
-    "telegram": "_craftmeat_bot",
-    "tgLink": "https://t.me/_craftmeat_bot",
+    "instagram": "craft_meat_brest",
+    "telegram": "craft_meat_brest",
+    "tgLink": "https://t.me/craft_meat_brest",
     "phoneLink": "tel:+375297997699",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D1%80%D0%B5%D1%81%D1%82%2C%20%D0%93%D1%80%D0%B8%D0%BB%D1%8C%20%26%20%D0%91%D1%83%D1%80%D0%B3%D0%B5%D1%80%D1%8B%20%C2%ABCraft%20Meat%C2%BB%20%D0%91%D1%80%D0%B5%D1%81%D1%82%2C%20%D1%83%D0%BB.%20%D0%93%D0%BE%D0%B3%D0%BE%D0%BB%D1%8F%2C%2020"
   },
   {
     "id": 20,
@@ -532,12 +551,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/_holidaybox_брес",
     "hasRealWebsite": false,
     "phonePrimary": "+375299178543",
-    "instagram": "_holidaybox_брес",
-    "telegram": "_holidaybox_bot",
-    "tgLink": "https://t.me/_holidaybox_bot",
+    "instagram": "holiday_box_brest",
+    "telegram": "holiday_box_brest",
+    "tgLink": "https://t.me/holiday_box_brest",
     "phoneLink": "tel:+375299178543",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D1%80%D0%B5%D1%81%D1%82%2C%20%D0%A4%D1%83%D1%80%D1%88%D0%B5%D1%82%D1%8B%20%D0%B8%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BF%D0%B5%20%C2%ABHoliday%20Box%C2%BB%20%D0%91%D1%80%D0%B5%D1%81%D1%82%2C%20%D0%BF%D1%80-%D1%82%20%D0%9C%D0%B0%D1%88%D0%B5%D1%80%D0%BE%D0%B2%D0%B0%2C%2021"
   },
   {
     "id": 21,
@@ -559,12 +579,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/_topgunbarber_брес",
     "hasRealWebsite": false,
     "phonePrimary": "+375293050342",
-    "instagram": "_topgunbarber_брес",
-    "telegram": "",
-    "tgLink": "https://t.me/+375293050342",
+    "instagram": "topgun_barber_brest",
+    "telegram": "topgun_barber_brest",
+    "tgLink": "https://t.me/topgun_barber_brest",
     "phoneLink": "tel:+375293050342",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D1%80%D0%B5%D1%81%D1%82%2C%20%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%20%C2%ABTopGun%20Barber%C2%BB%20%D0%91%D1%80%D0%B5%D1%81%D1%82%2C%20%D0%B1%D1%83%D0%BB%D1%8C%D0%B2%D0%B0%D1%80%20%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82%D0%BE%D0%B2%2C%2022"
   },
   {
     "id": 22,
@@ -586,12 +607,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/_glossynails_брес",
     "hasRealWebsite": false,
     "phonePrimary": "+375291805445",
-    "instagram": "_glossynails_брес",
-    "telegram": "",
-    "tgLink": "https://t.me/+375291805445",
+    "instagram": "glossy_nails_brest",
+    "telegram": "glossy_nails_brest",
+    "tgLink": "https://t.me/glossy_nails_brest",
     "phoneLink": "tel:+375291805445",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D1%80%D0%B5%D1%81%D1%82%2C%20%D0%A1%D1%82%D1%83%D0%B4%D0%B8%D1%8F%20%D0%BA%D1%80%D0%B0%D1%81%D0%BE%D1%82%D1%8B%20%C2%ABGlossy%20Nails%C2%BB%20%D0%91%D1%80%D0%B5%D1%81%D1%82%2C%20%D1%83%D0%BB.%20%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%2C%2023"
   },
   {
     "id": 23,
@@ -613,12 +635,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+375291617586",
-    "instagram": "_secretroom_брес",
-    "telegram": "",
-    "tgLink": "https://t.me/+375291617586",
+    "instagram": "secret_room_brest",
+    "telegram": "secret_room_brest",
+    "tgLink": "https://t.me/secret_room_brest",
     "phoneLink": "tel:+375291617586",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D1%80%D0%B5%D1%81%D1%82%2C%20%D0%9F%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE%20%D0%BA%D1%80%D0%B0%D1%81%D0%BE%D1%82%D1%8B%20%C2%ABSecret%20Room%C2%BB%20%D0%91%D1%80%D0%B5%D1%81%D1%82%2C%20%D1%83%D0%BB.%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0%2C%2024"
   },
   {
     "id": 24,
@@ -640,12 +663,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/_blackedition_брес",
     "hasRealWebsite": false,
     "phonePrimary": "+375291054707",
-    "instagram": "_blackedition_брес",
-    "telegram": "",
-    "tgLink": "https://t.me/+375291054707",
+    "instagram": "black_edition_brest",
+    "telegram": "black_edition_brest",
+    "tgLink": "https://t.me/black_edition_brest",
     "phoneLink": "tel:+375291054707",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D1%80%D0%B5%D1%81%D1%82%2C%20%D0%A1%D1%82%D1%83%D0%B4%D0%B8%D1%8F%20%D0%B0%D0%B2%D1%82%D0%BE%D1%81%D1%82%D0%B0%D0%B9%D0%BB%D0%B8%D0%BD%D0%B3%D0%B0%20%C2%ABBlack%20Edition%C2%BB%20%D0%91%D1%80%D0%B5%D1%81%D1%82%2C%20%D1%83%D0%BB.%20%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F%2C%2025"
   },
   {
     "id": 25,
@@ -667,12 +691,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/_ecowash_брес",
     "hasRealWebsite": false,
     "phonePrimary": "+375295169364",
-    "instagram": "_ecowash_брес",
-    "telegram": "_ecowash_bot",
-    "tgLink": "https://t.me/_ecowash_bot",
+    "instagram": "ecowash_brest",
+    "telegram": "ecowash_brest",
+    "tgLink": "https://t.me/ecowash_brest",
     "phoneLink": "tel:+375295169364",
     "source": "2gis",
-    "crmStatus": "in_progress"
+    "crmStatus": "in_progress",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D1%80%D0%B5%D1%81%D1%82%2C%20%D0%A5%D0%B8%D0%BC%D1%87%D0%B8%D1%81%D1%82%D0%BA%D0%B0%20%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D0%B0%20%C2%ABEcoWash%C2%BB%20%D0%91%D1%80%D0%B5%D1%81%D1%82%2C%20%D1%83%D0%BB.%20%D0%93%D0%BE%D0%B3%D0%BE%D0%BB%D1%8F%2C%2026"
   },
   {
     "id": 26,
@@ -694,12 +719,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/__брес",
     "hasRealWebsite": false,
     "phonePrimary": "+375293411673",
-    "instagram": "__брес",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "turbo_servis_brest",
+    "telegram": "turbo_servis_brest",
+    "tgLink": "https://t.me/turbo_servis_brest",
     "phoneLink": "tel:+375293411673",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D1%80%D0%B5%D1%81%D1%82%2C%20%D0%A0%D0%B5%D0%BC%D0%BE%D0%BD%D1%82%20%D0%BF%D0%BE%D0%B4%D0%B2%D0%B5%D1%81%D0%BA%D0%B8%20%D0%B8%20%D1%82%D0%BE%D1%80%D0%BC%D0%BE%D0%B7%D0%BE%D0%B2%20%C2%AB%D0%A2%D1%83%D1%80%D0%B1%D0%BE%20%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81%C2%BB%20%D0%91%D1%80%D0%B5%D1%81%D1%82%2C%20%D0%BF%D1%80-%D1%82%20%D0%9C%D0%B0%D1%88%D0%B5%D1%80%D0%BE%D0%B2%D0%B0%2C%2027"
   },
   {
     "id": 27,
@@ -721,12 +747,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+375292307838",
-    "instagram": "__брес",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "master_vud_brest",
+    "telegram": "master_vud_brest",
+    "tgLink": "https://t.me/master_vud_brest",
     "phoneLink": "tel:+375292307838",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D1%80%D0%B5%D1%81%D1%82%2C%20%D0%9A%D0%BE%D1%80%D0%BF%D1%83%D1%81%D0%BD%D0%B0%D1%8F%20%D0%BC%D0%B5%D0%B1%D0%B5%D0%BB%D1%8C%20%C2%AB%D0%9C%D0%B0%D1%81%D1%82%D0%B5%D1%80%20%D0%92%D1%83%D0%B4%C2%BB%20%D0%91%D1%80%D0%B5%D1%81%D1%82%2C%20%D0%B1%D1%83%D0%BB%D1%8C%D0%B2%D0%B0%D1%80%20%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82%D0%BE%D0%B2%2C%2028"
   },
   {
     "id": 28,
@@ -748,12 +775,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/_masterbuild_брес",
     "hasRealWebsite": false,
     "phonePrimary": "+375295471894",
-    "instagram": "_masterbuild_брес",
-    "telegram": "",
-    "tgLink": "https://t.me/+375295471894",
+    "instagram": "master_build_brest",
+    "telegram": "master_build_brest",
+    "tgLink": "https://t.me/master_build_brest",
     "phoneLink": "tel:+375295471894",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D1%80%D0%B5%D1%81%D1%82%2C%20%D0%A0%D0%B5%D0%BC%D0%BE%D0%BD%D1%82%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%20%D0%B8%20%D0%BA%D0%BE%D1%82%D1%82%D0%B5%D0%B4%D0%B6%D0%B5%D0%B9%20%C2%ABMaster%20Build%C2%BB%20%D0%91%D1%80%D0%B5%D1%81%D1%82%2C%20%D1%83%D0%BB.%20%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%2C%2029"
   },
   {
     "id": 29,
@@ -775,12 +803,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/__брес",
     "hasRealWebsite": false,
     "phonePrimary": "+375295296993",
-    "instagram": "__брес",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "glyanets_brest",
+    "telegram": "glyanets_brest",
+    "tgLink": "https://t.me/glyanets_brest",
     "phoneLink": "tel:+375295296993",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D1%80%D0%B5%D1%81%D1%82%2C%20%D0%9F%D0%BE%D1%82%D0%BE%D0%BB%D0%BA%D0%B8%20%D0%BF%D0%BE%D0%B4%20%D0%BA%D0%BB%D1%8E%D1%87%20%C2%AB%D0%93%D0%BB%D1%8F%D0%BD%D0%B5%D1%86%C2%BB%20%D0%91%D1%80%D0%B5%D1%81%D1%82%2C%20%D1%83%D0%BB.%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0%2C%2030"
   },
   {
     "id": 30,
@@ -802,12 +831,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/__брес",
     "hasRealWebsite": false,
     "phonePrimary": "+375292540146",
-    "instagram": "__брес",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "khutorok_brest",
+    "telegram": "khutorok_brest",
+    "tgLink": "https://t.me/khutorok_brest",
     "phoneLink": "tel:+375292540146",
     "source": "yandex",
-    "crmStatus": "contacted"
+    "crmStatus": "contacted",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D1%80%D0%B5%D1%81%D1%82%2C%20%D0%97%D0%B0%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%20%C2%AB%D0%A5%D1%83%D1%82%D0%BE%D1%80%D0%BE%D0%BA%C2%BB%20%D0%91%D1%80%D0%B5%D1%81%D1%82%2C%20%D1%83%D0%BB.%20%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F%2C%2031"
   },
   {
     "id": 31,
@@ -829,12 +859,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+375296410733",
-    "instagram": "__брес",
-    "telegram": "",
-    "tgLink": "https://t.me/+375296410733",
+    "instagram": "relaks_brest",
+    "telegram": "relaks_brest",
+    "tgLink": "https://t.me/relaks_brest",
     "phoneLink": "tel:+375296410733",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D1%80%D0%B5%D1%81%D1%82%2C%20%D0%A1%D0%B0%D1%83%D0%BD%D0%B0%20%26%20%D0%91%D0%B0%D1%81%D1%81%D0%B5%D0%B9%D0%BD%20%C2%AB%D0%A0%D0%B5%D0%BB%D0%B0%D0%BA%D1%81%C2%BB%20%D0%91%D1%80%D0%B5%D1%81%D1%82%2C%20%D1%83%D0%BB.%20%D0%93%D0%BE%D0%B3%D0%BE%D0%BB%D1%8F%2C%2032"
   },
   {
     "id": 32,
@@ -856,12 +887,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/_ecoclean_брес",
     "hasRealWebsite": false,
     "phonePrimary": "+375295734925",
-    "instagram": "_ecoclean_брес",
-    "telegram": "_ecoclean_bot",
-    "tgLink": "https://t.me/_ecoclean_bot",
+    "instagram": "ecoclean_brest",
+    "telegram": "ecoclean_brest",
+    "tgLink": "https://t.me/ecoclean_brest",
     "phoneLink": "tel:+375295734925",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D1%80%D0%B5%D1%81%D1%82%2C%20%D0%A5%D0%B8%D0%BC%D1%87%D0%B8%D1%81%D1%82%D0%BA%D0%B0%20%D0%BC%D0%B5%D0%B1%D0%B5%D0%BB%D0%B8%20%D0%B8%20%D0%BA%D0%BB%D0%B8%D0%BD%D0%B8%D0%BD%D0%B3%20%C2%ABEcoClean%C2%BB%20%D0%91%D1%80%D0%B5%D1%81%D1%82%2C%20%D0%BF%D1%80-%D1%82%20%D0%9C%D0%B0%D1%88%D0%B5%D1%80%D0%BE%D0%B2%D0%B0%2C%2033"
   },
   {
     "id": 33,
@@ -883,12 +915,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/__брес",
     "hasRealWebsite": false,
     "phonePrimary": "+375292566917",
-    "instagram": "__брес",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "ulybka_brest",
+    "telegram": "ulybka_brest",
+    "tgLink": "https://t.me/ulybka_brest",
     "phoneLink": "tel:+375292566917",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D1%80%D0%B5%D1%81%D1%82%2C%20%D0%A1%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F%20%C2%AB%D0%A3%D0%BB%D1%8B%D0%B1%D0%BA%D0%B0%C2%BB%20%D0%91%D1%80%D0%B5%D1%81%D1%82%2C%20%D0%B1%D1%83%D0%BB%D1%8C%D0%B2%D0%B0%D1%80%20%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82%D0%BE%D0%B2%2C%2034"
   },
   {
     "id": 34,
@@ -910,12 +943,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/__брес",
     "hasRealWebsite": false,
     "phonePrimary": "+375294102722",
-    "instagram": "__брес",
-    "telegram": "",
-    "tgLink": "https://t.me/+375294102722",
+    "instagram": "balans_brest",
+    "telegram": "balans_brest",
+    "tgLink": "https://t.me/balans_brest",
     "phoneLink": "tel:+375294102722",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D1%80%D0%B5%D1%81%D1%82%2C%20%D0%A1%D1%82%D1%83%D0%B4%D0%B8%D1%8F%20%D0%BF%D0%B8%D0%BB%D0%B0%D1%82%D0%B5%D1%81%D0%B0%20%C2%AB%D0%91%D0%B0%D0%BB%D0%B0%D0%BD%D1%81%C2%BB%20%D0%91%D1%80%D0%B5%D1%81%D1%82%2C%20%D1%83%D0%BB.%20%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%2C%2035"
   },
   {
     "id": 35,
@@ -937,12 +971,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+375293442373",
-    "instagram": "__грод",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "teplo_i_penka_grodno",
+    "telegram": "teplo_i_penka_grodno",
+    "tgLink": "https://t.me/teplo_i_penka_grodno",
     "phoneLink": "tel:+375293442373",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%93%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%2C%20%D0%9A%D0%BE%D1%84%D0%B5%D0%B9%D0%BD%D1%8F%20%C2%AB%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%20%D0%B8%20%D0%9F%D0%B5%D0%BD%D0%BA%D0%B0%C2%BB%20%D0%93%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%2C%20%D1%83%D0%BB.%20%D0%9A%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%2C%2036"
   },
   {
     "id": 36,
@@ -964,12 +999,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/__грод",
     "hasRealWebsite": false,
     "phonePrimary": "+375297191863",
-    "instagram": "__грод",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "myaso_na_uglyakh_grodno",
+    "telegram": "myaso_na_uglyakh_grodno",
+    "tgLink": "https://t.me/myaso_na_uglyakh_grodno",
     "phoneLink": "tel:+375297191863",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%93%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%2C%20%D0%94%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B0%20%D1%88%D0%B0%D1%88%D0%BB%D1%8B%D0%BA%D0%B0%20%C2%AB%D0%9C%D1%8F%D1%81%D0%BE%20%D0%BD%D0%B0%20%D0%A3%D0%B3%D0%BB%D1%8F%D1%85%C2%BB%20%D0%93%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%2C%20%D1%83%D0%BB.%20%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F%2C%2037"
   },
   {
     "id": 37,
@@ -991,12 +1027,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/_prestigefood_грод",
     "hasRealWebsite": false,
     "phonePrimary": "+375295689280",
-    "instagram": "_prestigefood_грод",
-    "telegram": "_prestigefood_bot",
-    "tgLink": "https://t.me/_prestigefood_bot",
+    "instagram": "prestige_food_grodno",
+    "telegram": "prestige_food_grodno",
+    "tgLink": "https://t.me/prestige_food_grodno",
     "phoneLink": "tel:+375295689280",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%93%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%2C%20%D0%9A%D0%B5%D0%B9%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%81%D0%BB%D1%83%D0%B6%D0%B1%D0%B0%20%C2%ABPrestige%20Food%C2%BB%20%D0%93%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%2C%20%D1%83%D0%BB.%20%D0%9E%D0%B6%D0%B5%D1%88%D0%BA%D0%BE%2C%2038"
   },
   {
     "id": 38,
@@ -1018,12 +1055,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/_oldschool_грод",
     "hasRealWebsite": false,
     "phonePrimary": "+375298897695",
-    "instagram": "_oldschool_грод",
-    "telegram": "",
-    "tgLink": "https://t.me/+375298897695",
+    "instagram": "old_school_grodno",
+    "telegram": "old_school_grodno",
+    "tgLink": "https://t.me/old_school_grodno",
     "phoneLink": "tel:+375298897695",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%93%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%2C%20%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80-%D1%81%D1%82%D1%83%D0%B4%D0%B8%D1%8F%20%C2%ABOld%20School%C2%BB%20%D0%93%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%2C%20%D1%83%D0%BB.%20%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F%20%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%BA%D0%B0%D1%8F%2C%2039"
   },
   {
     "id": 39,
@@ -1045,12 +1083,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+375295383980",
-    "instagram": "_french_грод",
-    "telegram": "",
-    "tgLink": "https://t.me/+375295383980",
+    "instagram": "french_grodno",
+    "telegram": "french_grodno",
+    "tgLink": "https://t.me/french_grodno",
     "phoneLink": "tel:+375295383980",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%93%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%2C%20%D0%A1%D1%82%D1%83%D0%B4%D0%B8%D1%8F%20%D0%BD%D0%BE%D0%B3%D1%82%D0%B5%D0%B2%D0%BE%D0%B3%D0%BE%20%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D0%B0%20%C2%ABFrench%C2%BB%20%D0%93%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%2C%20%D1%83%D0%BB.%20%D0%9A%D0%B0%D1%80%D0%BB%D0%B0%20%D0%9C%D0%B0%D1%80%D0%BA%D1%81%D0%B0%2C%2040"
   },
   {
     "id": 40,
@@ -1072,12 +1111,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/__грод",
     "hasRealWebsite": false,
     "phonePrimary": "+375299949689",
-    "instagram": "__грод",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "obraz_grodno",
+    "telegram": "obraz_grodno",
+    "tgLink": "https://t.me/obraz_grodno",
     "phoneLink": "tel:+375299949689",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%93%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%2C%20%D0%A1%D1%82%D1%83%D0%B4%D0%B8%D1%8F%20%D1%81%D1%82%D0%B8%D0%BB%D1%8F%20%C2%AB%D0%9E%D0%B1%D1%80%D0%B0%D0%B7%C2%BB%20%D0%93%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%2C%20%D1%83%D0%BB.%20%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C%2041"
   },
   {
     "id": 41,
@@ -1099,12 +1139,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/_shinegarage_грод",
     "hasRealWebsite": false,
     "phonePrimary": "+375293061919",
-    "instagram": "_shinegarage_грод",
-    "telegram": "_shinegarage_bot",
-    "tgLink": "https://t.me/_shinegarage_bot",
+    "instagram": "shine_garage_grodno",
+    "telegram": "shine_garage_grodno",
+    "tgLink": "https://t.me/shine_garage_grodno",
     "phoneLink": "tel:+375293061919",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%93%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%2C%20%D0%9F%D0%BE%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0%20%D0%B8%20%D0%BA%D0%B5%D1%80%D0%B0%D0%BC%D0%B8%D0%BA%D0%B0%20%C2%ABShine%20Garage%C2%BB%20%D0%93%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%2C%20%D1%83%D0%BB.%20%D0%9A%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%2C%2042"
   },
   {
     "id": 42,
@@ -1126,12 +1167,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/_aquaclean_грод",
     "hasRealWebsite": false,
     "phonePrimary": "+375298693468",
-    "instagram": "_aquaclean_грод",
-    "telegram": "",
-    "tgLink": "https://t.me/+375298693468",
+    "instagram": "aqua_clean_grodno",
+    "telegram": "aqua_clean_grodno",
+    "tgLink": "https://t.me/aqua_clean_grodno",
     "phoneLink": "tel:+375298693468",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%93%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%2C%20%D0%9C%D0%BE%D0%B9%D0%BA%D0%B0%20%D1%81%D0%B0%D0%BC%D0%BE%D0%BE%D0%B1%D1%81%D0%BB%D1%83%D0%B6%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%C2%ABAqua%20Clean%C2%BB%20%D0%93%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%2C%20%D1%83%D0%BB.%20%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F%2C%2043"
   },
   {
     "id": 43,
@@ -1153,12 +1195,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+375296254798",
-    "instagram": "__грод",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "avtoekspert_grodno",
+    "telegram": "avtoekspert_grodno",
+    "tgLink": "https://t.me/avtoekspert_grodno",
     "phoneLink": "tel:+375296254798",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%93%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%2C%20%D0%A2%D0%B5%D1%85%D1%86%D0%B5%D0%BD%D1%82%D1%80%20%C2%AB%D0%90%D0%B2%D1%82%D0%BE%D0%AD%D0%BA%D1%81%D0%BF%D0%B5%D1%80%D1%82%C2%BB%20%D0%93%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%2C%20%D1%83%D0%BB.%20%D0%9E%D0%B6%D0%B5%D1%88%D0%BA%D0%BE%2C%2044"
   },
   {
     "id": 44,
@@ -1180,12 +1223,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/_artdesign_грод",
     "hasRealWebsite": false,
     "phonePrimary": "+375291211874",
-    "instagram": "_artdesign_грод",
-    "telegram": "_artdesign_bot",
-    "tgLink": "https://t.me/_artdesign_bot",
+    "instagram": "art_design_grodno",
+    "telegram": "art_design_grodno",
+    "tgLink": "https://t.me/art_design_grodno",
     "phoneLink": "tel:+375291211874",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%93%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%2C%20%D0%A8%D0%BA%D0%B0%D1%84%D1%8B-%D0%BA%D1%83%D0%BF%D0%B5%20%D0%B8%20%D0%BA%D1%83%D1%85%D0%BD%D0%B8%20%C2%ABArt%20Design%C2%BB%20%D0%93%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%2C%20%D1%83%D0%BB.%20%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F%20%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%BA%D0%B0%D1%8F%2C%2045"
   },
   {
     "id": 45,
@@ -1207,12 +1251,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/__грод",
     "hasRealWebsite": false,
     "phonePrimary": "+375297220492",
-    "instagram": "__грод",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "profi_stroy_grodno",
+    "telegram": "profi_stroy_grodno",
+    "tgLink": "https://t.me/profi_stroy_grodno",
     "phoneLink": "tel:+375297220492",
     "source": "2gis",
-    "crmStatus": "contacted"
+    "crmStatus": "contacted",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%93%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%2C%20%D0%95%D0%B2%D1%80%D0%BE%D1%80%D0%B5%D0%BC%D0%BE%D0%BD%D1%82%20%C2%AB%D0%9F%D1%80%D0%BE%D1%84%D0%B8%20%D0%A1%D1%82%D1%80%D0%BE%D0%B9%C2%BB%20%D0%93%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%2C%20%D1%83%D0%BB.%20%D0%9A%D0%B0%D1%80%D0%BB%D0%B0%20%D0%9C%D0%B0%D1%80%D0%BA%D1%81%D0%B0%2C%2046"
   },
   {
     "id": 46,
@@ -1234,12 +1279,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/__грод",
     "hasRealWebsite": false,
     "phonePrimary": "+375297313902",
-    "instagram": "__грод",
-    "telegram": "",
-    "tgLink": "https://t.me/+375297313902",
+    "instagram": "prestizh_grodno",
+    "telegram": "prestizh_grodno",
+    "tgLink": "https://t.me/prestizh_grodno",
     "phoneLink": "tel:+375297313902",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%93%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%2C%20%D0%9D%D0%B0%D1%82%D1%8F%D0%B6%D0%BD%D1%8B%D0%B5%20%D0%BF%D0%BE%D1%82%D0%BE%D0%BB%D0%BA%D0%B8%20%C2%AB%D0%9F%D1%80%D0%B5%D1%81%D1%82%D0%B8%D0%B6%C2%BB%20%D0%93%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%2C%20%D1%83%D0%BB.%20%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C%2047"
   },
   {
     "id": 47,
@@ -1261,12 +1307,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+375292117261",
-    "instagram": "__грод",
-    "telegram": "",
-    "tgLink": "https://t.me/+375292117261",
+    "instagram": "sosnovyy_bor_grodno",
+    "telegram": "sosnovyy_bor_grodno",
+    "tgLink": "https://t.me/sosnovyy_bor_grodno",
     "phoneLink": "tel:+375292117261",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%93%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%2C%20%D0%93%D0%BE%D1%81%D1%82%D0%B5%D0%B2%D0%BE%D0%B9%20%D0%B4%D0%BE%D0%BC%20%C2%AB%D0%A1%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%91%D0%BE%D1%80%C2%BB%20%D0%93%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%2C%20%D1%83%D0%BB.%20%D0%9A%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%2C%2048"
   },
   {
     "id": 48,
@@ -1288,12 +1335,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/__грод",
     "hasRealWebsite": false,
     "phonePrimary": "+375299204717",
-    "instagram": "__грод",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "dubrava_grodno",
+    "telegram": "dubrava_grodno",
+    "tgLink": "https://t.me/dubrava_grodno",
     "phoneLink": "tel:+375299204717",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%93%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%2C%20%D0%91%D0%B0%D0%BD%D1%8F%20%D1%81%20%D0%BA%D1%83%D0%BF%D0%B5%D0%BB%D1%8C%D1%8E%20%C2%AB%D0%94%D1%83%D0%B1%D1%80%D0%B0%D0%B2%D0%B0%C2%BB%20%D0%93%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%2C%20%D1%83%D0%BB.%20%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F%2C%2049"
   },
   {
     "id": 49,
@@ -1315,12 +1363,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/__грод",
     "hasRealWebsite": false,
     "phonePrimary": "+375294496701",
-    "instagram": "__грод",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "myata_grodno",
+    "telegram": "myata_grodno",
+    "tgLink": "https://t.me/myata_grodno",
     "phoneLink": "tel:+375294496701",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%93%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%2C%20%D0%9A%D0%BB%D0%B8%D0%BD%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F%20%C2%AB%D0%9C%D1%8F%D1%82%D0%B0%C2%BB%20%D0%93%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%2C%20%D1%83%D0%BB.%20%D0%9E%D0%B6%D0%B5%D1%88%D0%BA%D0%BE%2C%2050"
   },
   {
     "id": 50,
@@ -1342,12 +1391,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/__грод",
     "hasRealWebsite": false,
     "phonePrimary": "+375297756996",
-    "instagram": "__грод",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "denta_pro_grodno",
+    "telegram": "denta_pro_grodno",
+    "tgLink": "https://t.me/denta_pro_grodno",
     "phoneLink": "tel:+375297756996",
     "source": "yandex",
-    "crmStatus": "in_progress"
+    "crmStatus": "in_progress",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%93%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%2C%20%D0%A1%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D1%86%D0%B5%D0%BD%D1%82%D1%80%20%C2%AB%D0%94%D0%B5%D0%BD%D1%82%D0%B0%20%D0%9F%D1%80%D0%BE%C2%BB%20%D0%93%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%2C%20%D1%83%D0%BB.%20%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F%20%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%BA%D0%B0%D1%8F%2C%2051"
   },
   {
     "id": 51,
@@ -1369,12 +1419,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+375299098195",
-    "instagram": "_fitlady_грод",
-    "telegram": "_fitlady_bot",
-    "tgLink": "https://t.me/_fitlady_bot",
+    "instagram": "fit_lady_grodno",
+    "telegram": "fit_lady_grodno",
+    "tgLink": "https://t.me/fit_lady_grodno",
     "phoneLink": "tel:+375299098195",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%93%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%2C%20%D0%96%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D1%84%D0%B8%D1%82%D0%BD%D0%B5%D1%81%20%C2%ABFit%20Lady%C2%BB%20%D0%93%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%2C%20%D1%83%D0%BB.%20%D0%9A%D0%B0%D1%80%D0%BB%D0%B0%20%D0%9C%D0%B0%D1%80%D0%BA%D1%81%D0%B0%2C%2052"
   },
   {
     "id": 52,
@@ -1396,12 +1447,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/coffeepointblackroas_гоме",
     "hasRealWebsite": false,
     "phonePrimary": "+375294405510",
-    "instagram": "coffeepointblackroas_гоме",
-    "telegram": "",
-    "tgLink": "https://t.me/+375294405510",
+    "instagram": "black_roast_gomel",
+    "telegram": "black_roast_gomel",
+    "tgLink": "https://t.me/black_roast_gomel",
     "phoneLink": "tel:+375294405510",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%93%D0%BE%D0%BC%D0%B5%D0%BB%D1%8C%2C%20Coffee%20Point%20%C2%ABBlack%20Roast%C2%BB%20%D0%93%D0%BE%D0%BC%D0%B5%D0%BB%D1%8C%2C%20%D1%83%D0%BB.%20%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%2C%2053"
   },
   {
     "id": 53,
@@ -1423,12 +1475,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/_wok__гоме",
     "hasRealWebsite": false,
     "phonePrimary": "+375292390513",
-    "instagram": "_wok__гоме",
-    "telegram": "_wok__bot",
-    "tgLink": "https://t.me/_wok__bot",
+    "instagram": "sakura_ekspress_gomel",
+    "telegram": "sakura_ekspress_gomel",
+    "tgLink": "https://t.me/sakura_ekspress_gomel",
     "phoneLink": "tel:+375292390513",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%93%D0%BE%D0%BC%D0%B5%D0%BB%D1%8C%2C%20%D0%A1%D1%83%D1%88%D0%B8%20%26%20Wok%20%C2%AB%D0%A1%D0%B0%D0%BA%D1%83%D1%80%D0%B0%20%D0%AD%D0%BA%D1%81%D0%BF%D1%80%D0%B5%D1%81%D1%81%C2%BB%20%D0%93%D0%BE%D0%BC%D0%B5%D0%BB%D1%8C%2C%20%D1%83%D0%BB.%20%D0%91%D0%B0%D1%80%D1%8B%D0%BA%D0%B8%D0%BD%D0%B0%2C%2054"
   },
   {
     "id": 54,
@@ -1450,12 +1503,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/_furshettime_гоме",
     "hasRealWebsite": false,
     "phonePrimary": "+375293245250",
-    "instagram": "_furshettime_гоме",
-    "telegram": "_furshettime_bot",
-    "tgLink": "https://t.me/_furshettime_bot",
+    "instagram": "furshet_time_gomel",
+    "telegram": "furshet_time_gomel",
+    "tgLink": "https://t.me/furshet_time_gomel",
     "phoneLink": "tel:+375293245250",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%93%D0%BE%D0%BC%D0%B5%D0%BB%D1%8C%2C%20%D0%93%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B1%D0%BE%D0%BA%D1%81%D1%8B%20%26%20%D0%9A%D0%B5%D0%B9%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B3%20%C2%ABFurshet%20Time%C2%BB%20%D0%93%D0%BE%D0%BC%D0%B5%D0%BB%D1%8C%2C%20%D0%BF%D1%80-%D1%82%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0%2C%2055"
   },
   {
     "id": 55,
@@ -1477,12 +1531,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+375296661594",
-    "instagram": "_gentlemanclub_гоме",
-    "telegram": "",
-    "tgLink": "https://t.me/+375296661594",
+    "instagram": "gentleman_club_gomel",
+    "telegram": "gentleman_club_gomel",
+    "tgLink": "https://t.me/gentleman_club_gomel",
     "phoneLink": "tel:+375296661594",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%93%D0%BE%D0%BC%D0%B5%D0%BB%D1%8C%2C%20%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%20%C2%ABGentleman%20Club%C2%BB%20%D0%93%D0%BE%D0%BC%D0%B5%D0%BB%D1%8C%2C%20%D1%83%D0%BB.%20%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F%2C%2056"
   },
   {
     "id": 56,
@@ -1504,12 +1559,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/_beautybar_гоме",
     "hasRealWebsite": false,
     "phonePrimary": "+375297814751",
-    "instagram": "_beautybar_гоме",
-    "telegram": "_beautybar_bot",
-    "tgLink": "https://t.me/_beautybar_bot",
+    "instagram": "beauty_bar_gomel",
+    "telegram": "beauty_bar_gomel",
+    "tgLink": "https://t.me/beauty_bar_gomel",
     "phoneLink": "tel:+375297814751",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%93%D0%BE%D0%BC%D0%B5%D0%BB%D1%8C%2C%20%D0%9C%D0%B0%D0%BD%D0%B8%D0%BA%D1%8E%D1%80%20%26%20%D0%9F%D0%B5%D0%B4%D0%B8%D0%BA%D1%8E%D1%80%20%C2%ABBeauty%20Bar%C2%BB%20%D0%93%D0%BE%D0%BC%D0%B5%D0%BB%D1%8C%2C%20%D0%BF%D1%80-%D1%82%20%D0%9F%D0%BE%D0%B1%D0%B5%D0%B4%D1%8B%2C%2057"
   },
   {
     "id": 57,
@@ -1531,12 +1587,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/__гоме",
     "hasRealWebsite": false,
     "phonePrimary": "+375292305097",
-    "instagram": "__гоме",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "persona_gomel",
+    "telegram": "persona_gomel",
+    "tgLink": "https://t.me/persona_gomel",
     "phoneLink": "tel:+375292305097",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%93%D0%BE%D0%BC%D0%B5%D0%BB%D1%8C%2C%20%D0%A1%D0%B0%D0%BB%D0%BE%D0%BD%20%D0%BA%D1%80%D0%B0%D1%81%D0%BE%D1%82%D1%8B%20%C2%AB%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%C2%BB%20%D0%93%D0%BE%D0%BC%D0%B5%D0%BB%D1%8C%2C%20%D1%83%D0%BB.%20%D0%9A%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%2C%2058"
   },
   {
     "id": 58,
@@ -1558,12 +1615,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/_primeauto_гоме",
     "hasRealWebsite": false,
     "phonePrimary": "+375296584293",
-    "instagram": "_primeauto_гоме",
-    "telegram": "_primeauto_bot",
-    "tgLink": "https://t.me/_primeauto_bot",
+    "instagram": "prime_auto_gomel",
+    "telegram": "prime_auto_gomel",
+    "tgLink": "https://t.me/prime_auto_gomel",
     "phoneLink": "tel:+375296584293",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%93%D0%BE%D0%BC%D0%B5%D0%BB%D1%8C%2C%20%D0%94%D0%B5%D1%82%D0%B5%D0%B9%D0%BB%D0%B8%D0%BD%D0%B3%20%C2%ABPrime%20Auto%C2%BB%20%D0%93%D0%BE%D0%BC%D0%B5%D0%BB%D1%8C%2C%20%D1%83%D0%BB.%20%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%2C%2059"
   },
   {
     "id": 59,
@@ -1585,12 +1643,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+375298467573",
-    "instagram": "__гоме",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "chistyy_stil_gomel",
+    "telegram": "chistyy_stil_gomel",
+    "tgLink": "https://t.me/chistyy_stil_gomel",
     "phoneLink": "tel:+375298467573",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%93%D0%BE%D0%BC%D0%B5%D0%BB%D1%8C%2C%20%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B9%D0%BA%D0%B0%20%C2%AB%D0%A7%D0%B8%D1%81%D1%82%D1%8B%D0%B9%20%D0%A1%D1%82%D0%B8%D0%BB%D1%8C%C2%BB%20%D0%93%D0%BE%D0%BC%D0%B5%D0%BB%D1%8C%2C%20%D1%83%D0%BB.%20%D0%91%D0%B0%D1%80%D1%8B%D0%BA%D0%B8%D0%BD%D0%B0%2C%2060"
   },
   {
     "id": 60,
@@ -1612,12 +1671,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/__гоме",
     "hasRealWebsite": false,
     "phonePrimary": "+375297263654",
-    "instagram": "__гоме",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "master_avto_gomel",
+    "telegram": "master_avto_gomel",
+    "tgLink": "https://t.me/master_avto_gomel",
     "phoneLink": "tel:+375297263654",
     "source": "yandex",
-    "crmStatus": "contacted"
+    "crmStatus": "contacted",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%93%D0%BE%D0%BC%D0%B5%D0%BB%D1%8C%2C%20%D0%90%D0%B2%D1%82%D0%BE%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%20%C2%AB%D0%9C%D0%B0%D1%81%D1%82%D0%B5%D1%80-%D0%90%D0%B2%D1%82%D0%BE%C2%BB%20%D0%93%D0%BE%D0%BC%D0%B5%D0%BB%D1%8C%2C%20%D0%BF%D1%80-%D1%82%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0%2C%2061"
   },
   {
     "id": 61,
@@ -1639,12 +1699,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/_comforthome_гоме",
     "hasRealWebsite": false,
     "phonePrimary": "+375294449203",
-    "instagram": "_comforthome_гоме",
-    "telegram": "_comforthome_bot",
-    "tgLink": "https://t.me/_comforthome_bot",
+    "instagram": "comfort_home_gomel",
+    "telegram": "comfort_home_gomel",
+    "tgLink": "https://t.me/comfort_home_gomel",
     "phoneLink": "tel:+375294449203",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%93%D0%BE%D0%BC%D0%B5%D0%BB%D1%8C%2C%20%D0%9A%D1%83%D1%85%D0%BD%D0%B8%20%D0%BF%D0%BE%D0%B4%20%D0%BA%D0%BB%D1%8E%D1%87%20%C2%ABComfort%20Home%C2%BB%20%D0%93%D0%BE%D0%BC%D0%B5%D0%BB%D1%8C%2C%20%D1%83%D0%BB.%20%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F%2C%2062"
   },
   {
     "id": 62,
@@ -1666,12 +1727,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/__гоме",
     "hasRealWebsite": false,
     "phonePrimary": "+375292687986",
-    "instagram": "__гоме",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "stroy_brigada_gomel",
+    "telegram": "stroy_brigada_gomel",
+    "tgLink": "https://t.me/stroy_brigada_gomel",
     "phoneLink": "tel:+375292687986",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%93%D0%BE%D0%BC%D0%B5%D0%BB%D1%8C%2C%20%D0%A0%D0%B5%D0%BC%D0%BE%D0%BD%D1%82%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%20%C2%AB%D0%A1%D1%82%D1%80%D0%BE%D0%B9%20%D0%91%D1%80%D0%B8%D0%B3%D0%B0%D0%B4%D0%B0%C2%BB%20%D0%93%D0%BE%D0%BC%D0%B5%D0%BB%D1%8C%2C%20%D0%BF%D1%80-%D1%82%20%D0%9F%D0%BE%D0%B1%D0%B5%D0%B4%D1%8B%2C%2063"
   },
   {
     "id": 63,
@@ -1693,12 +1755,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+375299979453",
-    "instagram": "_skyline_гоме",
-    "telegram": "",
-    "tgLink": "https://t.me/+375299979453",
+    "instagram": "sky_line_gomel",
+    "telegram": "sky_line_gomel",
+    "tgLink": "https://t.me/sky_line_gomel",
     "phoneLink": "tel:+375299979453",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%93%D0%BE%D0%BC%D0%B5%D0%BB%D1%8C%2C%20%D0%9F%D0%BE%D1%82%D0%BE%D0%BB%D0%BE%D1%87%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B%20%C2%ABSky%20Line%C2%BB%20%D0%93%D0%BE%D0%BC%D0%B5%D0%BB%D1%8C%2C%20%D1%83%D0%BB.%20%D0%9A%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%2C%2064"
   },
   {
     "id": 64,
@@ -1720,12 +1783,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/__гоме",
     "hasRealWebsite": false,
     "phonePrimary": "+375299553478",
-    "instagram": "__гоме",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "uyutnaya_zavod_gomel",
+    "telegram": "uyutnaya_zavod_gomel",
+    "tgLink": "https://t.me/uyutnaya_zavod_gomel",
     "phoneLink": "tel:+375299553478",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%93%D0%BE%D0%BC%D0%B5%D0%BB%D1%8C%2C%20%D0%A3%D1%81%D0%B0%D0%B4%D1%8C%D0%B1%D0%B0%20%C2%AB%D0%A3%D1%8E%D1%82%D0%BD%D0%B0%D1%8F%20%D0%97%D0%B0%D0%B2%D0%BE%D0%B4%D1%8C%C2%BB%20%D0%93%D0%BE%D0%BC%D0%B5%D0%BB%D1%8C%2C%20%D1%83%D0%BB.%20%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%2C%2065"
   },
   {
     "id": 65,
@@ -1747,12 +1811,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/__гоме",
     "hasRealWebsite": false,
     "phonePrimary": "+375297709836",
-    "instagram": "__гоме",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "parnoy_dvorik_gomel",
+    "telegram": "parnoy_dvorik_gomel",
+    "tgLink": "https://t.me/parnoy_dvorik_gomel",
     "phoneLink": "tel:+375297709836",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%93%D0%BE%D0%BC%D0%B5%D0%BB%D1%8C%2C%20%D0%91%D0%B0%D0%BD%D1%8F%20%D0%BD%D0%B0%20%D0%B4%D1%80%D0%BE%D0%B2%D0%B0%D1%85%20%C2%AB%D0%9F%D0%B0%D1%80%D0%BD%D0%BE%D0%B9%20%D0%94%D0%B2%D0%BE%D1%80%D0%B8%D0%BA%C2%BB%20%D0%93%D0%BE%D0%BC%D0%B5%D0%BB%D1%8C%2C%20%D1%83%D0%BB.%20%D0%91%D0%B0%D1%80%D1%8B%D0%BA%D0%B8%D0%BD%D0%B0%2C%2066"
   },
   {
     "id": 66,
@@ -1774,12 +1839,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/__гоме",
     "hasRealWebsite": false,
     "phonePrimary": "+375293491471",
-    "instagram": "__гоме",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "chistyy_dom_gomel",
+    "telegram": "chistyy_dom_gomel",
+    "tgLink": "https://t.me/chistyy_dom_gomel",
     "phoneLink": "tel:+375293491471",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%93%D0%BE%D0%BC%D0%B5%D0%BB%D1%8C%2C%20%D0%9A%D0%BB%D0%B8%D0%BD%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%81%D0%BB%D1%83%D0%B6%D0%B1%D0%B0%20%C2%AB%D0%A7%D0%B8%D1%81%D1%82%D1%8B%D0%B9%20%D0%94%D0%BE%D0%BC%C2%BB%20%D0%93%D0%BE%D0%BC%D0%B5%D0%BB%D1%8C%2C%20%D0%BF%D1%80-%D1%82%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0%2C%2067"
   },
   {
     "id": 67,
@@ -1801,12 +1867,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+375291016347",
-    "instagram": "__гоме",
-    "telegram": "",
-    "tgLink": "https://t.me/+375291016347",
+    "instagram": "belyy_zhemchug_gomel",
+    "telegram": "belyy_zhemchug_gomel",
+    "tgLink": "https://t.me/belyy_zhemchug_gomel",
     "phoneLink": "tel:+375291016347",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%93%D0%BE%D0%BC%D0%B5%D0%BB%D1%8C%2C%20%D0%A1%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B0%D0%B1%D0%B8%D0%BD%D0%B5%D1%82%20%C2%AB%D0%91%D0%B5%D0%BB%D1%8B%D0%B9%20%D0%96%D0%B5%D0%BC%D1%87%D1%83%D0%B3%C2%BB%20%D0%93%D0%BE%D0%BC%D0%B5%D0%BB%D1%8C%2C%20%D1%83%D0%BB.%20%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F%2C%2068"
   },
   {
     "id": 68,
@@ -1828,12 +1895,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/_airyoga_гоме",
     "hasRealWebsite": false,
     "phonePrimary": "+375293695743",
-    "instagram": "_airyoga_гоме",
-    "telegram": "_airyoga_bot",
-    "tgLink": "https://t.me/_airyoga_bot",
+    "instagram": "air_yoga_gomel",
+    "telegram": "air_yoga_gomel",
+    "tgLink": "https://t.me/air_yoga_gomel",
     "phoneLink": "tel:+375293695743",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%93%D0%BE%D0%BC%D0%B5%D0%BB%D1%8C%2C%20%D0%A1%D1%82%D1%83%D0%B4%D0%B8%D1%8F%20%D1%81%D1%82%D1%80%D0%B5%D1%82%D1%87%D0%B8%D0%BD%D0%B3%D0%B0%20%D0%B8%20%D0%B9%D0%BE%D0%B3%D0%B8%20%C2%ABAir%20Yoga%C2%BB%20%D0%93%D0%BE%D0%BC%D0%B5%D0%BB%D1%8C%2C%20%D0%BF%D1%80-%D1%82%20%D0%9F%D0%BE%D0%B1%D0%B5%D0%B4%D1%8B%2C%2069"
   },
   {
     "id": 69,
@@ -1855,12 +1923,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/__моги",
     "hasRealWebsite": false,
     "phonePrimary": "+375291315435",
-    "instagram": "__моги",
-    "telegram": "",
-    "tgLink": "https://t.me/+375291315435",
+    "instagram": "uyut_mogilyov",
+    "telegram": "uyut_mogilyov",
+    "tgLink": "https://t.me/uyut_mogilyov",
     "phoneLink": "tel:+375291315435",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D0%B3%D0%B8%D0%BB%D1%91%D0%B2%2C%20%D0%90%D1%82%D0%BC%D0%BE%D1%81%D1%84%D0%B5%D1%80%D0%BD%D0%B0%D1%8F%20%D0%BA%D0%BE%D1%84%D0%B5%D0%B9%D0%BD%D1%8F%20%C2%AB%D0%A3%D1%8E%D1%82%C2%BB%20%D0%9C%D0%BE%D0%B3%D0%B8%D0%BB%D1%91%D0%B2%2C%20%D1%83%D0%BB.%20%D0%91%D0%BE%D0%BB%D0%B4%D0%B8%D0%BD%D0%B0%2C%2070"
   },
   {
     "id": 70,
@@ -1882,12 +1951,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/_tokyoroll_моги",
     "hasRealWebsite": false,
     "phonePrimary": "+375295062626",
-    "instagram": "_tokyoroll_моги",
-    "telegram": "_tokyoroll_bot",
-    "tgLink": "https://t.me/_tokyoroll_bot",
+    "instagram": "tokyo_roll_mogilyov",
+    "telegram": "tokyo_roll_mogilyov",
+    "tgLink": "https://t.me/tokyo_roll_mogilyov",
     "phoneLink": "tel:+375295062626",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D0%B3%D0%B8%D0%BB%D1%91%D0%B2%2C%20%D0%94%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B0%20%D1%81%D1%83%D1%88%D0%B8%20%C2%ABTokyo%20Roll%C2%BB%20%D0%9C%D0%BE%D0%B3%D0%B8%D0%BB%D1%91%D0%B2%2C%20%D1%83%D0%BB.%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%2C%2071"
   },
   {
     "id": 71,
@@ -1909,12 +1979,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+375298622240",
-    "instagram": "_smartbuffet_моги",
-    "telegram": "",
-    "tgLink": "https://t.me/+375298622240",
+    "instagram": "smart_buffet_mogilyov",
+    "telegram": "smart_buffet_mogilyov",
+    "tgLink": "https://t.me/smart_buffet_mogilyov",
     "phoneLink": "tel:+375298622240",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D0%B3%D0%B8%D0%BB%D1%91%D0%B2%2C%20%D0%9A%D0%B5%D0%B9%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B3%20%C2%ABSmart%20Buffet%C2%BB%20%D0%9C%D0%BE%D0%B3%D0%B8%D0%BB%D1%91%D0%B2%2C%20%D1%83%D0%BB.%20%D0%9F%D0%B5%D1%80%D0%B2%D0%BE%D0%BC%D0%B0%D0%B9%D1%81%D0%BA%D0%B0%D1%8F%2C%2072"
   },
   {
     "id": 72,
@@ -1936,12 +2007,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/__моги",
     "hasRealWebsite": false,
     "phonePrimary": "+375293344158",
-    "instagram": "__моги",
-    "telegram": "",
-    "tgLink": "https://t.me/+375293344158",
+    "instagram": "chop_mogilyov",
+    "telegram": "chop_mogilyov",
+    "tgLink": "https://t.me/chop_mogilyov",
     "phoneLink": "tel:+375293344158",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D0%B3%D0%B8%D0%BB%D1%91%D0%B2%2C%20%D0%9C%D1%83%D0%B6%D1%81%D0%BA%D0%B8%D0%B5%20%D1%81%D1%82%D1%80%D0%B8%D0%B6%D0%BA%D0%B8%20%C2%AB%D0%A7%D0%BE%D0%BF%C2%BB%20%D0%9C%D0%BE%D0%B3%D0%B8%D0%BB%D1%91%D0%B2%2C%20%D0%BF%D1%80-%D1%82%20%D0%9C%D0%B8%D1%80%D0%B0%2C%2073"
   },
   {
     "id": 73,
@@ -1963,12 +2035,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/_nailartstudio_моги",
     "hasRealWebsite": false,
     "phonePrimary": "+375291306041",
-    "instagram": "_nailartstudio_моги",
-    "telegram": "_nailartstudio_bot",
-    "tgLink": "https://t.me/_nailartstudio_bot",
+    "instagram": "nail_art_studio_mogilyov",
+    "telegram": "nail_art_studio_mogilyov",
+    "tgLink": "https://t.me/nail_art_studio_mogilyov",
     "phoneLink": "tel:+375291306041",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D0%B3%D0%B8%D0%BB%D1%91%D0%B2%2C%20%D0%9D%D0%BE%D0%B3%D1%82%D0%B5%D0%B2%D0%B0%D1%8F%20%D1%81%D1%82%D1%83%D0%B4%D0%B8%D1%8F%20%C2%ABNail%20Art%20Studio%C2%BB%20%D0%9C%D0%BE%D0%B3%D0%B8%D0%BB%D1%91%D0%B2%2C%20%D1%83%D0%BB.%20%D0%9F%D0%B8%D0%BE%D0%BD%D0%B5%D1%80%D1%81%D0%BA%D0%B0%D1%8F%2C%2074"
   },
   {
     "id": 74,
@@ -1990,12 +2063,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/_monrobeauty_моги",
     "hasRealWebsite": false,
     "phonePrimary": "+375298376544",
-    "instagram": "_monrobeauty_моги",
-    "telegram": "",
-    "tgLink": "https://t.me/+375298376544",
+    "instagram": "monro_beauty_mogilyov",
+    "telegram": "monro_beauty_mogilyov",
+    "tgLink": "https://t.me/monro_beauty_mogilyov",
     "phoneLink": "tel:+375298376544",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D0%B3%D0%B8%D0%BB%D1%91%D0%B2%2C%20%D0%A1%D1%82%D1%83%D0%B4%D0%B8%D1%8F%20%D0%BA%D0%BE%D0%BB%D0%BE%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B8%20%C2%ABMonro%20Beauty%C2%BB%20%D0%9C%D0%BE%D0%B3%D0%B8%D0%BB%D1%91%D0%B2%2C%20%D1%83%D0%BB.%20%D0%A7%D0%B5%D0%BB%D1%8E%D1%81%D0%BA%D0%B8%D0%BD%D1%86%D0%B5%D0%B2%2C%2075"
   },
   {
     "id": 75,
@@ -2017,12 +2091,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+375293657063",
-    "instagram": "_proglaze_моги",
-    "telegram": "_proglaze_bot",
-    "tgLink": "https://t.me/_proglaze_bot",
+    "instagram": "proglaze_mogilyov",
+    "telegram": "proglaze_mogilyov",
+    "tgLink": "https://t.me/proglaze_mogilyov",
     "phoneLink": "tel:+375293657063",
     "source": "2gis",
-    "crmStatus": "contacted"
+    "crmStatus": "contacted",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D0%B3%D0%B8%D0%BB%D1%91%D0%B2%2C%20%D0%94%D0%B5%D1%82%D0%B5%D0%B9%D0%BB%D0%B8%D0%BD%D0%B3-%D1%81%D1%82%D1%83%D0%B4%D0%B8%D1%8F%20%C2%ABProGlaze%C2%BB%20%D0%9C%D0%BE%D0%B3%D0%B8%D0%BB%D1%91%D0%B2%2C%20%D1%83%D0%BB.%20%D0%9B%D0%B0%D0%B7%D0%B0%D1%80%D0%B5%D0%BD%D0%BA%D0%BE%2C%2076"
   },
   {
     "id": 76,
@@ -2044,12 +2119,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/_h2o__моги",
     "hasRealWebsite": false,
     "phonePrimary": "+375295246144",
-    "instagram": "_h2o__моги",
-    "telegram": "",
-    "tgLink": "https://t.me/+375295246144",
+    "instagram": "h2o_ekspress_mogilyov",
+    "telegram": "h2o_ekspress_mogilyov",
+    "tgLink": "https://t.me/h2o_ekspress_mogilyov",
     "phoneLink": "tel:+375295246144",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D0%B3%D0%B8%D0%BB%D1%91%D0%B2%2C%20%D0%9A%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%D0%BD%D0%B0%D1%8F%20%D0%BC%D0%BE%D0%B9%D0%BA%D0%B0%20%C2%ABH2O%20%D0%AD%D0%BA%D1%81%D0%BF%D1%80%D0%B5%D1%81%D1%81%C2%BB%20%D0%9C%D0%BE%D0%B3%D0%B8%D0%BB%D1%91%D0%B2%2C%20%D1%83%D0%BB.%20%D0%91%D0%BE%D0%BB%D0%B4%D0%B8%D0%BD%D0%B0%2C%2077"
   },
   {
     "id": 77,
@@ -2071,12 +2147,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/__моги",
     "hasRealWebsite": false,
     "phonePrimary": "+375292638620",
-    "instagram": "__моги",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "dizel_motors_mogilyov",
+    "telegram": "dizel_motors_mogilyov",
+    "tgLink": "https://t.me/dizel_motors_mogilyov",
     "phoneLink": "tel:+375292638620",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D0%B3%D0%B8%D0%BB%D1%91%D0%B2%2C%20%D0%A1%D0%A2%D0%9E%20%C2%AB%D0%94%D0%B8%D0%B7%D0%B5%D0%BB%D1%8C%20%D0%9C%D0%BE%D1%82%D0%BE%D1%80%D1%81%C2%BB%20%D0%9C%D0%BE%D0%B3%D0%B8%D0%BB%D1%91%D0%B2%2C%20%D1%83%D0%BB.%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%2C%2078"
   },
   {
     "id": 78,
@@ -2098,12 +2175,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/_loft__моги",
     "hasRealWebsite": false,
     "phonePrimary": "+375293195746",
-    "instagram": "_loft__моги",
-    "telegram": "_loft__bot",
-    "tgLink": "https://t.me/_loft__bot",
+    "instagram": "loft_mebel_mogilyov",
+    "telegram": "loft_mebel_mogilyov",
+    "tgLink": "https://t.me/loft_mebel_mogilyov",
     "phoneLink": "tel:+375293195746",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D0%B3%D0%B8%D0%BB%D1%91%D0%B2%2C%20%D0%9A%D1%83%D1%85%D0%BD%D0%B8%20%D0%BD%D0%B0%20%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%20%C2%ABLoft%20%D0%9C%D0%B5%D0%B1%D0%B5%D0%BB%D1%8C%C2%BB%20%D0%9C%D0%BE%D0%B3%D0%B8%D0%BB%D1%91%D0%B2%2C%20%D1%83%D0%BB.%20%D0%9F%D0%B5%D1%80%D0%B2%D0%BE%D0%BC%D0%B0%D0%B9%D1%81%D0%BA%D0%B0%D1%8F%2C%2079"
   },
   {
     "id": 79,
@@ -2125,12 +2203,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+375293962485",
-    "instagram": "__моги",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "novyy_dom_mogilyov",
+    "telegram": "novyy_dom_mogilyov",
+    "tgLink": "https://t.me/novyy_dom_mogilyov",
     "phoneLink": "tel:+375293962485",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D0%B3%D0%B8%D0%BB%D1%91%D0%B2%2C%20%D0%9E%D1%82%D0%B4%D0%B5%D0%BB%D0%BA%D0%B0%20%D0%BF%D0%BE%D0%B4%20%D0%BA%D0%BB%D1%8E%D1%87%20%C2%AB%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%94%D0%BE%D0%BC%C2%BB%20%D0%9C%D0%BE%D0%B3%D0%B8%D0%BB%D1%91%D0%B2%2C%20%D0%BF%D1%80-%D1%82%20%D0%9C%D0%B8%D1%80%D0%B0%2C%2080"
   },
   {
     "id": 80,
@@ -2152,12 +2231,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/__моги",
     "hasRealWebsite": false,
     "phonePrimary": "+375299098667",
-    "instagram": "__моги",
-    "telegram": "",
-    "tgLink": "https://t.me/+375299098667",
+    "instagram": "glyanets_mogilyov",
+    "telegram": "glyanets_mogilyov",
+    "tgLink": "https://t.me/glyanets_mogilyov",
     "phoneLink": "tel:+375299098667",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D0%B3%D0%B8%D0%BB%D1%91%D0%B2%2C%20%D0%9F%D0%BE%D1%82%D0%BE%D0%BB%D0%BA%D0%B8%20%D0%BF%D0%BE%D0%B4%20%D0%BA%D0%BB%D1%8E%D1%87%20%C2%AB%D0%93%D0%BB%D1%8F%D0%BD%D0%B5%D1%86%C2%BB%20%D0%9C%D0%BE%D0%B3%D0%B8%D0%BB%D1%91%D0%B2%2C%20%D1%83%D0%BB.%20%D0%9F%D0%B8%D0%BE%D0%BD%D0%B5%D1%80%D1%81%D0%BA%D0%B0%D1%8F%2C%2081"
   },
   {
     "id": 81,
@@ -2179,12 +2259,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/__моги",
     "hasRealWebsite": false,
     "phonePrimary": "+375294183153",
-    "instagram": "__моги",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "lesnaya_skazka_mogilyov",
+    "telegram": "lesnaya_skazka_mogilyov",
+    "tgLink": "https://t.me/lesnaya_skazka_mogilyov",
     "phoneLink": "tel:+375294183153",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D0%B3%D0%B8%D0%BB%D1%91%D0%B2%2C%20%D0%A3%D1%81%D0%B0%D0%B4%D1%8C%D0%B1%D0%B0%20%D1%83%20%D0%BE%D0%B7%D0%B5%D1%80%D0%B0%20%C2%AB%D0%9B%D0%B5%D1%81%D0%BD%D0%B0%D1%8F%20%D0%A1%D0%BA%D0%B0%D0%B7%D0%BA%D0%B0%C2%BB%20%D0%9C%D0%BE%D0%B3%D0%B8%D0%BB%D1%91%D0%B2%2C%20%D1%83%D0%BB.%20%D0%A7%D0%B5%D0%BB%D1%8E%D1%81%D0%BA%D0%B8%D0%BD%D1%86%D0%B5%D0%B2%2C%2082"
   },
   {
     "id": 82,
@@ -2206,12 +2287,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/__моги",
     "hasRealWebsite": false,
     "phonePrimary": "+375294740378",
-    "instagram": "__моги",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "russkiy_par_mogilyov",
+    "telegram": "russkiy_par_mogilyov",
+    "tgLink": "https://t.me/russkiy_par_mogilyov",
     "phoneLink": "tel:+375294740378",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D0%B3%D0%B8%D0%BB%D1%91%D0%B2%2C%20%D0%91%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%20%D1%81%20%D1%87%D0%B0%D0%BD%D0%BE%D0%BC%20%C2%AB%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9%20%D0%9F%D0%B0%D1%80%C2%BB%20%D0%9C%D0%BE%D0%B3%D0%B8%D0%BB%D1%91%D0%B2%2C%20%D1%83%D0%BB.%20%D0%9B%D0%B0%D0%B7%D0%B0%D1%80%D0%B5%D0%BD%D0%BA%D0%BE%2C%2083"
   },
   {
     "id": 83,
@@ -2233,12 +2315,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+375291220442",
-    "instagram": "__моги",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "kristall_mogilyov",
+    "telegram": "kristall_mogilyov",
+    "tgLink": "https://t.me/kristall_mogilyov",
     "phoneLink": "tel:+375291220442",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D0%B3%D0%B8%D0%BB%D1%91%D0%B2%2C%20%D0%9A%D0%BB%D0%B8%D0%BD%D0%B8%D0%BD%D0%B3%20%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%20%D1%80%D0%B5%D0%BC%D0%BE%D0%BD%D1%82%D0%B0%20%C2%AB%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B0%D0%BB%D0%BB%C2%BB%20%D0%9C%D0%BE%D0%B3%D0%B8%D0%BB%D1%91%D0%B2%2C%20%D1%83%D0%BB.%20%D0%91%D0%BE%D0%BB%D0%B4%D0%B8%D0%BD%D0%B0%2C%2084"
   },
   {
     "id": 84,
@@ -2260,12 +2343,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/_dentart_моги",
     "hasRealWebsite": false,
     "phonePrimary": "+375294658783",
-    "instagram": "_dentart_моги",
-    "telegram": "_dentart_bot",
-    "tgLink": "https://t.me/_dentart_bot",
+    "instagram": "dent_art_mogilyov",
+    "telegram": "dent_art_mogilyov",
+    "tgLink": "https://t.me/dent_art_mogilyov",
     "phoneLink": "tel:+375294658783",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D0%B3%D0%B8%D0%BB%D1%91%D0%B2%2C%20%D0%9A%D0%BB%D0%B8%D0%BD%D0%B8%D0%BA%D0%B0%20%D1%8D%D1%81%D1%82%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B9%20%D1%81%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8%20%C2%ABDent%20Art%C2%BB%20%D0%9C%D0%BE%D0%B3%D0%B8%D0%BB%D1%91%D0%B2%2C%20%D1%83%D0%BB.%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%2C%2085"
   },
   {
     "id": 85,
@@ -2287,12 +2371,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/_bodyshape_моги",
     "hasRealWebsite": false,
     "phonePrimary": "+375291510469",
-    "instagram": "_bodyshape_моги",
-    "telegram": "_bodyshape_bot",
-    "tgLink": "https://t.me/_bodyshape_bot",
+    "instagram": "body_shape_mogilyov",
+    "telegram": "body_shape_mogilyov",
+    "tgLink": "https://t.me/body_shape_mogilyov",
     "phoneLink": "tel:+375291510469",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D0%B3%D0%B8%D0%BB%D1%91%D0%B2%2C%20%D0%A4%D0%B8%D1%82%D0%BD%D0%B5%D1%81-%D1%81%D1%82%D1%83%D0%B4%D0%B8%D1%8F%20%C2%ABBody%20Shape%C2%BB%20%D0%9C%D0%BE%D0%B3%D0%B8%D0%BB%D1%91%D0%B2%2C%20%D1%83%D0%BB.%20%D0%9F%D0%B5%D1%80%D0%B2%D0%BE%D0%BC%D0%B0%D0%B9%D1%81%D0%BA%D0%B0%D1%8F%2C%201"
   },
   {
     "id": 86,
@@ -2314,12 +2399,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/__вите",
     "hasRealWebsite": false,
     "phonePrimary": "+375292180010",
-    "instagram": "__вите",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "espresso_bar_vitebsk",
+    "telegram": "espresso_bar_vitebsk",
+    "tgLink": "https://t.me/espresso_bar_vitebsk",
     "phoneLink": "tel:+375292180010",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%92%D0%B8%D1%82%D0%B5%D0%B1%D1%81%D0%BA%2C%20%D0%9A%D0%BE%D1%84%D0%B5%D0%B9%D0%BD%D1%8F%20%C2%AB%D0%AD%D1%81%D0%BF%D1%80%D0%B5%D1%81%D1%81%D0%BE%20%D0%91%D0%B0%D1%80%C2%BB%20%D0%92%D0%B8%D1%82%D0%B5%D0%B1%D1%81%D0%BA%2C%20%D0%BF%D1%80-%D1%82%20%D0%A7%D0%B5%D1%80%D0%BD%D1%8F%D1%85%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%2C%202"
   },
   {
     "id": 87,
@@ -2341,12 +2427,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+375294079836",
-    "instagram": "_mariopizza_вите",
-    "telegram": "_mariopizza_bot",
-    "tgLink": "https://t.me/_mariopizza_bot",
+    "instagram": "mario_pizza_vitebsk",
+    "telegram": "mario_pizza_vitebsk",
+    "tgLink": "https://t.me/mario_pizza_vitebsk",
     "phoneLink": "tel:+375294079836",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%92%D0%B8%D1%82%D0%B5%D0%B1%D1%81%D0%BA%2C%20%D0%9F%D0%B8%D1%86%D1%86%D0%B5%D1%80%D0%B8%D1%8F%20%D0%BD%D0%B0%D0%B2%D1%8B%D0%BD%D0%BE%D1%81%20%C2%ABMario%20Pizza%C2%BB%20%D0%92%D0%B8%D1%82%D0%B5%D0%B1%D1%81%D0%BA%2C%20%D0%BF%D1%80-%D1%82%20%D0%A4%D1%80%D1%83%D0%BD%D0%B7%D0%B5%2C%203"
   },
   {
     "id": 88,
@@ -2368,12 +2455,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/_holidaybox_вите",
     "hasRealWebsite": false,
     "phonePrimary": "+375296220265",
-    "instagram": "_holidaybox_вите",
-    "telegram": "",
-    "tgLink": "https://t.me/+375296220265",
+    "instagram": "holiday_box_vitebsk",
+    "telegram": "holiday_box_vitebsk",
+    "tgLink": "https://t.me/holiday_box_vitebsk",
     "phoneLink": "tel:+375296220265",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%92%D0%B8%D1%82%D0%B5%D0%B1%D1%81%D0%BA%2C%20%D0%A4%D1%83%D1%80%D1%88%D0%B5%D1%82%D1%8B%20%D0%B8%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BF%D0%B5%20%C2%ABHoliday%20Box%C2%BB%20%D0%92%D0%B8%D1%82%D0%B5%D0%B1%D1%81%D0%BA%2C%20%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D1%80-%D1%82%2C%204"
   },
   {
     "id": 89,
@@ -2395,12 +2483,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/__вите",
     "hasRealWebsite": false,
     "phonePrimary": "+375292510322",
-    "instagram": "__вите",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "britva_vitebsk",
+    "telegram": "britva_vitebsk",
+    "tgLink": "https://t.me/britva_vitebsk",
     "phoneLink": "tel:+375292510322",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%92%D0%B8%D1%82%D0%B5%D0%B1%D1%81%D0%BA%2C%20%D0%9C%D1%83%D0%B6%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BF%D0%B0%D1%80%D0%B8%D0%BA%D0%BC%D0%B0%D1%85%D0%B5%D1%80%D1%81%D0%BA%D0%B0%D1%8F%20%C2%AB%D0%91%D1%80%D0%B8%D1%82%D0%B2%D0%B0%C2%BB%20%D0%92%D0%B8%D1%82%D0%B5%D0%B1%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%97%D0%B0%D0%BC%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F%2C%205"
   },
   {
     "id": 90,
@@ -2422,12 +2511,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/_pinkberry_вите",
     "hasRealWebsite": false,
     "phonePrimary": "+375299301208",
-    "instagram": "_pinkberry_вите",
-    "telegram": "_pinkberry_bot",
-    "tgLink": "https://t.me/_pinkberry_bot",
+    "instagram": "pink_berry_vitebsk",
+    "telegram": "pink_berry_vitebsk",
+    "tgLink": "https://t.me/pink_berry_vitebsk",
     "phoneLink": "tel:+375299301208",
     "source": "yandex",
-    "crmStatus": "contacted"
+    "crmStatus": "contacted",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%92%D0%B8%D1%82%D0%B5%D0%B1%D1%81%D0%BA%2C%20%D0%A1%D1%82%D1%83%D0%B4%D0%B8%D1%8F%20%D0%BC%D0%B0%D0%BD%D0%B8%D0%BA%D1%8E%D1%80%D0%B0%20%C2%ABPink%20Berry%C2%BB%20%D0%92%D0%B8%D1%82%D0%B5%D0%B1%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0%2C%206"
   },
   {
     "id": 91,
@@ -2449,12 +2539,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+375295353276",
-    "instagram": "__вите",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "estet_vitebsk",
+    "telegram": "estet_vitebsk",
+    "tgLink": "https://t.me/estet_vitebsk",
     "phoneLink": "tel:+375295353276",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%92%D0%B8%D1%82%D0%B5%D0%B1%D1%81%D0%BA%2C%20%D0%A1%D0%B0%D0%BB%D0%BE%D0%BD%20%D0%BA%D1%80%D0%B0%D1%81%D0%BE%D1%82%D1%8B%20%C2%AB%D0%AD%D1%81%D1%82%D0%B5%D1%82%C2%BB%20%D0%92%D0%B8%D1%82%D0%B5%D0%B1%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%A1%D1%83%D0%B2%D0%BE%D1%80%D0%BE%D0%B2%D0%B0%2C%207"
   },
   {
     "id": 92,
@@ -2476,12 +2567,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/_detailinglab_вите",
     "hasRealWebsite": false,
     "phonePrimary": "+375296950694",
-    "instagram": "_detailinglab_вите",
-    "telegram": "_detailinglab_bot",
-    "tgLink": "https://t.me/_detailinglab_bot",
+    "instagram": "detailing_lab_vitebsk",
+    "telegram": "detailing_lab_vitebsk",
+    "tgLink": "https://t.me/detailing_lab_vitebsk",
     "phoneLink": "tel:+375296950694",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%92%D0%B8%D1%82%D0%B5%D0%B1%D1%81%D0%BA%2C%20%D0%A6%D0%B5%D0%BD%D1%82%D1%80%20%D1%83%D1%85%D0%BE%D0%B4%D0%B0%20%D0%B7%D0%B0%20%D0%B0%D0%B2%D1%82%D0%BE%20%C2%ABDetailing%20Lab%C2%BB%20%D0%92%D0%B8%D1%82%D0%B5%D0%B1%D1%81%D0%BA%2C%20%D0%BF%D1%80-%D1%82%20%D0%A7%D0%B5%D1%80%D0%BD%D1%8F%D1%85%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%2C%208"
   },
   {
     "id": 93,
@@ -2503,12 +2595,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/_ecowash_вите",
     "hasRealWebsite": false,
     "phonePrimary": "+375295599787",
-    "instagram": "_ecowash_вите",
-    "telegram": "",
-    "tgLink": "https://t.me/+375295599787",
+    "instagram": "ecowash_vitebsk",
+    "telegram": "ecowash_vitebsk",
+    "tgLink": "https://t.me/ecowash_vitebsk",
     "phoneLink": "tel:+375295599787",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%92%D0%B8%D1%82%D0%B5%D0%B1%D1%81%D0%BA%2C%20%D0%A5%D0%B8%D0%BC%D1%87%D0%B8%D1%81%D1%82%D0%BA%D0%B0%20%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D0%B0%20%C2%ABEcoWash%C2%BB%20%D0%92%D0%B8%D1%82%D0%B5%D0%B1%D1%81%D0%BA%2C%20%D0%BF%D1%80-%D1%82%20%D0%A4%D1%80%D1%83%D0%BD%D0%B7%D0%B5%2C%209"
   },
   {
     "id": 94,
@@ -2530,12 +2623,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/__вите",
     "hasRealWebsite": false,
     "phonePrimary": "+375293324106",
-    "instagram": "__вите",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "turbo_servis_vitebsk",
+    "telegram": "turbo_servis_vitebsk",
+    "tgLink": "https://t.me/turbo_servis_vitebsk",
     "phoneLink": "tel:+375293324106",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%92%D0%B8%D1%82%D0%B5%D0%B1%D1%81%D0%BA%2C%20%D0%A0%D0%B5%D0%BC%D0%BE%D0%BD%D1%82%20%D0%BF%D0%BE%D0%B4%D0%B2%D0%B5%D1%81%D0%BA%D0%B8%20%D0%B8%20%D1%82%D0%BE%D1%80%D0%BC%D0%BE%D0%B7%D0%BE%D0%B2%20%C2%AB%D0%A2%D1%83%D1%80%D0%B1%D0%BE%20%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81%C2%BB%20%D0%92%D0%B8%D1%82%D0%B5%D0%B1%D1%81%D0%BA%2C%20%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D1%80-%D1%82%2C%2010"
   },
   {
     "id": 95,
@@ -2557,12 +2651,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+375293985481",
-    "instagram": "_modernkitchens_вите",
-    "telegram": "_modernkitchens_bot",
-    "tgLink": "https://t.me/_modernkitchens_bot",
+    "instagram": "modern_kitchens_vitebsk",
+    "telegram": "modern_kitchens_vitebsk",
+    "tgLink": "https://t.me/modern_kitchens_vitebsk",
     "phoneLink": "tel:+375293985481",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%92%D0%B8%D1%82%D0%B5%D0%B1%D1%81%D0%BA%2C%20%D0%9C%D0%B5%D0%B1%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D1%84%D0%B0%D0%B1%D1%80%D0%B8%D0%BA%D0%B0%20%C2%ABModern%20Kitchens%C2%BB%20%D0%92%D0%B8%D1%82%D0%B5%D0%B1%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%97%D0%B0%D0%BC%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F%2C%2011"
   },
   {
     "id": 96,
@@ -2584,12 +2679,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/_masterbuild_вите",
     "hasRealWebsite": false,
     "phonePrimary": "+375295908265",
-    "instagram": "_masterbuild_вите",
-    "telegram": "_masterbuild_bot",
-    "tgLink": "https://t.me/_masterbuild_bot",
+    "instagram": "master_build_vitebsk",
+    "telegram": "master_build_vitebsk",
+    "tgLink": "https://t.me/master_build_vitebsk",
     "phoneLink": "tel:+375295908265",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%92%D0%B8%D1%82%D0%B5%D0%B1%D1%81%D0%BA%2C%20%D0%A0%D0%B5%D0%BC%D0%BE%D0%BD%D1%82%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%20%D0%B8%20%D0%BA%D0%BE%D1%82%D1%82%D0%B5%D0%B4%D0%B6%D0%B5%D0%B9%20%C2%ABMaster%20Build%C2%BB%20%D0%92%D0%B8%D1%82%D0%B5%D0%B1%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0%2C%2012"
   },
   {
     "id": 97,
@@ -2611,12 +2707,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/__вите",
     "hasRealWebsite": false,
     "phonePrimary": "+375292886487",
-    "instagram": "__вите",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "prestizh_vitebsk",
+    "telegram": "prestizh_vitebsk",
+    "tgLink": "https://t.me/prestizh_vitebsk",
     "phoneLink": "tel:+375292886487",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%92%D0%B8%D1%82%D0%B5%D0%B1%D1%81%D0%BA%2C%20%D0%9D%D0%B0%D1%82%D1%8F%D0%B6%D0%BD%D1%8B%D0%B5%20%D0%BF%D0%BE%D1%82%D0%BE%D0%BB%D0%BA%D0%B8%20%C2%AB%D0%9F%D1%80%D0%B5%D1%81%D1%82%D0%B8%D0%B6%C2%BB%20%D0%92%D0%B8%D1%82%D0%B5%D0%B1%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%A1%D1%83%D0%B2%D0%BE%D1%80%D0%BE%D0%B2%D0%B0%2C%2013"
   },
   {
     "id": 98,
@@ -2638,12 +2735,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/__вите",
     "hasRealWebsite": false,
     "phonePrimary": "+375294359174",
-    "instagram": "__вите",
-    "telegram": "",
-    "tgLink": "https://t.me/+375294359174",
+    "instagram": "tikhiy_ugolok_vitebsk",
+    "telegram": "tikhiy_ugolok_vitebsk",
+    "tgLink": "https://t.me/tikhiy_ugolok_vitebsk",
     "phoneLink": "tel:+375294359174",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%92%D0%B8%D1%82%D0%B5%D0%B1%D1%81%D0%BA%2C%20%D0%90%D0%B3%D1%80%D0%BE%D1%83%D1%81%D0%B0%D0%B4%D1%8C%D0%B1%D0%B0%20%C2%AB%D0%A2%D0%B8%D1%85%D0%B8%D0%B9%20%D0%A3%D0%B3%D0%BE%D0%BB%D0%BE%D0%BA%C2%BB%20%D0%92%D0%B8%D1%82%D0%B5%D0%B1%D1%81%D0%BA%2C%20%D0%BF%D1%80-%D1%82%20%D0%A7%D0%B5%D1%80%D0%BD%D1%8F%D1%85%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%2C%2014"
   },
   {
     "id": 99,
@@ -2665,12 +2763,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+375294348429",
-    "instagram": "__вите",
-    "telegram": "",
-    "tgLink": "https://t.me/+375294348429",
+    "instagram": "relaks_vitebsk",
+    "telegram": "relaks_vitebsk",
+    "tgLink": "https://t.me/relaks_vitebsk",
     "phoneLink": "tel:+375294348429",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%92%D0%B8%D1%82%D0%B5%D0%B1%D1%81%D0%BA%2C%20%D0%A1%D0%B0%D1%83%D0%BD%D0%B0%20%26%20%D0%91%D0%B0%D1%81%D1%81%D0%B5%D0%B9%D0%BD%20%C2%AB%D0%A0%D0%B5%D0%BB%D0%B0%D0%BA%D1%81%C2%BB%20%D0%92%D0%B8%D1%82%D0%B5%D0%B1%D1%81%D0%BA%2C%20%D0%BF%D1%80-%D1%82%20%D0%A4%D1%80%D1%83%D0%BD%D0%B7%D0%B5%2C%2015"
   },
   {
     "id": 100,
@@ -2692,12 +2791,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/_ecoclean_вите",
     "hasRealWebsite": false,
     "phonePrimary": "+375299848202",
-    "instagram": "_ecoclean_вите",
-    "telegram": "_ecoclean_bot",
-    "tgLink": "https://t.me/_ecoclean_bot",
+    "instagram": "ecoclean_vitebsk",
+    "telegram": "ecoclean_vitebsk",
+    "tgLink": "https://t.me/ecoclean_vitebsk",
     "phoneLink": "tel:+375299848202",
     "source": "yandex",
-    "crmStatus": "in_progress"
+    "crmStatus": "in_progress",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%92%D0%B8%D1%82%D0%B5%D0%B1%D1%81%D0%BA%2C%20%D0%A5%D0%B8%D0%BC%D1%87%D0%B8%D1%81%D1%82%D0%BA%D0%B0%20%D0%BC%D0%B5%D0%B1%D0%B5%D0%BB%D0%B8%20%D0%B8%20%D0%BA%D0%BB%D0%B8%D0%BD%D0%B8%D0%BD%D0%B3%20%C2%ABEcoClean%C2%BB%20%D0%92%D0%B8%D1%82%D0%B5%D0%B1%D1%81%D0%BA%2C%20%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D1%80-%D1%82%2C%2016"
   },
   {
     "id": 101,
@@ -2719,12 +2819,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/__вите",
     "hasRealWebsite": false,
     "phonePrimary": "+375297691949",
-    "instagram": "__вите",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "ulybka_vitebsk",
+    "telegram": "ulybka_vitebsk",
+    "tgLink": "https://t.me/ulybka_vitebsk",
     "phoneLink": "tel:+375297691949",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%92%D0%B8%D1%82%D0%B5%D0%B1%D1%81%D0%BA%2C%20%D0%A1%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F%20%C2%AB%D0%A3%D0%BB%D1%8B%D0%B1%D0%BA%D0%B0%C2%BB%20%D0%92%D0%B8%D1%82%D0%B5%D0%B1%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%97%D0%B0%D0%BC%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F%2C%2017"
   },
   {
     "id": 102,
@@ -2746,12 +2847,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/__вите",
     "hasRealWebsite": false,
     "phonePrimary": "+375296362425",
-    "instagram": "__вите",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "balans_vitebsk",
+    "telegram": "balans_vitebsk",
+    "tgLink": "https://t.me/balans_vitebsk",
     "phoneLink": "tel:+375296362425",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%92%D0%B8%D1%82%D0%B5%D0%B1%D1%81%D0%BA%2C%20%D0%A1%D1%82%D1%83%D0%B4%D0%B8%D1%8F%20%D0%BF%D0%B8%D0%BB%D0%B0%D1%82%D0%B5%D1%81%D0%B0%20%C2%AB%D0%91%D0%B0%D0%BB%D0%B0%D0%BD%D1%81%C2%BB%20%D0%92%D0%B8%D1%82%D0%B5%D0%B1%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0%2C%2018"
   },
   {
     "id": 103,
@@ -2773,12 +2875,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+375295548012",
-    "instagram": "_caramel_бара",
-    "telegram": "_caramel_bot",
-    "tgLink": "https://t.me/_caramel_bot",
+    "instagram": "caramel_baranovichi",
+    "telegram": "caramel_baranovichi",
+    "tgLink": "https://t.me/caramel_baranovichi",
     "phoneLink": "tel:+375295548012",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%D0%B8%2C%20%D0%9A%D0%BE%D1%84%D0%B5%20%26%20%D0%94%D0%B5%D1%81%D0%B5%D1%80%D1%82%D1%8B%20%C2%ABCaramel%C2%BB%20%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%D0%B8%2C%20%D1%83%D0%BB.%20%D0%91%D1%80%D0%B5%D1%81%D1%82%D1%81%D0%BA%D0%B0%D1%8F%2C%2019"
   },
   {
     "id": 104,
@@ -2800,12 +2903,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/_craftmeat_бара",
     "hasRealWebsite": false,
     "phonePrimary": "+375299723806",
-    "instagram": "_craftmeat_бара",
-    "telegram": "_craftmeat_bot",
-    "tgLink": "https://t.me/_craftmeat_bot",
+    "instagram": "craft_meat_baranovichi",
+    "telegram": "craft_meat_baranovichi",
+    "tgLink": "https://t.me/craft_meat_baranovichi",
     "phoneLink": "tel:+375299723806",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%D0%B8%2C%20%D0%93%D1%80%D0%B8%D0%BB%D1%8C%20%26%20%D0%91%D1%83%D1%80%D0%B3%D0%B5%D1%80%D1%8B%20%C2%ABCraft%20Meat%C2%BB%20%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%D0%B8%2C%20%D1%83%D0%BB.%20%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F%2C%2020"
   },
   {
     "id": 105,
@@ -2827,12 +2931,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/_prestigefood_бара",
     "hasRealWebsite": false,
     "phonePrimary": "+375296547964",
-    "instagram": "_prestigefood_бара",
-    "telegram": "_prestigefood_bot",
-    "tgLink": "https://t.me/_prestigefood_bot",
+    "instagram": "prestige_food_baranovichi",
+    "telegram": "prestige_food_baranovichi",
+    "tgLink": "https://t.me/prestige_food_baranovichi",
     "phoneLink": "tel:+375296547964",
     "source": "2gis",
-    "crmStatus": "contacted"
+    "crmStatus": "contacted",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%D0%B8%2C%20%D0%9A%D0%B5%D0%B9%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%81%D0%BB%D1%83%D0%B6%D0%B1%D0%B0%20%C2%ABPrestige%20Food%C2%BB%20%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%D0%B8%2C%20%D1%83%D0%BB.%20%D0%9A%D0%BE%D0%BC%D1%81%D0%BE%D0%BC%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F%2C%2021"
   },
   {
     "id": 106,
@@ -2854,12 +2959,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/_blackbeard_бара",
     "hasRealWebsite": false,
     "phonePrimary": "+375294968083",
-    "instagram": "_blackbeard_бара",
-    "telegram": "_blackbeard_bot",
-    "tgLink": "https://t.me/_blackbeard_bot",
+    "instagram": "black_beard_baranovichi",
+    "telegram": "black_beard_baranovichi",
+    "tgLink": "https://t.me/black_beard_baranovichi",
     "phoneLink": "tel:+375294968083",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%D0%B8%2C%20%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%20%C2%ABBlack%20Beard%C2%BB%20%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%D0%B8%2C%20%D1%83%D0%BB.%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0%2C%2022"
   },
   {
     "id": 107,
@@ -2881,12 +2987,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+375292463493",
-    "instagram": "_glossynails_бара",
-    "telegram": "",
-    "tgLink": "https://t.me/+375292463493",
+    "instagram": "glossy_nails_baranovichi",
+    "telegram": "glossy_nails_baranovichi",
+    "tgLink": "https://t.me/glossy_nails_baranovichi",
     "phoneLink": "tel:+375292463493",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%D0%B8%2C%20%D0%A1%D1%82%D1%83%D0%B4%D0%B8%D1%8F%20%D0%BA%D1%80%D0%B0%D1%81%D0%BE%D1%82%D1%8B%20%C2%ABGlossy%20Nails%C2%BB%20%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%D0%B8%2C%20%D1%83%D0%BB.%20%D0%91%D1%80%D0%B5%D1%81%D1%82%D1%81%D0%BA%D0%B0%D1%8F%2C%2023"
   },
   {
     "id": 108,
@@ -2908,12 +3015,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/_secretroom_бара",
     "hasRealWebsite": false,
     "phonePrimary": "+375294393048",
-    "instagram": "_secretroom_бара",
-    "telegram": "_secretroom_bot",
-    "tgLink": "https://t.me/_secretroom_bot",
+    "instagram": "secret_room_baranovichi",
+    "telegram": "secret_room_baranovichi",
+    "tgLink": "https://t.me/secret_room_baranovichi",
     "phoneLink": "tel:+375294393048",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%D0%B8%2C%20%D0%9F%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE%20%D0%BA%D1%80%D0%B0%D1%81%D0%BE%D1%82%D1%8B%20%C2%ABSecret%20Room%C2%BB%20%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%D0%B8%2C%20%D1%83%D0%BB.%20%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F%2C%2024"
   },
   {
     "id": 109,
@@ -2935,12 +3043,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/_blackedition_бара",
     "hasRealWebsite": false,
     "phonePrimary": "+375292133571",
-    "instagram": "_blackedition_бара",
-    "telegram": "_blackedition_bot",
-    "tgLink": "https://t.me/_blackedition_bot",
+    "instagram": "black_edition_baranovichi",
+    "telegram": "black_edition_baranovichi",
+    "tgLink": "https://t.me/black_edition_baranovichi",
     "phoneLink": "tel:+375292133571",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%D0%B8%2C%20%D0%A1%D1%82%D1%83%D0%B4%D0%B8%D1%8F%20%D0%B0%D0%B2%D1%82%D0%BE%D1%81%D1%82%D0%B0%D0%B9%D0%BB%D0%B8%D0%BD%D0%B3%D0%B0%20%C2%ABBlack%20Edition%C2%BB%20%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%D0%B8%2C%20%D1%83%D0%BB.%20%D0%9A%D0%BE%D0%BC%D1%81%D0%BE%D0%BC%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F%2C%2025"
   },
   {
     "id": 110,
@@ -2962,12 +3071,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/_aquaclean_бара",
     "hasRealWebsite": false,
     "phonePrimary": "+375291463132",
-    "instagram": "_aquaclean_бара",
-    "telegram": "",
-    "tgLink": "https://t.me/+375291463132",
+    "instagram": "aqua_clean_baranovichi",
+    "telegram": "aqua_clean_baranovichi",
+    "tgLink": "https://t.me/aqua_clean_baranovichi",
     "phoneLink": "tel:+375291463132",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%D0%B8%2C%20%D0%9C%D0%BE%D0%B9%D0%BA%D0%B0%20%D1%81%D0%B0%D0%BC%D0%BE%D0%BE%D0%B1%D1%81%D0%BB%D1%83%D0%B6%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%C2%ABAqua%20Clean%C2%BB%20%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%D0%B8%2C%20%D1%83%D0%BB.%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0%2C%2026"
   },
   {
     "id": 111,
@@ -2989,12 +3099,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+375292965666",
-    "instagram": "__бара",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "avtoekspert_baranovichi",
+    "telegram": "avtoekspert_baranovichi",
+    "tgLink": "https://t.me/avtoekspert_baranovichi",
     "phoneLink": "tel:+375292965666",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%D0%B8%2C%20%D0%A2%D0%B5%D1%85%D1%86%D0%B5%D0%BD%D1%82%D1%80%20%C2%AB%D0%90%D0%B2%D1%82%D0%BE%D0%AD%D0%BA%D1%81%D0%BF%D0%B5%D1%80%D1%82%C2%BB%20%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%D0%B8%2C%20%D1%83%D0%BB.%20%D0%91%D1%80%D0%B5%D1%81%D1%82%D1%81%D0%BA%D0%B0%D1%8F%2C%2027"
   },
   {
     "id": 112,
@@ -3016,12 +3127,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/__бара",
     "hasRealWebsite": false,
     "phonePrimary": "+375292907232",
-    "instagram": "__бара",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "master_vud_baranovichi",
+    "telegram": "master_vud_baranovichi",
+    "tgLink": "https://t.me/master_vud_baranovichi",
     "phoneLink": "tel:+375292907232",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%D0%B8%2C%20%D0%9A%D0%BE%D1%80%D0%BF%D1%83%D1%81%D0%BD%D0%B0%D1%8F%20%D0%BC%D0%B5%D0%B1%D0%B5%D0%BB%D1%8C%20%C2%AB%D0%9C%D0%B0%D1%81%D1%82%D0%B5%D1%80%20%D0%92%D1%83%D0%B4%C2%BB%20%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%D0%B8%2C%20%D1%83%D0%BB.%20%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F%2C%2028"
   },
   {
     "id": 113,
@@ -3043,12 +3155,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/__бара",
     "hasRealWebsite": false,
     "phonePrimary": "+375298970891",
-    "instagram": "__бара",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "profi_stroy_baranovichi",
+    "telegram": "profi_stroy_baranovichi",
+    "tgLink": "https://t.me/profi_stroy_baranovichi",
     "phoneLink": "tel:+375298970891",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%D0%B8%2C%20%D0%95%D0%B2%D1%80%D0%BE%D1%80%D0%B5%D0%BC%D0%BE%D0%BD%D1%82%20%C2%AB%D0%9F%D1%80%D0%BE%D1%84%D0%B8%20%D0%A1%D1%82%D1%80%D0%BE%D0%B9%C2%BB%20%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%D0%B8%2C%20%D1%83%D0%BB.%20%D0%9A%D0%BE%D0%BC%D1%81%D0%BE%D0%BC%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F%2C%2029"
   },
   {
     "id": 114,
@@ -3070,12 +3183,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/_skyline_бара",
     "hasRealWebsite": false,
     "phonePrimary": "+375297395961",
-    "instagram": "_skyline_бара",
-    "telegram": "_skyline_bot",
-    "tgLink": "https://t.me/_skyline_bot",
+    "instagram": "sky_line_baranovichi",
+    "telegram": "sky_line_baranovichi",
+    "tgLink": "https://t.me/sky_line_baranovichi",
     "phoneLink": "tel:+375297395961",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%D0%B8%2C%20%D0%9F%D0%BE%D1%82%D0%BE%D0%BB%D0%BE%D1%87%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B%20%C2%ABSky%20Line%C2%BB%20%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%D0%B8%2C%20%D1%83%D0%BB.%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0%2C%2030"
   },
   {
     "id": 115,
@@ -3097,12 +3211,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+375298268232",
-    "instagram": "__бара",
-    "telegram": "",
-    "tgLink": "https://t.me/+375298268232",
+    "instagram": "khutorok_baranovichi",
+    "telegram": "khutorok_baranovichi",
+    "tgLink": "https://t.me/khutorok_baranovichi",
     "phoneLink": "tel:+375298268232",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%D0%B8%2C%20%D0%97%D0%B0%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%20%C2%AB%D0%A5%D1%83%D1%82%D0%BE%D1%80%D0%BE%D0%BA%C2%BB%20%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%D0%B8%2C%20%D1%83%D0%BB.%20%D0%91%D1%80%D0%B5%D1%81%D1%82%D1%81%D0%BA%D0%B0%D1%8F%2C%2031"
   },
   {
     "id": 116,
@@ -3124,12 +3239,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/__бара",
     "hasRealWebsite": false,
     "phonePrimary": "+375297889548",
-    "instagram": "__бара",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "dubrava_baranovichi",
+    "telegram": "dubrava_baranovichi",
+    "tgLink": "https://t.me/dubrava_baranovichi",
     "phoneLink": "tel:+375297889548",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%D0%B8%2C%20%D0%91%D0%B0%D0%BD%D1%8F%20%D1%81%20%D0%BA%D1%83%D0%BF%D0%B5%D0%BB%D1%8C%D1%8E%20%C2%AB%D0%94%D1%83%D0%B1%D1%80%D0%B0%D0%B2%D0%B0%C2%BB%20%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%D0%B8%2C%20%D1%83%D0%BB.%20%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F%2C%2032"
   },
   {
     "id": 117,
@@ -3151,12 +3267,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/__бара",
     "hasRealWebsite": false,
     "phonePrimary": "+375293319565",
-    "instagram": "__бара",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "myata_baranovichi",
+    "telegram": "myata_baranovichi",
+    "tgLink": "https://t.me/myata_baranovichi",
     "phoneLink": "tel:+375293319565",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%D0%B8%2C%20%D0%9A%D0%BB%D0%B8%D0%BD%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F%20%C2%AB%D0%9C%D1%8F%D1%82%D0%B0%C2%BB%20%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%D0%B8%2C%20%D1%83%D0%BB.%20%D0%9A%D0%BE%D0%BC%D1%81%D0%BE%D0%BC%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F%2C%2033"
   },
   {
     "id": 118,
@@ -3178,12 +3295,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/__бара",
     "hasRealWebsite": false,
     "phonePrimary": "+375298328003",
-    "instagram": "__бара",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "denta_pro_baranovichi",
+    "telegram": "denta_pro_baranovichi",
+    "tgLink": "https://t.me/denta_pro_baranovichi",
     "phoneLink": "tel:+375298328003",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%D0%B8%2C%20%D0%A1%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D1%86%D0%B5%D0%BD%D1%82%D1%80%20%C2%AB%D0%94%D0%B5%D0%BD%D1%82%D0%B0%20%D0%9F%D1%80%D0%BE%C2%BB%20%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%D0%B8%2C%20%D1%83%D0%BB.%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0%2C%2034"
   },
   {
     "id": 119,
@@ -3205,12 +3323,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+375299494805",
-    "instagram": "_fitlady_бара",
-    "telegram": "",
-    "tgLink": "https://t.me/+375299494805",
+    "instagram": "fit_lady_baranovichi",
+    "telegram": "fit_lady_baranovichi",
+    "tgLink": "https://t.me/fit_lady_baranovichi",
     "phoneLink": "tel:+375299494805",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%D0%B8%2C%20%D0%96%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D1%84%D0%B8%D1%82%D0%BD%D0%B5%D1%81%20%C2%ABFit%20Lady%C2%BB%20%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%D0%B8%2C%20%D1%83%D0%BB.%20%D0%91%D1%80%D0%B5%D1%81%D1%82%D1%81%D0%BA%D0%B0%D1%8F%2C%2035"
   },
   {
     "id": 120,
@@ -3232,12 +3351,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/__бобр",
     "hasRealWebsite": false,
     "phonePrimary": "+375291510146",
-    "instagram": "__бобр",
-    "telegram": "",
-    "tgLink": "https://t.me/+375291510146",
+    "instagram": "zyorna_bobruysk",
+    "telegram": "zyorna_bobruysk",
+    "tgLink": "https://t.me/zyorna_bobruysk",
     "phoneLink": "tel:+375291510146",
     "source": "yandex",
-    "crmStatus": "contacted"
+    "crmStatus": "contacted",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D0%BE%D0%B1%D1%80%D1%83%D0%B9%D1%81%D0%BA%2C%20%D0%9A%D0%BE%D1%84%D0%B5%D0%B9%D0%BD%D1%8F%20%C2%AB%D0%97%D1%91%D1%80%D0%BD%D0%B0%C2%BB%20%D0%91%D0%BE%D0%B1%D1%80%D1%83%D0%B9%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%A1%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%2C%2036"
   },
   {
     "id": 121,
@@ -3259,12 +3379,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/__бобр",
     "hasRealWebsite": false,
     "phonePrimary": "+375294977181",
-    "instagram": "__бобр",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "myaso_na_uglyakh_bobruysk",
+    "telegram": "myaso_na_uglyakh_bobruysk",
+    "tgLink": "https://t.me/myaso_na_uglyakh_bobruysk",
     "phoneLink": "tel:+375294977181",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D0%BE%D0%B1%D1%80%D1%83%D0%B9%D1%81%D0%BA%2C%20%D0%94%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B0%20%D1%88%D0%B0%D1%88%D0%BB%D1%8B%D0%BA%D0%B0%20%C2%AB%D0%9C%D1%8F%D1%81%D0%BE%20%D0%BD%D0%B0%20%D0%A3%D0%B3%D0%BB%D1%8F%D1%85%C2%BB%20%D0%91%D0%BE%D0%B1%D1%80%D1%83%D0%B9%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%2C%2037"
   },
   {
     "id": 122,
@@ -3286,12 +3407,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/_furshettime_бобр",
     "hasRealWebsite": false,
     "phonePrimary": "+375297788165",
-    "instagram": "_furshettime_бобр",
-    "telegram": "_furshettime_bot",
-    "tgLink": "https://t.me/_furshettime_bot",
+    "instagram": "furshet_time_bobruysk",
+    "telegram": "furshet_time_bobruysk",
+    "tgLink": "https://t.me/furshet_time_bobruysk",
     "phoneLink": "tel:+375297788165",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D0%BE%D0%B1%D1%80%D1%83%D0%B9%D1%81%D0%BA%2C%20%D0%93%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B1%D0%BE%D0%BA%D1%81%D1%8B%20%26%20%D0%9A%D0%B5%D0%B9%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B3%20%C2%ABFurshet%20Time%C2%BB%20%D0%91%D0%BE%D0%B1%D1%80%D1%83%D0%B9%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F%2C%2038"
   },
   {
     "id": 123,
@@ -3313,12 +3435,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+375293025771",
-    "instagram": "_topgunbarber_бобр",
-    "telegram": "",
-    "tgLink": "https://t.me/+375293025771",
+    "instagram": "topgun_barber_bobruysk",
+    "telegram": "topgun_barber_bobruysk",
+    "tgLink": "https://t.me/topgun_barber_bobruysk",
     "phoneLink": "tel:+375293025771",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D0%BE%D0%B1%D1%80%D1%83%D0%B9%D1%81%D0%BA%2C%20%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%20%C2%ABTopGun%20Barber%C2%BB%20%D0%91%D0%BE%D0%B1%D1%80%D1%83%D0%B9%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%2C%2039"
   },
   {
     "id": 124,
@@ -3340,12 +3463,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/_french_бобр",
     "hasRealWebsite": false,
     "phonePrimary": "+375297274639",
-    "instagram": "_french_бобр",
-    "telegram": "_french_bot",
-    "tgLink": "https://t.me/_french_bot",
+    "instagram": "french_bobruysk",
+    "telegram": "french_bobruysk",
+    "tgLink": "https://t.me/french_bobruysk",
     "phoneLink": "tel:+375297274639",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D0%BE%D0%B1%D1%80%D1%83%D0%B9%D1%81%D0%BA%2C%20%D0%A1%D1%82%D1%83%D0%B4%D0%B8%D1%8F%20%D0%BD%D0%BE%D0%B3%D1%82%D0%B5%D0%B2%D0%BE%D0%B3%D0%BE%20%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D0%B0%20%C2%ABFrench%C2%BB%20%D0%91%D0%BE%D0%B1%D1%80%D1%83%D0%B9%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%A1%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%2C%2040"
   },
   {
     "id": 125,
@@ -3367,12 +3491,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/__бобр",
     "hasRealWebsite": false,
     "phonePrimary": "+375298406049",
-    "instagram": "__бобр",
-    "telegram": "",
-    "tgLink": "https://t.me/+375298406049",
+    "instagram": "obraz_bobruysk",
+    "telegram": "obraz_bobruysk",
+    "tgLink": "https://t.me/obraz_bobruysk",
     "phoneLink": "tel:+375298406049",
     "source": "2gis",
-    "crmStatus": "in_progress"
+    "crmStatus": "in_progress",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D0%BE%D0%B1%D1%80%D1%83%D0%B9%D1%81%D0%BA%2C%20%D0%A1%D1%82%D1%83%D0%B4%D0%B8%D1%8F%20%D1%81%D1%82%D0%B8%D0%BB%D1%8F%20%C2%AB%D0%9E%D0%B1%D1%80%D0%B0%D0%B7%C2%BB%20%D0%91%D0%BE%D0%B1%D1%80%D1%83%D0%B9%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%2C%2041"
   },
   {
     "id": 126,
@@ -3394,12 +3519,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/_shinegarage_бобр",
     "hasRealWebsite": false,
     "phonePrimary": "+375296763964",
-    "instagram": "_shinegarage_бобр",
-    "telegram": "_shinegarage_bot",
-    "tgLink": "https://t.me/_shinegarage_bot",
+    "instagram": "shine_garage_bobruysk",
+    "telegram": "shine_garage_bobruysk",
+    "tgLink": "https://t.me/shine_garage_bobruysk",
     "phoneLink": "tel:+375296763964",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D0%BE%D0%B1%D1%80%D1%83%D0%B9%D1%81%D0%BA%2C%20%D0%9F%D0%BE%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0%20%D0%B8%20%D0%BA%D0%B5%D1%80%D0%B0%D0%BC%D0%B8%D0%BA%D0%B0%20%C2%ABShine%20Garage%C2%BB%20%D0%91%D0%BE%D0%B1%D1%80%D1%83%D0%B9%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F%2C%2042"
   },
   {
     "id": 127,
@@ -3421,12 +3547,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+375293724327",
-    "instagram": "__бобр",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "chistyy_stil_bobruysk",
+    "telegram": "chistyy_stil_bobruysk",
+    "tgLink": "https://t.me/chistyy_stil_bobruysk",
     "phoneLink": "tel:+375293724327",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D0%BE%D0%B1%D1%80%D1%83%D0%B9%D1%81%D0%BA%2C%20%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B9%D0%BA%D0%B0%20%C2%AB%D0%A7%D0%B8%D1%81%D1%82%D1%8B%D0%B9%20%D0%A1%D1%82%D0%B8%D0%BB%D1%8C%C2%BB%20%D0%91%D0%BE%D0%B1%D1%80%D1%83%D0%B9%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%2C%2043"
   },
   {
     "id": 128,
@@ -3448,12 +3575,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/__бобр",
     "hasRealWebsite": false,
     "phonePrimary": "+375292221549",
-    "instagram": "__бобр",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "master_avto_bobruysk",
+    "telegram": "master_avto_bobruysk",
+    "tgLink": "https://t.me/master_avto_bobruysk",
     "phoneLink": "tel:+375292221549",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D0%BE%D0%B1%D1%80%D1%83%D0%B9%D1%81%D0%BA%2C%20%D0%90%D0%B2%D1%82%D0%BE%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%20%C2%AB%D0%9C%D0%B0%D1%81%D1%82%D0%B5%D1%80-%D0%90%D0%B2%D1%82%D0%BE%C2%BB%20%D0%91%D0%BE%D0%B1%D1%80%D1%83%D0%B9%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%A1%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%2C%2044"
   },
   {
     "id": 129,
@@ -3475,12 +3603,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/_artdesign_бобр",
     "hasRealWebsite": false,
     "phonePrimary": "+375296696233",
-    "instagram": "_artdesign_бобр",
-    "telegram": "_artdesign_bot",
-    "tgLink": "https://t.me/_artdesign_bot",
+    "instagram": "art_design_bobruysk",
+    "telegram": "art_design_bobruysk",
+    "tgLink": "https://t.me/art_design_bobruysk",
     "phoneLink": "tel:+375296696233",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D0%BE%D0%B1%D1%80%D1%83%D0%B9%D1%81%D0%BA%2C%20%D0%A8%D0%BA%D0%B0%D1%84%D1%8B-%D0%BA%D1%83%D0%BF%D0%B5%20%D0%B8%20%D0%BA%D1%83%D1%85%D0%BD%D0%B8%20%C2%ABArt%20Design%C2%BB%20%D0%91%D0%BE%D0%B1%D1%80%D1%83%D0%B9%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%2C%2045"
   },
   {
     "id": 130,
@@ -3502,12 +3631,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/__бобр",
     "hasRealWebsite": false,
     "phonePrimary": "+375292842793",
-    "instagram": "__бобр",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "stroy_brigada_bobruysk",
+    "telegram": "stroy_brigada_bobruysk",
+    "tgLink": "https://t.me/stroy_brigada_bobruysk",
     "phoneLink": "tel:+375292842793",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D0%BE%D0%B1%D1%80%D1%83%D0%B9%D1%81%D0%BA%2C%20%D0%A0%D0%B5%D0%BC%D0%BE%D0%BD%D1%82%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%20%C2%AB%D0%A1%D1%82%D1%80%D0%BE%D0%B9%20%D0%91%D1%80%D0%B8%D0%B3%D0%B0%D0%B4%D0%B0%C2%BB%20%D0%91%D0%BE%D0%B1%D1%80%D1%83%D0%B9%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F%2C%2046"
   },
   {
     "id": 131,
@@ -3529,12 +3659,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+375297391387",
-    "instagram": "__бобр",
-    "telegram": "",
-    "tgLink": "https://t.me/+375297391387",
+    "instagram": "glyanets_bobruysk",
+    "telegram": "glyanets_bobruysk",
+    "tgLink": "https://t.me/glyanets_bobruysk",
     "phoneLink": "tel:+375297391387",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D0%BE%D0%B1%D1%80%D1%83%D0%B9%D1%81%D0%BA%2C%20%D0%9F%D0%BE%D1%82%D0%BE%D0%BB%D0%BA%D0%B8%20%D0%BF%D0%BE%D0%B4%20%D0%BA%D0%BB%D1%8E%D1%87%20%C2%AB%D0%93%D0%BB%D1%8F%D0%BD%D0%B5%D1%86%C2%BB%20%D0%91%D0%BE%D0%B1%D1%80%D1%83%D0%B9%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%2C%2047"
   },
   {
     "id": 132,
@@ -3556,12 +3687,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/__бобр",
     "hasRealWebsite": false,
     "phonePrimary": "+375293998081",
-    "instagram": "__бобр",
-    "telegram": "",
-    "tgLink": "https://t.me/+375293998081",
+    "instagram": "sosnovyy_bor_bobruysk",
+    "telegram": "sosnovyy_bor_bobruysk",
+    "tgLink": "https://t.me/sosnovyy_bor_bobruysk",
     "phoneLink": "tel:+375293998081",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D0%BE%D0%B1%D1%80%D1%83%D0%B9%D1%81%D0%BA%2C%20%D0%93%D0%BE%D1%81%D1%82%D0%B5%D0%B2%D0%BE%D0%B9%20%D0%B4%D0%BE%D0%BC%20%C2%AB%D0%A1%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%91%D0%BE%D1%80%C2%BB%20%D0%91%D0%BE%D0%B1%D1%80%D1%83%D0%B9%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%A1%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%2C%2048"
   },
   {
     "id": 133,
@@ -3583,12 +3715,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/__бобр",
     "hasRealWebsite": false,
     "phonePrimary": "+375299087464",
-    "instagram": "__бобр",
-    "telegram": "",
-    "tgLink": "https://t.me/+375299087464",
+    "instagram": "parnoy_dvorik_bobruysk",
+    "telegram": "parnoy_dvorik_bobruysk",
+    "tgLink": "https://t.me/parnoy_dvorik_bobruysk",
     "phoneLink": "tel:+375299087464",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D0%BE%D0%B1%D1%80%D1%83%D0%B9%D1%81%D0%BA%2C%20%D0%91%D0%B0%D0%BD%D1%8F%20%D0%BD%D0%B0%20%D0%B4%D1%80%D0%BE%D0%B2%D0%B0%D1%85%20%C2%AB%D0%9F%D0%B0%D1%80%D0%BD%D0%BE%D0%B9%20%D0%94%D0%B2%D0%BE%D1%80%D0%B8%D0%BA%C2%BB%20%D0%91%D0%BE%D0%B1%D1%80%D1%83%D0%B9%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%2C%2049"
   },
   {
     "id": 134,
@@ -3610,12 +3743,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/__бобр",
     "hasRealWebsite": false,
     "phonePrimary": "+375298958845",
-    "instagram": "__бобр",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "chistyy_dom_bobruysk",
+    "telegram": "chistyy_dom_bobruysk",
+    "tgLink": "https://t.me/chistyy_dom_bobruysk",
     "phoneLink": "tel:+375298958845",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D0%BE%D0%B1%D1%80%D1%83%D0%B9%D1%81%D0%BA%2C%20%D0%9A%D0%BB%D0%B8%D0%BD%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%81%D0%BB%D1%83%D0%B6%D0%B1%D0%B0%20%C2%AB%D0%A7%D0%B8%D1%81%D1%82%D1%8B%D0%B9%20%D0%94%D0%BE%D0%BC%C2%BB%20%D0%91%D0%BE%D0%B1%D1%80%D1%83%D0%B9%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F%2C%2050"
   },
   {
     "id": 135,
@@ -3637,12 +3771,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+375299768092",
-    "instagram": "__бобр",
-    "telegram": "",
-    "tgLink": "https://t.me/+375299768092",
+    "instagram": "belyy_zhemchug_bobruysk",
+    "telegram": "belyy_zhemchug_bobruysk",
+    "tgLink": "https://t.me/belyy_zhemchug_bobruysk",
     "phoneLink": "tel:+375299768092",
     "source": "2gis",
-    "crmStatus": "contacted"
+    "crmStatus": "contacted",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D0%BE%D0%B1%D1%80%D1%83%D0%B9%D1%81%D0%BA%2C%20%D0%A1%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B0%D0%B1%D0%B8%D0%BD%D0%B5%D1%82%20%C2%AB%D0%91%D0%B5%D0%BB%D1%8B%D0%B9%20%D0%96%D0%B5%D0%BC%D1%87%D1%83%D0%B3%C2%BB%20%D0%91%D0%BE%D0%B1%D1%80%D1%83%D0%B9%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%2C%2051"
   },
   {
     "id": 136,
@@ -3664,12 +3799,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/_airyoga_бобр",
     "hasRealWebsite": false,
     "phonePrimary": "+375292542257",
-    "instagram": "_airyoga_бобр",
-    "telegram": "",
-    "tgLink": "https://t.me/+375292542257",
+    "instagram": "air_yoga_bobruysk",
+    "telegram": "air_yoga_bobruysk",
+    "tgLink": "https://t.me/air_yoga_bobruysk",
     "phoneLink": "tel:+375292542257",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D0%BE%D0%B1%D1%80%D1%83%D0%B9%D1%81%D0%BA%2C%20%D0%A1%D1%82%D1%83%D0%B4%D0%B8%D1%8F%20%D1%81%D1%82%D1%80%D0%B5%D1%82%D1%87%D0%B8%D0%BD%D0%B3%D0%B0%20%D0%B8%20%D0%B9%D0%BE%D0%B3%D0%B8%20%C2%ABAir%20Yoga%C2%BB%20%D0%91%D0%BE%D0%B1%D1%80%D1%83%D0%B9%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%A1%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%2C%2052"
   },
   {
     "id": 137,
@@ -3691,12 +3827,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/_storiescoffee_бори",
     "hasRealWebsite": false,
     "phonePrimary": "+375296864082",
-    "instagram": "_storiescoffee_бори",
-    "telegram": "",
-    "tgLink": "https://t.me/+375296864082",
+    "instagram": "stories_coffee_borisov",
+    "telegram": "stories_coffee_borisov",
+    "tgLink": "https://t.me/stories_coffee_borisov",
     "phoneLink": "tel:+375296864082",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B2%2C%20%D0%9A%D0%BE%D1%84%D0%B5-%D0%B1%D0%B0%D1%80%20%C2%ABStories%20Coffee%C2%BB%20%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B2%2C%20%D1%83%D0%BB.%20%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0%2C%2053"
   },
   {
     "id": 138,
@@ -3718,12 +3855,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/_wok__бори",
     "hasRealWebsite": false,
     "phonePrimary": "+375291683367",
-    "instagram": "_wok__бори",
-    "telegram": "_wok__bot",
-    "tgLink": "https://t.me/_wok__bot",
+    "instagram": "sakura_ekspress_borisov",
+    "telegram": "sakura_ekspress_borisov",
+    "tgLink": "https://t.me/sakura_ekspress_borisov",
     "phoneLink": "tel:+375291683367",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B2%2C%20%D0%A1%D1%83%D1%88%D0%B8%20%26%20Wok%20%C2%AB%D0%A1%D0%B0%D0%BA%D1%83%D1%80%D0%B0%20%D0%AD%D0%BA%D1%81%D0%BF%D1%80%D0%B5%D1%81%D1%81%C2%BB%20%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B2%2C%20%D1%83%D0%BB.%20%D0%A7%D0%B0%D0%BF%D0%B0%D0%B5%D0%B2%D0%B0%2C%2054"
   },
   {
     "id": 139,
@@ -3745,12 +3883,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+375296350867",
-    "instagram": "_smartbuffet_бори",
-    "telegram": "_smartbuffet_bot",
-    "tgLink": "https://t.me/_smartbuffet_bot",
+    "instagram": "smart_buffet_borisov",
+    "telegram": "smart_buffet_borisov",
+    "tgLink": "https://t.me/smart_buffet_borisov",
     "phoneLink": "tel:+375296350867",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B2%2C%20%D0%9A%D0%B5%D0%B9%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B3%20%C2%ABSmart%20Buffet%C2%BB%20%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B2%2C%20%D1%83%D0%BB.%2030%20%D0%BB%D0%B5%D1%82%20%D0%92%D0%9B%D0%9A%D0%A1%D0%9C%2C%2055"
   },
   {
     "id": 140,
@@ -3772,12 +3911,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/_oldschool_бори",
     "hasRealWebsite": false,
     "phonePrimary": "+375298283059",
-    "instagram": "_oldschool_бори",
-    "telegram": "",
-    "tgLink": "https://t.me/+375298283059",
+    "instagram": "old_school_borisov",
+    "telegram": "old_school_borisov",
+    "tgLink": "https://t.me/old_school_borisov",
     "phoneLink": "tel:+375298283059",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B2%2C%20%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80-%D1%81%D1%82%D1%83%D0%B4%D0%B8%D1%8F%20%C2%ABOld%20School%C2%BB%20%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B2%2C%20%D0%BF%D1%80-%D1%82%20%D0%A0%D0%B5%D0%B2%D0%BE%D0%BB%D1%8E%D1%86%D0%B8%D0%B8%2C%2056"
   },
   {
     "id": 141,
@@ -3799,12 +3939,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/_beautybar_бори",
     "hasRealWebsite": false,
     "phonePrimary": "+375298128388",
-    "instagram": "_beautybar_бори",
-    "telegram": "",
-    "tgLink": "https://t.me/+375298128388",
+    "instagram": "beauty_bar_borisov",
+    "telegram": "beauty_bar_borisov",
+    "tgLink": "https://t.me/beauty_bar_borisov",
     "phoneLink": "tel:+375298128388",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B2%2C%20%D0%9C%D0%B0%D0%BD%D0%B8%D0%BA%D1%8E%D1%80%20%26%20%D0%9F%D0%B5%D0%B4%D0%B8%D0%BA%D1%8E%D1%80%20%C2%ABBeauty%20Bar%C2%BB%20%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B2%2C%20%D1%83%D0%BB.%20%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0%2C%2057"
   },
   {
     "id": 142,
@@ -3826,12 +3967,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/__бори",
     "hasRealWebsite": false,
     "phonePrimary": "+375293558305",
-    "instagram": "__бори",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "persona_borisov",
+    "telegram": "persona_borisov",
+    "tgLink": "https://t.me/persona_borisov",
     "phoneLink": "tel:+375293558305",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B2%2C%20%D0%A1%D0%B0%D0%BB%D0%BE%D0%BD%20%D0%BA%D1%80%D0%B0%D1%81%D0%BE%D1%82%D1%8B%20%C2%AB%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%C2%BB%20%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B2%2C%20%D1%83%D0%BB.%20%D0%A7%D0%B0%D0%BF%D0%B0%D0%B5%D0%B2%D0%B0%2C%2058"
   },
   {
     "id": 143,
@@ -3853,12 +3995,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+375299905073",
-    "instagram": "_primeauto_бори",
-    "telegram": "_primeauto_bot",
-    "tgLink": "https://t.me/_primeauto_bot",
+    "instagram": "prime_auto_borisov",
+    "telegram": "prime_auto_borisov",
+    "tgLink": "https://t.me/prime_auto_borisov",
     "phoneLink": "tel:+375299905073",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B2%2C%20%D0%94%D0%B5%D1%82%D0%B5%D0%B9%D0%BB%D0%B8%D0%BD%D0%B3%20%C2%ABPrime%20Auto%C2%BB%20%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B2%2C%20%D1%83%D0%BB.%2030%20%D0%BB%D0%B5%D1%82%20%D0%92%D0%9B%D0%9A%D0%A1%D0%9C%2C%2059"
   },
   {
     "id": 144,
@@ -3880,12 +4023,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/_h2o__бори",
     "hasRealWebsite": false,
     "phonePrimary": "+375292088972",
-    "instagram": "_h2o__бори",
-    "telegram": "_h2o__bot",
-    "tgLink": "https://t.me/_h2o__bot",
+    "instagram": "h2o_ekspress_borisov",
+    "telegram": "h2o_ekspress_borisov",
+    "tgLink": "https://t.me/h2o_ekspress_borisov",
     "phoneLink": "tel:+375292088972",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B2%2C%20%D0%9A%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%D0%BD%D0%B0%D1%8F%20%D0%BC%D0%BE%D0%B9%D0%BA%D0%B0%20%C2%ABH2O%20%D0%AD%D0%BA%D1%81%D0%BF%D1%80%D0%B5%D1%81%D1%81%C2%BB%20%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B2%2C%20%D0%BF%D1%80-%D1%82%20%D0%A0%D0%B5%D0%B2%D0%BE%D0%BB%D1%8E%D1%86%D0%B8%D0%B8%2C%2060"
   },
   {
     "id": 145,
@@ -3907,12 +4051,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/__бори",
     "hasRealWebsite": false,
     "phonePrimary": "+375297688492",
-    "instagram": "__бори",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "dizel_motors_borisov",
+    "telegram": "dizel_motors_borisov",
+    "tgLink": "https://t.me/dizel_motors_borisov",
     "phoneLink": "tel:+375297688492",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B2%2C%20%D0%A1%D0%A2%D0%9E%20%C2%AB%D0%94%D0%B8%D0%B7%D0%B5%D0%BB%D1%8C%20%D0%9C%D0%BE%D1%82%D0%BE%D1%80%D1%81%C2%BB%20%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B2%2C%20%D1%83%D0%BB.%20%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0%2C%2061"
   },
   {
     "id": 146,
@@ -3934,12 +4079,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/_comforthome_бори",
     "hasRealWebsite": false,
     "phonePrimary": "+375295452858",
-    "instagram": "_comforthome_бори",
-    "telegram": "_comforthome_bot",
-    "tgLink": "https://t.me/_comforthome_bot",
+    "instagram": "comfort_home_borisov",
+    "telegram": "comfort_home_borisov",
+    "tgLink": "https://t.me/comfort_home_borisov",
     "phoneLink": "tel:+375295452858",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B2%2C%20%D0%9A%D1%83%D1%85%D0%BD%D0%B8%20%D0%BF%D0%BE%D0%B4%20%D0%BA%D0%BB%D1%8E%D1%87%20%C2%ABComfort%20Home%C2%BB%20%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B2%2C%20%D1%83%D0%BB.%20%D0%A7%D0%B0%D0%BF%D0%B0%D0%B5%D0%B2%D0%B0%2C%2062"
   },
   {
     "id": 147,
@@ -3961,12 +4107,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+375294507473",
-    "instagram": "__бори",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "novyy_dom_borisov",
+    "telegram": "novyy_dom_borisov",
+    "tgLink": "https://t.me/novyy_dom_borisov",
     "phoneLink": "tel:+375294507473",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B2%2C%20%D0%9E%D1%82%D0%B4%D0%B5%D0%BB%D0%BA%D0%B0%20%D0%BF%D0%BE%D0%B4%20%D0%BA%D0%BB%D1%8E%D1%87%20%C2%AB%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%94%D0%BE%D0%BC%C2%BB%20%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B2%2C%20%D1%83%D0%BB.%2030%20%D0%BB%D0%B5%D1%82%20%D0%92%D0%9B%D0%9A%D0%A1%D0%9C%2C%2063"
   },
   {
     "id": 148,
@@ -3988,12 +4135,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/__бори",
     "hasRealWebsite": false,
     "phonePrimary": "+375292015163",
-    "instagram": "__бори",
-    "telegram": "",
-    "tgLink": "https://t.me/+375292015163",
+    "instagram": "prestizh_borisov",
+    "telegram": "prestizh_borisov",
+    "tgLink": "https://t.me/prestizh_borisov",
     "phoneLink": "tel:+375292015163",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B2%2C%20%D0%9D%D0%B0%D1%82%D1%8F%D0%B6%D0%BD%D1%8B%D0%B5%20%D0%BF%D0%BE%D1%82%D0%BE%D0%BB%D0%BA%D0%B8%20%C2%AB%D0%9F%D1%80%D0%B5%D1%81%D1%82%D0%B8%D0%B6%C2%BB%20%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B2%2C%20%D0%BF%D1%80-%D1%82%20%D0%A0%D0%B5%D0%B2%D0%BE%D0%BB%D1%8E%D1%86%D0%B8%D0%B8%2C%2064"
   },
   {
     "id": 149,
@@ -4015,12 +4163,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/__бори",
     "hasRealWebsite": false,
     "phonePrimary": "+375297832992",
-    "instagram": "__бори",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "uyutnaya_zavod_borisov",
+    "telegram": "uyutnaya_zavod_borisov",
+    "tgLink": "https://t.me/uyutnaya_zavod_borisov",
     "phoneLink": "tel:+375297832992",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B2%2C%20%D0%A3%D1%81%D0%B0%D0%B4%D1%8C%D0%B1%D0%B0%20%C2%AB%D0%A3%D1%8E%D1%82%D0%BD%D0%B0%D1%8F%20%D0%97%D0%B0%D0%B2%D0%BE%D0%B4%D1%8C%C2%BB%20%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B2%2C%20%D1%83%D0%BB.%20%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0%2C%2065"
   },
   {
     "id": 150,
@@ -4042,12 +4191,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/__бори",
     "hasRealWebsite": false,
     "phonePrimary": "+375291915884",
-    "instagram": "__бори",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "russkiy_par_borisov",
+    "telegram": "russkiy_par_borisov",
+    "tgLink": "https://t.me/russkiy_par_borisov",
     "phoneLink": "tel:+375291915884",
     "source": "yandex",
-    "crmStatus": "contacted"
+    "crmStatus": "contacted",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B2%2C%20%D0%91%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%20%D1%81%20%D1%87%D0%B0%D0%BD%D0%BE%D0%BC%20%C2%AB%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9%20%D0%9F%D0%B0%D1%80%C2%BB%20%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B2%2C%20%D1%83%D0%BB.%20%D0%A7%D0%B0%D0%BF%D0%B0%D0%B5%D0%B2%D0%B0%2C%2066"
   },
   {
     "id": 151,
@@ -4069,12 +4219,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+375299054912",
-    "instagram": "__бори",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "kristall_borisov",
+    "telegram": "kristall_borisov",
+    "tgLink": "https://t.me/kristall_borisov",
     "phoneLink": "tel:+375299054912",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B2%2C%20%D0%9A%D0%BB%D0%B8%D0%BD%D0%B8%D0%BD%D0%B3%20%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%20%D1%80%D0%B5%D0%BC%D0%BE%D0%BD%D1%82%D0%B0%20%C2%AB%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B0%D0%BB%D0%BB%C2%BB%20%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B2%2C%20%D1%83%D0%BB.%2030%20%D0%BB%D0%B5%D1%82%20%D0%92%D0%9B%D0%9A%D0%A1%D0%9C%2C%2067"
   },
   {
     "id": 152,
@@ -4096,12 +4247,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/_dentart_бори",
     "hasRealWebsite": false,
     "phonePrimary": "+375291427457",
-    "instagram": "_dentart_бори",
-    "telegram": "",
-    "tgLink": "https://t.me/+375291427457",
+    "instagram": "dent_art_borisov",
+    "telegram": "dent_art_borisov",
+    "tgLink": "https://t.me/dent_art_borisov",
     "phoneLink": "tel:+375291427457",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B2%2C%20%D0%9A%D0%BB%D0%B8%D0%BD%D0%B8%D0%BA%D0%B0%20%D1%8D%D1%81%D1%82%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B9%20%D1%81%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8%20%C2%ABDent%20Art%C2%BB%20%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B2%2C%20%D0%BF%D1%80-%D1%82%20%D0%A0%D0%B5%D0%B2%D0%BE%D0%BB%D1%8E%D1%86%D0%B8%D0%B8%2C%2068"
   },
   {
     "id": 153,
@@ -4123,12 +4275,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/_bodyshape_бори",
     "hasRealWebsite": false,
     "phonePrimary": "+375291438707",
-    "instagram": "_bodyshape_бори",
-    "telegram": "",
-    "tgLink": "https://t.me/+375291438707",
+    "instagram": "body_shape_borisov",
+    "telegram": "body_shape_borisov",
+    "tgLink": "https://t.me/body_shape_borisov",
     "phoneLink": "tel:+375291438707",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B2%2C%20%D0%A4%D0%B8%D1%82%D0%BD%D0%B5%D1%81-%D1%81%D1%82%D1%83%D0%B4%D0%B8%D1%8F%20%C2%ABBody%20Shape%C2%BB%20%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B2%2C%20%D1%83%D0%BB.%20%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0%2C%2069"
   },
   {
     "id": 154,
@@ -4150,12 +4303,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/_wakeup_пинс",
     "hasRealWebsite": false,
     "phonePrimary": "+375299771826",
-    "instagram": "_wakeup_пинс",
-    "telegram": "_wakeup_bot",
-    "tgLink": "https://t.me/_wakeup_bot",
+    "instagram": "wake_up_pinsk",
+    "telegram": "wake_up_pinsk",
+    "tgLink": "https://t.me/wake_up_pinsk",
     "phoneLink": "tel:+375299771826",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9F%D0%B8%D0%BD%D1%81%D0%BA%2C%20%D0%A1%D0%BF%D0%B5%D1%88%D0%B5%D0%BB%D1%82%D0%B8-%D0%BA%D0%BE%D1%84%D0%B5%20%C2%ABWake%20Up%C2%BB%20%D0%9F%D0%B8%D0%BD%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%91%D1%80%D0%B5%D1%81%D1%82%D1%81%D0%BA%D0%B0%D1%8F%2C%2070"
   },
   {
     "id": 155,
@@ -4177,12 +4331,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+375292184875",
-    "instagram": "_tokyoroll_пинс",
-    "telegram": "",
-    "tgLink": "https://t.me/+375292184875",
+    "instagram": "tokyo_roll_pinsk",
+    "telegram": "tokyo_roll_pinsk",
+    "tgLink": "https://t.me/tokyo_roll_pinsk",
     "phoneLink": "tel:+375292184875",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9F%D0%B8%D0%BD%D1%81%D0%BA%2C%20%D0%94%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B0%20%D1%81%D1%83%D1%88%D0%B8%20%C2%ABTokyo%20Roll%C2%BB%20%D0%9F%D0%B8%D0%BD%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%91%D0%B5%D0%BB%D0%BE%D0%B2%D0%B0%2C%2071"
   },
   {
     "id": 156,
@@ -4204,12 +4359,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/_holidaybox_пинс",
     "hasRealWebsite": false,
     "phonePrimary": "+375294430029",
-    "instagram": "_holidaybox_пинс",
-    "telegram": "_holidaybox_bot",
-    "tgLink": "https://t.me/_holidaybox_bot",
+    "instagram": "holiday_box_pinsk",
+    "telegram": "holiday_box_pinsk",
+    "tgLink": "https://t.me/holiday_box_pinsk",
     "phoneLink": "tel:+375294430029",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9F%D0%B8%D0%BD%D1%81%D0%BA%2C%20%D0%A4%D1%83%D1%80%D1%88%D0%B5%D1%82%D1%8B%20%D0%B8%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BF%D0%B5%20%C2%ABHoliday%20Box%C2%BB%20%D0%9F%D0%B8%D0%BD%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0%2C%2072"
   },
   {
     "id": 157,
@@ -4231,12 +4387,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/_gentlemanclub_пинс",
     "hasRealWebsite": false,
     "phonePrimary": "+375294711423",
-    "instagram": "_gentlemanclub_пинс",
-    "telegram": "",
-    "tgLink": "https://t.me/+375294711423",
+    "instagram": "gentleman_club_pinsk",
+    "telegram": "gentleman_club_pinsk",
+    "tgLink": "https://t.me/gentleman_club_pinsk",
     "phoneLink": "tel:+375294711423",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9F%D0%B8%D0%BD%D1%81%D0%BA%2C%20%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%20%C2%ABGentleman%20Club%C2%BB%20%D0%9F%D0%B8%D0%BD%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9F%D0%B5%D1%80%D0%B2%D0%BE%D0%BC%D0%B0%D0%B9%D1%81%D0%BA%D0%B0%D1%8F%2C%2073"
   },
   {
     "id": 158,
@@ -4258,12 +4415,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/_nailartstudio_пинс",
     "hasRealWebsite": false,
     "phonePrimary": "+375298661678",
-    "instagram": "_nailartstudio_пинс",
-    "telegram": "",
-    "tgLink": "https://t.me/+375298661678",
+    "instagram": "nail_art_studio_pinsk",
+    "telegram": "nail_art_studio_pinsk",
+    "tgLink": "https://t.me/nail_art_studio_pinsk",
     "phoneLink": "tel:+375298661678",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9F%D0%B8%D0%BD%D1%81%D0%BA%2C%20%D0%9D%D0%BE%D0%B3%D1%82%D0%B5%D0%B2%D0%B0%D1%8F%20%D1%81%D1%82%D1%83%D0%B4%D0%B8%D1%8F%20%C2%ABNail%20Art%20Studio%C2%BB%20%D0%9F%D0%B8%D0%BD%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%91%D1%80%D0%B5%D1%81%D1%82%D1%81%D0%BA%D0%B0%D1%8F%2C%2074"
   },
   {
     "id": 159,
@@ -4285,12 +4443,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+375295585551",
-    "instagram": "_monrobeauty_пинс",
-    "telegram": "_monrobeauty_bot",
-    "tgLink": "https://t.me/_monrobeauty_bot",
+    "instagram": "monro_beauty_pinsk",
+    "telegram": "monro_beauty_pinsk",
+    "tgLink": "https://t.me/monro_beauty_pinsk",
     "phoneLink": "tel:+375295585551",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9F%D0%B8%D0%BD%D1%81%D0%BA%2C%20%D0%A1%D1%82%D1%83%D0%B4%D0%B8%D1%8F%20%D0%BA%D0%BE%D0%BB%D0%BE%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B8%20%C2%ABMonro%20Beauty%C2%BB%20%D0%9F%D0%B8%D0%BD%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%91%D0%B5%D0%BB%D0%BE%D0%B2%D0%B0%2C%2075"
   },
   {
     "id": 160,
@@ -4312,12 +4471,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/_proglaze_пинс",
     "hasRealWebsite": false,
     "phonePrimary": "+375294565635",
-    "instagram": "_proglaze_пинс",
-    "telegram": "_proglaze_bot",
-    "tgLink": "https://t.me/_proglaze_bot",
+    "instagram": "proglaze_pinsk",
+    "telegram": "proglaze_pinsk",
+    "tgLink": "https://t.me/proglaze_pinsk",
     "phoneLink": "tel:+375294565635",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9F%D0%B8%D0%BD%D1%81%D0%BA%2C%20%D0%94%D0%B5%D1%82%D0%B5%D0%B9%D0%BB%D0%B8%D0%BD%D0%B3-%D1%81%D1%82%D1%83%D0%B4%D0%B8%D1%8F%20%C2%ABProGlaze%C2%BB%20%D0%9F%D0%B8%D0%BD%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0%2C%2076"
   },
   {
     "id": 161,
@@ -4339,12 +4499,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/_ecowash_пинс",
     "hasRealWebsite": false,
     "phonePrimary": "+375294858925",
-    "instagram": "_ecowash_пинс",
-    "telegram": "",
-    "tgLink": "https://t.me/+375294858925",
+    "instagram": "ecowash_pinsk",
+    "telegram": "ecowash_pinsk",
+    "tgLink": "https://t.me/ecowash_pinsk",
     "phoneLink": "tel:+375294858925",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9F%D0%B8%D0%BD%D1%81%D0%BA%2C%20%D0%A5%D0%B8%D0%BC%D1%87%D0%B8%D1%81%D1%82%D0%BA%D0%B0%20%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D0%B0%20%C2%ABEcoWash%C2%BB%20%D0%9F%D0%B8%D0%BD%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9F%D0%B5%D1%80%D0%B2%D0%BE%D0%BC%D0%B0%D0%B9%D1%81%D0%BA%D0%B0%D1%8F%2C%2077"
   },
   {
     "id": 162,
@@ -4366,12 +4527,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/__пинс",
     "hasRealWebsite": false,
     "phonePrimary": "+375299337537",
-    "instagram": "__пинс",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "turbo_servis_pinsk",
+    "telegram": "turbo_servis_pinsk",
+    "tgLink": "https://t.me/turbo_servis_pinsk",
     "phoneLink": "tel:+375299337537",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9F%D0%B8%D0%BD%D1%81%D0%BA%2C%20%D0%A0%D0%B5%D0%BC%D0%BE%D0%BD%D1%82%20%D0%BF%D0%BE%D0%B4%D0%B2%D0%B5%D1%81%D0%BA%D0%B8%20%D0%B8%20%D1%82%D0%BE%D1%80%D0%BC%D0%BE%D0%B7%D0%BE%D0%B2%20%C2%AB%D0%A2%D1%83%D1%80%D0%B1%D0%BE%20%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81%C2%BB%20%D0%9F%D0%B8%D0%BD%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%91%D1%80%D0%B5%D1%81%D1%82%D1%81%D0%BA%D0%B0%D1%8F%2C%2078"
   },
   {
     "id": 163,
@@ -4393,12 +4555,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+375297535315",
-    "instagram": "_loft__пинс",
-    "telegram": "_loft__bot",
-    "tgLink": "https://t.me/_loft__bot",
+    "instagram": "loft_mebel_pinsk",
+    "telegram": "loft_mebel_pinsk",
+    "tgLink": "https://t.me/loft_mebel_pinsk",
     "phoneLink": "tel:+375297535315",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9F%D0%B8%D0%BD%D1%81%D0%BA%2C%20%D0%9A%D1%83%D1%85%D0%BD%D0%B8%20%D0%BD%D0%B0%20%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%20%C2%ABLoft%20%D0%9C%D0%B5%D0%B1%D0%B5%D0%BB%D1%8C%C2%BB%20%D0%9F%D0%B8%D0%BD%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%91%D0%B5%D0%BB%D0%BE%D0%B2%D0%B0%2C%2079"
   },
   {
     "id": 164,
@@ -4420,12 +4583,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/_masterbuild_пинс",
     "hasRealWebsite": false,
     "phonePrimary": "+375297397905",
-    "instagram": "_masterbuild_пинс",
-    "telegram": "",
-    "tgLink": "https://t.me/+375297397905",
+    "instagram": "master_build_pinsk",
+    "telegram": "master_build_pinsk",
+    "tgLink": "https://t.me/master_build_pinsk",
     "phoneLink": "tel:+375297397905",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9F%D0%B8%D0%BD%D1%81%D0%BA%2C%20%D0%A0%D0%B5%D0%BC%D0%BE%D0%BD%D1%82%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%20%D0%B8%20%D0%BA%D0%BE%D1%82%D1%82%D0%B5%D0%B4%D0%B6%D0%B5%D0%B9%20%C2%ABMaster%20Build%C2%BB%20%D0%9F%D0%B8%D0%BD%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0%2C%2080"
   },
   {
     "id": 165,
@@ -4447,12 +4611,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/_skyline_пинс",
     "hasRealWebsite": false,
     "phonePrimary": "+375299034846",
-    "instagram": "_skyline_пинс",
-    "telegram": "",
-    "tgLink": "https://t.me/+375299034846",
+    "instagram": "sky_line_pinsk",
+    "telegram": "sky_line_pinsk",
+    "tgLink": "https://t.me/sky_line_pinsk",
     "phoneLink": "tel:+375299034846",
     "source": "2gis",
-    "crmStatus": "contacted"
+    "crmStatus": "contacted",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9F%D0%B8%D0%BD%D1%81%D0%BA%2C%20%D0%9F%D0%BE%D1%82%D0%BE%D0%BB%D0%BE%D1%87%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B%20%C2%ABSky%20Line%C2%BB%20%D0%9F%D0%B8%D0%BD%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9F%D0%B5%D1%80%D0%B2%D0%BE%D0%BC%D0%B0%D0%B9%D1%81%D0%BA%D0%B0%D1%8F%2C%2081"
   },
   {
     "id": 166,
@@ -4474,12 +4639,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/__пинс",
     "hasRealWebsite": false,
     "phonePrimary": "+375292082705",
-    "instagram": "__пинс",
-    "telegram": "",
-    "tgLink": "https://t.me/+375292082705",
+    "instagram": "lesnaya_skazka_pinsk",
+    "telegram": "lesnaya_skazka_pinsk",
+    "tgLink": "https://t.me/lesnaya_skazka_pinsk",
     "phoneLink": "tel:+375292082705",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9F%D0%B8%D0%BD%D1%81%D0%BA%2C%20%D0%A3%D1%81%D0%B0%D0%B4%D1%8C%D0%B1%D0%B0%20%D1%83%20%D0%BE%D0%B7%D0%B5%D1%80%D0%B0%20%C2%AB%D0%9B%D0%B5%D1%81%D0%BD%D0%B0%D1%8F%20%D0%A1%D0%BA%D0%B0%D0%B7%D0%BA%D0%B0%C2%BB%20%D0%9F%D0%B8%D0%BD%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%91%D1%80%D0%B5%D1%81%D1%82%D1%81%D0%BA%D0%B0%D1%8F%2C%2082"
   },
   {
     "id": 167,
@@ -4501,12 +4667,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+375292929688",
-    "instagram": "__пинс",
-    "telegram": "",
-    "tgLink": "https://t.me/+375292929688",
+    "instagram": "relaks_pinsk",
+    "telegram": "relaks_pinsk",
+    "tgLink": "https://t.me/relaks_pinsk",
     "phoneLink": "tel:+375292929688",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9F%D0%B8%D0%BD%D1%81%D0%BA%2C%20%D0%A1%D0%B0%D1%83%D0%BD%D0%B0%20%26%20%D0%91%D0%B0%D1%81%D1%81%D0%B5%D0%B9%D0%BD%20%C2%AB%D0%A0%D0%B5%D0%BB%D0%B0%D0%BA%D1%81%C2%BB%20%D0%9F%D0%B8%D0%BD%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%91%D0%B5%D0%BB%D0%BE%D0%B2%D0%B0%2C%2083"
   },
   {
     "id": 168,
@@ -4528,12 +4695,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/_ecoclean_пинс",
     "hasRealWebsite": false,
     "phonePrimary": "+375291008784",
-    "instagram": "_ecoclean_пинс",
-    "telegram": "_ecoclean_bot",
-    "tgLink": "https://t.me/_ecoclean_bot",
+    "instagram": "ecoclean_pinsk",
+    "telegram": "ecoclean_pinsk",
+    "tgLink": "https://t.me/ecoclean_pinsk",
     "phoneLink": "tel:+375291008784",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9F%D0%B8%D0%BD%D1%81%D0%BA%2C%20%D0%A5%D0%B8%D0%BC%D1%87%D0%B8%D1%81%D1%82%D0%BA%D0%B0%20%D0%BC%D0%B5%D0%B1%D0%B5%D0%BB%D0%B8%20%D0%B8%20%D0%BA%D0%BB%D0%B8%D0%BD%D0%B8%D0%BD%D0%B3%20%C2%ABEcoClean%C2%BB%20%D0%9F%D0%B8%D0%BD%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0%2C%2084"
   },
   {
     "id": 169,
@@ -4555,12 +4723,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/__пинс",
     "hasRealWebsite": false,
     "phonePrimary": "+375291808400",
-    "instagram": "__пинс",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "ulybka_pinsk",
+    "telegram": "ulybka_pinsk",
+    "tgLink": "https://t.me/ulybka_pinsk",
     "phoneLink": "tel:+375291808400",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9F%D0%B8%D0%BD%D1%81%D0%BA%2C%20%D0%A1%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F%20%C2%AB%D0%A3%D0%BB%D1%8B%D0%B1%D0%BA%D0%B0%C2%BB%20%D0%9F%D0%B8%D0%BD%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9F%D0%B5%D1%80%D0%B2%D0%BE%D0%BC%D0%B0%D0%B9%D1%81%D0%BA%D0%B0%D1%8F%2C%2085"
   },
   {
     "id": 170,
@@ -4582,12 +4751,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/__пинс",
     "hasRealWebsite": false,
     "phonePrimary": "+375292429910",
-    "instagram": "__пинс",
-    "telegram": "",
-    "tgLink": "https://t.me/+375292429910",
+    "instagram": "balans_pinsk",
+    "telegram": "balans_pinsk",
+    "tgLink": "https://t.me/balans_pinsk",
     "phoneLink": "tel:+375292429910",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9F%D0%B8%D0%BD%D1%81%D0%BA%2C%20%D0%A1%D1%82%D1%83%D0%B4%D0%B8%D1%8F%20%D0%BF%D0%B8%D0%BB%D0%B0%D1%82%D0%B5%D1%81%D0%B0%20%C2%AB%D0%91%D0%B0%D0%BB%D0%B0%D0%BD%D1%81%C2%BB%20%D0%9F%D0%B8%D0%BD%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%91%D1%80%D0%B5%D1%81%D1%82%D1%81%D0%BA%D0%B0%D1%8F%2C%201"
   },
   {
     "id": 171,
@@ -4609,12 +4779,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+375299928768",
-    "instagram": "__лида",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "teplo_i_penka_lida",
+    "telegram": "teplo_i_penka_lida",
+    "tgLink": "https://t.me/teplo_i_penka_lida",
     "phoneLink": "tel:+375299928768",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9B%D0%B8%D0%B4%D0%B0%2C%20%D0%9A%D0%BE%D1%84%D0%B5%D0%B9%D0%BD%D1%8F%20%C2%AB%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%20%D0%B8%20%D0%9F%D0%B5%D0%BD%D0%BA%D0%B0%C2%BB%20%D0%9B%D0%B8%D0%B4%D0%B0%2C%20%D1%83%D0%BB.%20%D0%9A%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%2C%202"
   },
   {
     "id": 172,
@@ -4636,12 +4807,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/_mariopizza_лида",
     "hasRealWebsite": false,
     "phonePrimary": "+375291381142",
-    "instagram": "_mariopizza_лида",
-    "telegram": "_mariopizza_bot",
-    "tgLink": "https://t.me/_mariopizza_bot",
+    "instagram": "mario_pizza_lida",
+    "telegram": "mario_pizza_lida",
+    "tgLink": "https://t.me/mario_pizza_lida",
     "phoneLink": "tel:+375291381142",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9B%D0%B8%D0%B4%D0%B0%2C%20%D0%9F%D0%B8%D1%86%D1%86%D0%B5%D1%80%D0%B8%D1%8F%20%D0%BD%D0%B0%D0%B2%D1%8B%D0%BD%D0%BE%D1%81%20%C2%ABMario%20Pizza%C2%BB%20%D0%9B%D0%B8%D0%B4%D0%B0%2C%20%D1%83%D0%BB.%20%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F%2C%203"
   },
   {
     "id": 173,
@@ -4663,12 +4835,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/_prestigefood_лида",
     "hasRealWebsite": false,
     "phonePrimary": "+375299203607",
-    "instagram": "_prestigefood_лида",
-    "telegram": "_prestigefood_bot",
-    "tgLink": "https://t.me/_prestigefood_bot",
+    "instagram": "prestige_food_lida",
+    "telegram": "prestige_food_lida",
+    "tgLink": "https://t.me/prestige_food_lida",
     "phoneLink": "tel:+375299203607",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9B%D0%B8%D0%B4%D0%B0%2C%20%D0%9A%D0%B5%D0%B9%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%81%D0%BB%D1%83%D0%B6%D0%B1%D0%B0%20%C2%ABPrestige%20Food%C2%BB%20%D0%9B%D0%B8%D0%B4%D0%B0%2C%20%D1%83%D0%BB.%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%2C%204"
   },
   {
     "id": 174,
@@ -4690,12 +4863,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/__лида",
     "hasRealWebsite": false,
     "phonePrimary": "+375297270866",
-    "instagram": "__лида",
-    "telegram": "",
-    "tgLink": "https://t.me/+375297270866",
+    "instagram": "chop_lida",
+    "telegram": "chop_lida",
+    "tgLink": "https://t.me/chop_lida",
     "phoneLink": "tel:+375297270866",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9B%D0%B8%D0%B4%D0%B0%2C%20%D0%9C%D1%83%D0%B6%D1%81%D0%BA%D0%B8%D0%B5%20%D1%81%D1%82%D1%80%D0%B8%D0%B6%D0%BA%D0%B8%20%C2%AB%D0%A7%D0%BE%D0%BF%C2%BB%20%D0%9B%D0%B8%D0%B4%D0%B0%2C%20%D1%83%D0%BB.%20%D0%9C%D0%B8%D1%86%D0%BA%D0%B5%D0%B2%D0%B8%D1%87%D0%B0%2C%205"
   },
   {
     "id": 175,
@@ -4717,12 +4891,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+375297782344",
-    "instagram": "_pinkberry_лида",
-    "telegram": "_pinkberry_bot",
-    "tgLink": "https://t.me/_pinkberry_bot",
+    "instagram": "pink_berry_lida",
+    "telegram": "pink_berry_lida",
+    "tgLink": "https://t.me/pink_berry_lida",
     "phoneLink": "tel:+375297782344",
     "source": "2gis",
-    "crmStatus": "in_progress"
+    "crmStatus": "in_progress",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9B%D0%B8%D0%B4%D0%B0%2C%20%D0%A1%D1%82%D1%83%D0%B4%D0%B8%D1%8F%20%D0%BC%D0%B0%D0%BD%D0%B8%D0%BA%D1%8E%D1%80%D0%B0%20%C2%ABPink%20Berry%C2%BB%20%D0%9B%D0%B8%D0%B4%D0%B0%2C%20%D1%83%D0%BB.%20%D0%9A%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%2C%206"
   },
   {
     "id": 176,
@@ -4744,12 +4919,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/__лида",
     "hasRealWebsite": false,
     "phonePrimary": "+375293181722",
-    "instagram": "__лида",
-    "telegram": "",
-    "tgLink": "https://t.me/+375293181722",
+    "instagram": "estet_lida",
+    "telegram": "estet_lida",
+    "tgLink": "https://t.me/estet_lida",
     "phoneLink": "tel:+375293181722",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9B%D0%B8%D0%B4%D0%B0%2C%20%D0%A1%D0%B0%D0%BB%D0%BE%D0%BD%20%D0%BA%D1%80%D0%B0%D1%81%D0%BE%D1%82%D1%8B%20%C2%AB%D0%AD%D1%81%D1%82%D0%B5%D1%82%C2%BB%20%D0%9B%D0%B8%D0%B4%D0%B0%2C%20%D1%83%D0%BB.%20%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F%2C%207"
   },
   {
     "id": 177,
@@ -4771,12 +4947,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/_detailinglab_лида",
     "hasRealWebsite": false,
     "phonePrimary": "+375293463400",
-    "instagram": "_detailinglab_лида",
-    "telegram": "_detailinglab_bot",
-    "tgLink": "https://t.me/_detailinglab_bot",
+    "instagram": "detailing_lab_lida",
+    "telegram": "detailing_lab_lida",
+    "tgLink": "https://t.me/detailing_lab_lida",
     "phoneLink": "tel:+375293463400",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9B%D0%B8%D0%B4%D0%B0%2C%20%D0%A6%D0%B5%D0%BD%D1%82%D1%80%20%D1%83%D1%85%D0%BE%D0%B4%D0%B0%20%D0%B7%D0%B0%20%D0%B0%D0%B2%D1%82%D0%BE%20%C2%ABDetailing%20Lab%C2%BB%20%D0%9B%D0%B8%D0%B4%D0%B0%2C%20%D1%83%D0%BB.%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%2C%208"
   },
   {
     "id": 178,
@@ -4798,12 +4975,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/_aquaclean_лида",
     "hasRealWebsite": false,
     "phonePrimary": "+375296942499",
-    "instagram": "_aquaclean_лида",
-    "telegram": "_aquaclean_bot",
-    "tgLink": "https://t.me/_aquaclean_bot",
+    "instagram": "aqua_clean_lida",
+    "telegram": "aqua_clean_lida",
+    "tgLink": "https://t.me/aqua_clean_lida",
     "phoneLink": "tel:+375296942499",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9B%D0%B8%D0%B4%D0%B0%2C%20%D0%9C%D0%BE%D0%B9%D0%BA%D0%B0%20%D1%81%D0%B0%D0%BC%D0%BE%D0%BE%D0%B1%D1%81%D0%BB%D1%83%D0%B6%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%C2%ABAqua%20Clean%C2%BB%20%D0%9B%D0%B8%D0%B4%D0%B0%2C%20%D1%83%D0%BB.%20%D0%9C%D0%B8%D1%86%D0%BA%D0%B5%D0%B2%D0%B8%D1%87%D0%B0%2C%209"
   },
   {
     "id": 179,
@@ -4825,12 +5003,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+375296487053",
-    "instagram": "__лида",
-    "telegram": "",
-    "tgLink": "https://t.me/+375296487053",
+    "instagram": "avtoekspert_lida",
+    "telegram": "avtoekspert_lida",
+    "tgLink": "https://t.me/avtoekspert_lida",
     "phoneLink": "tel:+375296487053",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9B%D0%B8%D0%B4%D0%B0%2C%20%D0%A2%D0%B5%D1%85%D1%86%D0%B5%D0%BD%D1%82%D1%80%20%C2%AB%D0%90%D0%B2%D1%82%D0%BE%D0%AD%D0%BA%D1%81%D0%BF%D0%B5%D1%80%D1%82%C2%BB%20%D0%9B%D0%B8%D0%B4%D0%B0%2C%20%D1%83%D0%BB.%20%D0%9A%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%2C%2010"
   },
   {
     "id": 180,
@@ -4852,12 +5031,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/_modernkitchens_лида",
     "hasRealWebsite": false,
     "phonePrimary": "+375293088054",
-    "instagram": "_modernkitchens_лида",
-    "telegram": "_modernkitchens_bot",
-    "tgLink": "https://t.me/_modernkitchens_bot",
+    "instagram": "modern_kitchens_lida",
+    "telegram": "modern_kitchens_lida",
+    "tgLink": "https://t.me/modern_kitchens_lida",
     "phoneLink": "tel:+375293088054",
     "source": "yandex",
-    "crmStatus": "contacted"
+    "crmStatus": "contacted",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9B%D0%B8%D0%B4%D0%B0%2C%20%D0%9C%D0%B5%D0%B1%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D1%84%D0%B0%D0%B1%D1%80%D0%B8%D0%BA%D0%B0%20%C2%ABModern%20Kitchens%C2%BB%20%D0%9B%D0%B8%D0%B4%D0%B0%2C%20%D1%83%D0%BB.%20%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F%2C%2011"
   },
   {
     "id": 181,
@@ -4879,12 +5059,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/__лида",
     "hasRealWebsite": false,
     "phonePrimary": "+375291724767",
-    "instagram": "__лида",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "profi_stroy_lida",
+    "telegram": "profi_stroy_lida",
+    "tgLink": "https://t.me/profi_stroy_lida",
     "phoneLink": "tel:+375291724767",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9B%D0%B8%D0%B4%D0%B0%2C%20%D0%95%D0%B2%D1%80%D0%BE%D1%80%D0%B5%D0%BC%D0%BE%D0%BD%D1%82%20%C2%AB%D0%9F%D1%80%D0%BE%D1%84%D0%B8%20%D0%A1%D1%82%D1%80%D0%BE%D0%B9%C2%BB%20%D0%9B%D0%B8%D0%B4%D0%B0%2C%20%D1%83%D0%BB.%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%2C%2012"
   },
   {
     "id": 182,
@@ -4906,12 +5087,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/__лида",
     "hasRealWebsite": false,
     "phonePrimary": "+375292350014",
-    "instagram": "__лида",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "glyanets_lida",
+    "telegram": "glyanets_lida",
+    "tgLink": "https://t.me/glyanets_lida",
     "phoneLink": "tel:+375292350014",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9B%D0%B8%D0%B4%D0%B0%2C%20%D0%9F%D0%BE%D1%82%D0%BE%D0%BB%D0%BA%D0%B8%20%D0%BF%D0%BE%D0%B4%20%D0%BA%D0%BB%D1%8E%D1%87%20%C2%AB%D0%93%D0%BB%D1%8F%D0%BD%D0%B5%D1%86%C2%BB%20%D0%9B%D0%B8%D0%B4%D0%B0%2C%20%D1%83%D0%BB.%20%D0%9C%D0%B8%D1%86%D0%BA%D0%B5%D0%B2%D0%B8%D1%87%D0%B0%2C%2013"
   },
   {
     "id": 183,
@@ -4933,12 +5115,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+375296387232",
-    "instagram": "__лида",
-    "telegram": "",
-    "tgLink": "https://t.me/+375296387232",
+    "instagram": "tikhiy_ugolok_lida",
+    "telegram": "tikhiy_ugolok_lida",
+    "tgLink": "https://t.me/tikhiy_ugolok_lida",
     "phoneLink": "tel:+375296387232",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9B%D0%B8%D0%B4%D0%B0%2C%20%D0%90%D0%B3%D1%80%D0%BE%D1%83%D1%81%D0%B0%D0%B4%D1%8C%D0%B1%D0%B0%20%C2%AB%D0%A2%D0%B8%D1%85%D0%B8%D0%B9%20%D0%A3%D0%B3%D0%BE%D0%BB%D0%BE%D0%BA%C2%BB%20%D0%9B%D0%B8%D0%B4%D0%B0%2C%20%D1%83%D0%BB.%20%D0%9A%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%2C%2014"
   },
   {
     "id": 184,
@@ -4960,12 +5143,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/__лида",
     "hasRealWebsite": false,
     "phonePrimary": "+375292439488",
-    "instagram": "__лида",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "dubrava_lida",
+    "telegram": "dubrava_lida",
+    "tgLink": "https://t.me/dubrava_lida",
     "phoneLink": "tel:+375292439488",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9B%D0%B8%D0%B4%D0%B0%2C%20%D0%91%D0%B0%D0%BD%D1%8F%20%D1%81%20%D0%BA%D1%83%D0%BF%D0%B5%D0%BB%D1%8C%D1%8E%20%C2%AB%D0%94%D1%83%D0%B1%D1%80%D0%B0%D0%B2%D0%B0%C2%BB%20%D0%9B%D0%B8%D0%B4%D0%B0%2C%20%D1%83%D0%BB.%20%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F%2C%2015"
   },
   {
     "id": 185,
@@ -4987,12 +5171,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/__лида",
     "hasRealWebsite": false,
     "phonePrimary": "+375299350206",
-    "instagram": "__лида",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "myata_lida",
+    "telegram": "myata_lida",
+    "tgLink": "https://t.me/myata_lida",
     "phoneLink": "tel:+375299350206",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9B%D0%B8%D0%B4%D0%B0%2C%20%D0%9A%D0%BB%D0%B8%D0%BD%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F%20%C2%AB%D0%9C%D1%8F%D1%82%D0%B0%C2%BB%20%D0%9B%D0%B8%D0%B4%D0%B0%2C%20%D1%83%D0%BB.%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%2C%2016"
   },
   {
     "id": 186,
@@ -5014,12 +5199,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/__лида",
     "hasRealWebsite": false,
     "phonePrimary": "+375292516134",
-    "instagram": "__лида",
-    "telegram": "",
-    "tgLink": "https://t.me/+375292516134",
+    "instagram": "denta_pro_lida",
+    "telegram": "denta_pro_lida",
+    "tgLink": "https://t.me/denta_pro_lida",
     "phoneLink": "tel:+375292516134",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9B%D0%B8%D0%B4%D0%B0%2C%20%D0%A1%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D1%86%D0%B5%D0%BD%D1%82%D1%80%20%C2%AB%D0%94%D0%B5%D0%BD%D1%82%D0%B0%20%D0%9F%D1%80%D0%BE%C2%BB%20%D0%9B%D0%B8%D0%B4%D0%B0%2C%20%D1%83%D0%BB.%20%D0%9C%D0%B8%D1%86%D0%BA%D0%B5%D0%B2%D0%B8%D1%87%D0%B0%2C%2017"
   },
   {
     "id": 187,
@@ -5041,12 +5227,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+375292443680",
-    "instagram": "_fitlady_лида",
-    "telegram": "_fitlady_bot",
-    "tgLink": "https://t.me/_fitlady_bot",
+    "instagram": "fit_lady_lida",
+    "telegram": "fit_lady_lida",
+    "tgLink": "https://t.me/fit_lady_lida",
     "phoneLink": "tel:+375292443680",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9B%D0%B8%D0%B4%D0%B0%2C%20%D0%96%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D1%84%D0%B8%D1%82%D0%BD%D0%B5%D1%81%20%C2%ABFit%20Lady%C2%BB%20%D0%9B%D0%B8%D0%B4%D0%B0%2C%20%D1%83%D0%BB.%20%D0%9A%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%2C%2018"
   },
   {
     "id": 188,
@@ -5068,12 +5255,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/coffeepointblackroas_мозы",
     "hasRealWebsite": false,
     "phonePrimary": "+375298909506",
-    "instagram": "coffeepointblackroas_мозы",
-    "telegram": "coffeepointblackroas_bot",
-    "tgLink": "https://t.me/coffeepointblackroas_bot",
+    "instagram": "black_roast_mozyr",
+    "telegram": "black_roast_mozyr",
+    "tgLink": "https://t.me/black_roast_mozyr",
     "phoneLink": "tel:+375298909506",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D0%B7%D1%8B%D1%80%D1%8C%2C%20Coffee%20Point%20%C2%ABBlack%20Roast%C2%BB%20%D0%9C%D0%BE%D0%B7%D1%8B%D1%80%D1%8C%2C%20%D1%83%D0%BB.%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%2C%2019"
   },
   {
     "id": 189,
@@ -5095,12 +5283,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/_craftmeat_мозы",
     "hasRealWebsite": false,
     "phonePrimary": "+375291969240",
-    "instagram": "_craftmeat_мозы",
-    "telegram": "",
-    "tgLink": "https://t.me/+375291969240",
+    "instagram": "craft_meat_mozyr",
+    "telegram": "craft_meat_mozyr",
+    "tgLink": "https://t.me/craft_meat_mozyr",
     "phoneLink": "tel:+375291969240",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D0%B7%D1%8B%D1%80%D1%8C%2C%20%D0%93%D1%80%D0%B8%D0%BB%D1%8C%20%26%20%D0%91%D1%83%D1%80%D0%B3%D0%B5%D1%80%D1%8B%20%C2%ABCraft%20Meat%C2%BB%20%D0%9C%D0%BE%D0%B7%D1%8B%D1%80%D1%8C%2C%20%D1%83%D0%BB.%20%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F%2C%2020"
   },
   {
     "id": 190,
@@ -5122,12 +5311,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/_furshettime_мозы",
     "hasRealWebsite": false,
     "phonePrimary": "+375299061333",
-    "instagram": "_furshettime_мозы",
-    "telegram": "_furshettime_bot",
-    "tgLink": "https://t.me/_furshettime_bot",
+    "instagram": "furshet_time_mozyr",
+    "telegram": "furshet_time_mozyr",
+    "tgLink": "https://t.me/furshet_time_mozyr",
     "phoneLink": "tel:+375299061333",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D0%B7%D1%8B%D1%80%D1%8C%2C%20%D0%93%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B1%D0%BE%D0%BA%D1%81%D1%8B%20%26%20%D0%9A%D0%B5%D0%B9%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B3%20%C2%ABFurshet%20Time%C2%BB%20%D0%9C%D0%BE%D0%B7%D1%8B%D1%80%D1%8C%2C%20%D0%B1%D1%83%D0%BB%D1%8C%D0%B2%D0%B0%D1%80%20%D0%AE%D0%BD%D0%BE%D1%81%D1%82%D0%B8%2C%2021"
   },
   {
     "id": 191,
@@ -5149,12 +5339,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+375295602821",
-    "instagram": "__мозы",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "britva_mozyr",
+    "telegram": "britva_mozyr",
+    "tgLink": "https://t.me/britva_mozyr",
     "phoneLink": "tel:+375295602821",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D0%B7%D1%8B%D1%80%D1%8C%2C%20%D0%9C%D1%83%D0%B6%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BF%D0%B0%D1%80%D0%B8%D0%BA%D0%BC%D0%B0%D1%85%D0%B5%D1%80%D1%81%D0%BA%D0%B0%D1%8F%20%C2%AB%D0%91%D1%80%D0%B8%D1%82%D0%B2%D0%B0%C2%BB%20%D0%9C%D0%BE%D0%B7%D1%8B%D1%80%D1%8C%2C%20%D1%83%D0%BB.%20%D0%9C%D0%B8%D1%80%D0%B0%2C%2022"
   },
   {
     "id": 192,
@@ -5176,12 +5367,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/_glossynails_мозы",
     "hasRealWebsite": false,
     "phonePrimary": "+375292237882",
-    "instagram": "_glossynails_мозы",
-    "telegram": "_glossynails_bot",
-    "tgLink": "https://t.me/_glossynails_bot",
+    "instagram": "glossy_nails_mozyr",
+    "telegram": "glossy_nails_mozyr",
+    "tgLink": "https://t.me/glossy_nails_mozyr",
     "phoneLink": "tel:+375292237882",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D0%B7%D1%8B%D1%80%D1%8C%2C%20%D0%A1%D1%82%D1%83%D0%B4%D0%B8%D1%8F%20%D0%BA%D1%80%D0%B0%D1%81%D0%BE%D1%82%D1%8B%20%C2%ABGlossy%20Nails%C2%BB%20%D0%9C%D0%BE%D0%B7%D1%8B%D1%80%D1%8C%2C%20%D1%83%D0%BB.%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%2C%2023"
   },
   {
     "id": 193,
@@ -5203,12 +5395,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/_secretroom_мозы",
     "hasRealWebsite": false,
     "phonePrimary": "+375292055787",
-    "instagram": "_secretroom_мозы",
-    "telegram": "_secretroom_bot",
-    "tgLink": "https://t.me/_secretroom_bot",
+    "instagram": "secret_room_mozyr",
+    "telegram": "secret_room_mozyr",
+    "tgLink": "https://t.me/secret_room_mozyr",
     "phoneLink": "tel:+375292055787",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D0%B7%D1%8B%D1%80%D1%8C%2C%20%D0%9F%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE%20%D0%BA%D1%80%D0%B0%D1%81%D0%BE%D1%82%D1%8B%20%C2%ABSecret%20Room%C2%BB%20%D0%9C%D0%BE%D0%B7%D1%8B%D1%80%D1%8C%2C%20%D1%83%D0%BB.%20%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F%2C%2024"
   },
   {
     "id": 194,
@@ -5230,12 +5423,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/_blackedition_мозы",
     "hasRealWebsite": false,
     "phonePrimary": "+375293015509",
-    "instagram": "_blackedition_мозы",
-    "telegram": "_blackedition_bot",
-    "tgLink": "https://t.me/_blackedition_bot",
+    "instagram": "black_edition_mozyr",
+    "telegram": "black_edition_mozyr",
+    "tgLink": "https://t.me/black_edition_mozyr",
     "phoneLink": "tel:+375293015509",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D0%B7%D1%8B%D1%80%D1%8C%2C%20%D0%A1%D1%82%D1%83%D0%B4%D0%B8%D1%8F%20%D0%B0%D0%B2%D1%82%D0%BE%D1%81%D1%82%D0%B0%D0%B9%D0%BB%D0%B8%D0%BD%D0%B3%D0%B0%20%C2%ABBlack%20Edition%C2%BB%20%D0%9C%D0%BE%D0%B7%D1%8B%D1%80%D1%8C%2C%20%D0%B1%D1%83%D0%BB%D1%8C%D0%B2%D0%B0%D1%80%20%D0%AE%D0%BD%D0%BE%D1%81%D1%82%D0%B8%2C%2025"
   },
   {
     "id": 195,
@@ -5257,12 +5451,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+375295954854",
-    "instagram": "__мозы",
-    "telegram": "",
-    "tgLink": "https://t.me/+375295954854",
+    "instagram": "chistyy_stil_mozyr",
+    "telegram": "chistyy_stil_mozyr",
+    "tgLink": "https://t.me/chistyy_stil_mozyr",
     "phoneLink": "tel:+375295954854",
     "source": "2gis",
-    "crmStatus": "contacted"
+    "crmStatus": "contacted",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D0%B7%D1%8B%D1%80%D1%8C%2C%20%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B9%D0%BA%D0%B0%20%C2%AB%D0%A7%D0%B8%D1%81%D1%82%D1%8B%D0%B9%20%D0%A1%D1%82%D0%B8%D0%BB%D1%8C%C2%BB%20%D0%9C%D0%BE%D0%B7%D1%8B%D1%80%D1%8C%2C%20%D1%83%D0%BB.%20%D0%9C%D0%B8%D1%80%D0%B0%2C%2026"
   },
   {
     "id": 196,
@@ -5284,12 +5479,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/__мозы",
     "hasRealWebsite": false,
     "phonePrimary": "+375298381164",
-    "instagram": "__мозы",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "master_avto_mozyr",
+    "telegram": "master_avto_mozyr",
+    "tgLink": "https://t.me/master_avto_mozyr",
     "phoneLink": "tel:+375298381164",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D0%B7%D1%8B%D1%80%D1%8C%2C%20%D0%90%D0%B2%D1%82%D0%BE%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%20%C2%AB%D0%9C%D0%B0%D1%81%D1%82%D0%B5%D1%80-%D0%90%D0%B2%D1%82%D0%BE%C2%BB%20%D0%9C%D0%BE%D0%B7%D1%8B%D1%80%D1%8C%2C%20%D1%83%D0%BB.%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%2C%2027"
   },
   {
     "id": 197,
@@ -5311,12 +5507,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/__мозы",
     "hasRealWebsite": false,
     "phonePrimary": "+375298852569",
-    "instagram": "__мозы",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "master_vud_mozyr",
+    "telegram": "master_vud_mozyr",
+    "tgLink": "https://t.me/master_vud_mozyr",
     "phoneLink": "tel:+375298852569",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D0%B7%D1%8B%D1%80%D1%8C%2C%20%D0%9A%D0%BE%D1%80%D0%BF%D1%83%D1%81%D0%BD%D0%B0%D1%8F%20%D0%BC%D0%B5%D0%B1%D0%B5%D0%BB%D1%8C%20%C2%AB%D0%9C%D0%B0%D1%81%D1%82%D0%B5%D1%80%20%D0%92%D1%83%D0%B4%C2%BB%20%D0%9C%D0%BE%D0%B7%D1%8B%D1%80%D1%8C%2C%20%D1%83%D0%BB.%20%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F%2C%2028"
   },
   {
     "id": 198,
@@ -5338,12 +5535,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/__мозы",
     "hasRealWebsite": false,
     "phonePrimary": "+375294485140",
-    "instagram": "__мозы",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "stroy_brigada_mozyr",
+    "telegram": "stroy_brigada_mozyr",
+    "tgLink": "https://t.me/stroy_brigada_mozyr",
     "phoneLink": "tel:+375294485140",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D0%B7%D1%8B%D1%80%D1%8C%2C%20%D0%A0%D0%B5%D0%BC%D0%BE%D0%BD%D1%82%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%20%C2%AB%D0%A1%D1%82%D1%80%D0%BE%D0%B9%20%D0%91%D1%80%D0%B8%D0%B3%D0%B0%D0%B4%D0%B0%C2%BB%20%D0%9C%D0%BE%D0%B7%D1%8B%D1%80%D1%8C%2C%20%D0%B1%D1%83%D0%BB%D1%8C%D0%B2%D0%B0%D1%80%20%D0%AE%D0%BD%D0%BE%D1%81%D1%82%D0%B8%2C%2029"
   },
   {
     "id": 199,
@@ -5365,12 +5563,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+375292404303",
-    "instagram": "__мозы",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "prestizh_mozyr",
+    "telegram": "prestizh_mozyr",
+    "tgLink": "https://t.me/prestizh_mozyr",
     "phoneLink": "tel:+375292404303",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D0%B7%D1%8B%D1%80%D1%8C%2C%20%D0%9D%D0%B0%D1%82%D1%8F%D0%B6%D0%BD%D1%8B%D0%B5%20%D0%BF%D0%BE%D1%82%D0%BE%D0%BB%D0%BA%D0%B8%20%C2%AB%D0%9F%D1%80%D0%B5%D1%81%D1%82%D0%B8%D0%B6%C2%BB%20%D0%9C%D0%BE%D0%B7%D1%8B%D1%80%D1%8C%2C%20%D1%83%D0%BB.%20%D0%9C%D0%B8%D1%80%D0%B0%2C%2030"
   },
   {
     "id": 200,
@@ -5392,12 +5591,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/__мозы",
     "hasRealWebsite": false,
     "phonePrimary": "+375292719227",
-    "instagram": "__мозы",
-    "telegram": "",
-    "tgLink": "https://t.me/+375292719227",
+    "instagram": "khutorok_mozyr",
+    "telegram": "khutorok_mozyr",
+    "tgLink": "https://t.me/khutorok_mozyr",
     "phoneLink": "tel:+375292719227",
     "source": "yandex",
-    "crmStatus": "in_progress"
+    "crmStatus": "in_progress",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D0%B7%D1%8B%D1%80%D1%8C%2C%20%D0%97%D0%B0%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%20%C2%AB%D0%A5%D1%83%D1%82%D0%BE%D1%80%D0%BE%D0%BA%C2%BB%20%D0%9C%D0%BE%D0%B7%D1%8B%D1%80%D1%8C%2C%20%D1%83%D0%BB.%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%2C%2031"
   },
   {
     "id": 201,
@@ -5419,12 +5619,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/__мозы",
     "hasRealWebsite": false,
     "phonePrimary": "+375294037992",
-    "instagram": "__мозы",
-    "telegram": "",
-    "tgLink": "https://t.me/+375294037992",
+    "instagram": "parnoy_dvorik_mozyr",
+    "telegram": "parnoy_dvorik_mozyr",
+    "tgLink": "https://t.me/parnoy_dvorik_mozyr",
     "phoneLink": "tel:+375294037992",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D0%B7%D1%8B%D1%80%D1%8C%2C%20%D0%91%D0%B0%D0%BD%D1%8F%20%D0%BD%D0%B0%20%D0%B4%D1%80%D0%BE%D0%B2%D0%B0%D1%85%20%C2%AB%D0%9F%D0%B0%D1%80%D0%BD%D0%BE%D0%B9%20%D0%94%D0%B2%D0%BE%D1%80%D0%B8%D0%BA%C2%BB%20%D0%9C%D0%BE%D0%B7%D1%8B%D1%80%D1%8C%2C%20%D1%83%D0%BB.%20%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F%2C%2032"
   },
   {
     "id": 202,
@@ -5446,12 +5647,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/__мозы",
     "hasRealWebsite": false,
     "phonePrimary": "+375293965065",
-    "instagram": "__мозы",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "chistyy_dom_mozyr",
+    "telegram": "chistyy_dom_mozyr",
+    "tgLink": "https://t.me/chistyy_dom_mozyr",
     "phoneLink": "tel:+375293965065",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D0%B7%D1%8B%D1%80%D1%8C%2C%20%D0%9A%D0%BB%D0%B8%D0%BD%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%81%D0%BB%D1%83%D0%B6%D0%B1%D0%B0%20%C2%AB%D0%A7%D0%B8%D1%81%D1%82%D1%8B%D0%B9%20%D0%94%D0%BE%D0%BC%C2%BB%20%D0%9C%D0%BE%D0%B7%D1%8B%D1%80%D1%8C%2C%20%D0%B1%D1%83%D0%BB%D1%8C%D0%B2%D0%B0%D1%80%20%D0%AE%D0%BD%D0%BE%D1%81%D1%82%D0%B8%2C%2033"
   },
   {
     "id": 203,
@@ -5473,12 +5675,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+375295699821",
-    "instagram": "__мозы",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "belyy_zhemchug_mozyr",
+    "telegram": "belyy_zhemchug_mozyr",
+    "tgLink": "https://t.me/belyy_zhemchug_mozyr",
     "phoneLink": "tel:+375295699821",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D0%B7%D1%8B%D1%80%D1%8C%2C%20%D0%A1%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B0%D0%B1%D0%B8%D0%BD%D0%B5%D1%82%20%C2%AB%D0%91%D0%B5%D0%BB%D1%8B%D0%B9%20%D0%96%D0%B5%D0%BC%D1%87%D1%83%D0%B3%C2%BB%20%D0%9C%D0%BE%D0%B7%D1%8B%D1%80%D1%8C%2C%20%D1%83%D0%BB.%20%D0%9C%D0%B8%D1%80%D0%B0%2C%2034"
   },
   {
     "id": 204,
@@ -5500,12 +5703,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/_airyoga_мозы",
     "hasRealWebsite": false,
     "phonePrimary": "+375293070335",
-    "instagram": "_airyoga_мозы",
-    "telegram": "",
-    "tgLink": "https://t.me/+375293070335",
+    "instagram": "air_yoga_mozyr",
+    "telegram": "air_yoga_mozyr",
+    "tgLink": "https://t.me/air_yoga_mozyr",
     "phoneLink": "tel:+375293070335",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D0%B7%D1%8B%D1%80%D1%8C%2C%20%D0%A1%D1%82%D1%83%D0%B4%D0%B8%D1%8F%20%D1%81%D1%82%D1%80%D0%B5%D1%82%D1%87%D0%B8%D0%BD%D0%B3%D0%B0%20%D0%B8%20%D0%B9%D0%BE%D0%B3%D0%B8%20%C2%ABAir%20Yoga%C2%BB%20%D0%9C%D0%BE%D0%B7%D1%8B%D1%80%D1%8C%2C%20%D1%83%D0%BB.%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%2C%2035"
   },
   {
     "id": 205,
@@ -5527,12 +5731,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/__моск",
     "hasRealWebsite": false,
     "phonePrimary": "+79257743617",
-    "instagram": "__моск",
-    "telegram": "",
-    "tgLink": "https://t.me/+79257743617",
+    "instagram": "uyut_moskva",
+    "telegram": "uyut_moskva",
+    "tgLink": "https://t.me/uyut_moskva",
     "phoneLink": "tel:+79257743617",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%90%D1%82%D0%BC%D0%BE%D1%81%D1%84%D0%B5%D1%80%D0%BD%D0%B0%D1%8F%20%D0%BA%D0%BE%D1%84%D0%B5%D0%B9%D0%BD%D1%8F%20%C2%AB%D0%A3%D1%8E%D1%82%C2%BB%2C%20%D0%9F%D1%80%D0%B5%D1%81%D0%BD%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BD%D0%B0%D0%B1.%2C%2036"
   },
   {
     "id": 206,
@@ -5554,12 +5759,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/__моск",
     "hasRealWebsite": false,
     "phonePrimary": "+79256689730",
-    "instagram": "__моск",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "myaso_na_uglyakh_moskva",
+    "telegram": "myaso_na_uglyakh_moskva",
+    "tgLink": "https://t.me/myaso_na_uglyakh_moskva",
     "phoneLink": "tel:+79256689730",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%94%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B0%20%D1%88%D0%B0%D1%88%D0%BB%D1%8B%D0%BA%D0%B0%20%C2%AB%D0%9C%D1%8F%D1%81%D0%BE%20%D0%BD%D0%B0%20%D0%A3%D0%B3%D0%BB%D1%8F%D1%85%C2%BB%2C%20%D1%83%D0%BB.%20%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%BE%D0%B2%D0%BA%D0%B0%2C%2037"
   },
   {
     "id": 207,
@@ -5581,12 +5787,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+79254033145",
-    "instagram": "_smartbuffet_моск",
-    "telegram": "",
-    "tgLink": "https://t.me/+79254033145",
+    "instagram": "smart_buffet_moskva",
+    "telegram": "smart_buffet_moskva",
+    "tgLink": "https://t.me/smart_buffet_moskva",
     "phoneLink": "tel:+79254033145",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%9A%D0%B5%D0%B9%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B3%20%C2%ABSmart%20Buffet%C2%BB%2C%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D1%80-%D1%82%2C%2038"
   },
   {
     "id": 208,
@@ -5608,12 +5815,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/_blackbeard_моск",
     "hasRealWebsite": false,
     "phonePrimary": "+79256685197",
-    "instagram": "_blackbeard_моск",
-    "telegram": "_blackbeard_bot",
-    "tgLink": "https://t.me/_blackbeard_bot",
+    "instagram": "black_beard_moskva",
+    "telegram": "black_beard_moskva",
+    "tgLink": "https://t.me/black_beard_moskva",
     "phoneLink": "tel:+79256685197",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%20%C2%ABBlack%20Beard%C2%BB%2C%20%D1%83%D0%BB.%20%D0%A2%D0%B2%D0%B5%D1%80%D1%81%D0%BA%D0%B0%D1%8F%2C%2039"
   },
   {
     "id": 209,
@@ -5635,12 +5843,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/_french_моск",
     "hasRealWebsite": false,
     "phonePrimary": "+79256583458",
-    "instagram": "_french_моск",
-    "telegram": "",
-    "tgLink": "https://t.me/+79256583458",
+    "instagram": "french_moskva",
+    "telegram": "french_moskva",
+    "tgLink": "https://t.me/french_moskva",
     "phoneLink": "tel:+79256583458",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%A1%D1%82%D1%83%D0%B4%D0%B8%D1%8F%20%D0%BD%D0%BE%D0%B3%D1%82%D0%B5%D0%B2%D0%BE%D0%B3%D0%BE%20%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D0%B0%20%C2%ABFrench%C2%BB%2C%20%D1%83%D0%BB.%20%D0%90%D1%80%D0%B1%D0%B0%D1%82%2C%2040"
   },
   {
     "id": 210,
@@ -5662,12 +5871,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/__моск",
     "hasRealWebsite": false,
     "phonePrimary": "+79256640552",
-    "instagram": "__моск",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "obraz_moskva",
+    "telegram": "obraz_moskva",
+    "tgLink": "https://t.me/obraz_moskva",
     "phoneLink": "tel:+79256640552",
     "source": "yandex",
-    "crmStatus": "contacted"
+    "crmStatus": "contacted",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%A1%D1%82%D1%83%D0%B4%D0%B8%D1%8F%20%D1%81%D1%82%D0%B8%D0%BB%D1%8F%20%C2%AB%D0%9E%D0%B1%D1%80%D0%B0%D0%B7%C2%BB%2C%20%D0%9A%D1%83%D1%82%D1%83%D0%B7%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D1%80-%D1%82%2C%2041"
   },
   {
     "id": 211,
@@ -5689,12 +5899,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+79258196441",
-    "instagram": "_shinegarage_моск",
-    "telegram": "",
-    "tgLink": "https://t.me/+79258196441",
+    "instagram": "shine_garage_moskva",
+    "telegram": "shine_garage_moskva",
+    "tgLink": "https://t.me/shine_garage_moskva",
     "phoneLink": "tel:+79258196441",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%9F%D0%BE%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0%20%D0%B8%20%D0%BA%D0%B5%D1%80%D0%B0%D0%BC%D0%B8%D0%BA%D0%B0%20%C2%ABShine%20Garage%C2%BB%2C%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D1%80-%D1%82%2C%2042"
   },
   {
     "id": 212,
@@ -5716,12 +5927,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/_h2o__моск",
     "hasRealWebsite": false,
     "phonePrimary": "+79252318451",
-    "instagram": "_h2o__моск",
-    "telegram": "_h2o__bot",
-    "tgLink": "https://t.me/_h2o__bot",
+    "instagram": "h2o_ekspress_moskva",
+    "telegram": "h2o_ekspress_moskva",
+    "tgLink": "https://t.me/h2o_ekspress_moskva",
     "phoneLink": "tel:+79252318451",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%9A%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%D0%BD%D0%B0%D1%8F%20%D0%BC%D0%BE%D0%B9%D0%BA%D0%B0%20%C2%ABH2O%20%D0%AD%D0%BA%D1%81%D0%BF%D1%80%D0%B5%D1%81%D1%81%C2%BB%2C%20%D1%83%D0%BB.%20%D0%9F%D0%BE%D0%BA%D1%80%D0%BE%D0%B2%D0%BA%D0%B0%2C%2043"
   },
   {
     "id": 213,
@@ -5743,12 +5955,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/__моск",
     "hasRealWebsite": false,
     "phonePrimary": "+79252381314",
-    "instagram": "__моск",
-    "telegram": "",
-    "tgLink": "https://t.me/+79252381314",
+    "instagram": "dizel_motors_moskva",
+    "telegram": "dizel_motors_moskva",
+    "tgLink": "https://t.me/dizel_motors_moskva",
     "phoneLink": "tel:+79252381314",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%A1%D0%A2%D0%9E%20%C2%AB%D0%94%D0%B8%D0%B7%D0%B5%D0%BB%D1%8C%20%D0%9C%D0%BE%D1%82%D0%BE%D1%80%D1%81%C2%BB%2C%20%D0%9F%D1%80%D0%B5%D1%81%D0%BD%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BD%D0%B0%D0%B1.%2C%2044"
   },
   {
     "id": 214,
@@ -5770,12 +5983,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/_artdesign_моск",
     "hasRealWebsite": false,
     "phonePrimary": "+79253608257",
-    "instagram": "_artdesign_моск",
-    "telegram": "_artdesign_bot",
-    "tgLink": "https://t.me/_artdesign_bot",
+    "instagram": "art_design_moskva",
+    "telegram": "art_design_moskva",
+    "tgLink": "https://t.me/art_design_moskva",
     "phoneLink": "tel:+79253608257",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%A8%D0%BA%D0%B0%D1%84%D1%8B-%D0%BA%D1%83%D0%BF%D0%B5%20%D0%B8%20%D0%BA%D1%83%D1%85%D0%BD%D0%B8%20%C2%ABArt%20Design%C2%BB%2C%20%D1%83%D0%BB.%20%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%BE%D0%B2%D0%BA%D0%B0%2C%2045"
   },
   {
     "id": 215,
@@ -5797,12 +6011,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+79253786073",
-    "instagram": "__моск",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "novyy_dom_moskva",
+    "telegram": "novyy_dom_moskva",
+    "tgLink": "https://t.me/novyy_dom_moskva",
     "phoneLink": "tel:+79253786073",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%9E%D1%82%D0%B4%D0%B5%D0%BB%D0%BA%D0%B0%20%D0%BF%D0%BE%D0%B4%20%D0%BA%D0%BB%D1%8E%D1%87%20%C2%AB%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%94%D0%BE%D0%BC%C2%BB%2C%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D1%80-%D1%82%2C%2046"
   },
   {
     "id": 216,
@@ -5824,12 +6039,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/_skyline_моск",
     "hasRealWebsite": false,
     "phonePrimary": "+79258830308",
-    "instagram": "_skyline_моск",
-    "telegram": "_skyline_bot",
-    "tgLink": "https://t.me/_skyline_bot",
+    "instagram": "sky_line_moskva",
+    "telegram": "sky_line_moskva",
+    "tgLink": "https://t.me/sky_line_moskva",
     "phoneLink": "tel:+79258830308",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%9F%D0%BE%D1%82%D0%BE%D0%BB%D0%BE%D1%87%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B%20%C2%ABSky%20Line%C2%BB%2C%20%D1%83%D0%BB.%20%D0%A2%D0%B2%D0%B5%D1%80%D1%81%D0%BA%D0%B0%D1%8F%2C%2047"
   },
   {
     "id": 217,
@@ -5851,12 +6067,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/__моск",
     "hasRealWebsite": false,
     "phonePrimary": "+79253524783",
-    "instagram": "__моск",
-    "telegram": "",
-    "tgLink": "https://t.me/+79253524783",
+    "instagram": "sosnovyy_bor_moskva",
+    "telegram": "sosnovyy_bor_moskva",
+    "tgLink": "https://t.me/sosnovyy_bor_moskva",
     "phoneLink": "tel:+79253524783",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%93%D0%BE%D1%81%D1%82%D0%B5%D0%B2%D0%BE%D0%B9%20%D0%B4%D0%BE%D0%BC%20%C2%AB%D0%A1%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%91%D0%BE%D1%80%C2%BB%2C%20%D1%83%D0%BB.%20%D0%90%D1%80%D0%B1%D0%B0%D1%82%2C%2048"
   },
   {
     "id": 218,
@@ -5878,12 +6095,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/__моск",
     "hasRealWebsite": false,
     "phonePrimary": "+79251069241",
-    "instagram": "__моск",
-    "telegram": "",
-    "tgLink": "https://t.me/+79251069241",
+    "instagram": "russkiy_par_moskva",
+    "telegram": "russkiy_par_moskva",
+    "tgLink": "https://t.me/russkiy_par_moskva",
     "phoneLink": "tel:+79251069241",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%91%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%20%D1%81%20%D1%87%D0%B0%D0%BD%D0%BE%D0%BC%20%C2%AB%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9%20%D0%9F%D0%B0%D1%80%C2%BB%2C%20%D0%9A%D1%83%D1%82%D1%83%D0%B7%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D1%80-%D1%82%2C%2049"
   },
   {
     "id": 219,
@@ -5905,12 +6123,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+79256239489",
-    "instagram": "__моск",
-    "telegram": "",
-    "tgLink": "https://t.me/+79256239489",
+    "instagram": "kristall_moskva",
+    "telegram": "kristall_moskva",
+    "tgLink": "https://t.me/kristall_moskva",
     "phoneLink": "tel:+79256239489",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%9A%D0%BB%D0%B8%D0%BD%D0%B8%D0%BD%D0%B3%20%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%20%D1%80%D0%B5%D0%BC%D0%BE%D0%BD%D1%82%D0%B0%20%C2%AB%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B0%D0%BB%D0%BB%C2%BB%2C%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D1%80-%D1%82%2C%2050"
   },
   {
     "id": 220,
@@ -5932,12 +6151,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/_dentart_моск",
     "hasRealWebsite": false,
     "phonePrimary": "+79258969157",
-    "instagram": "_dentart_моск",
-    "telegram": "_dentart_bot",
-    "tgLink": "https://t.me/_dentart_bot",
+    "instagram": "dent_art_moskva",
+    "telegram": "dent_art_moskva",
+    "tgLink": "https://t.me/dent_art_moskva",
     "phoneLink": "tel:+79258969157",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%9A%D0%BB%D0%B8%D0%BD%D0%B8%D0%BA%D0%B0%20%D1%8D%D1%81%D1%82%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B9%20%D1%81%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8%20%C2%ABDent%20Art%C2%BB%2C%20%D1%83%D0%BB.%20%D0%9F%D0%BE%D0%BA%D1%80%D0%BE%D0%B2%D0%BA%D0%B0%2C%2051"
   },
   {
     "id": 221,
@@ -5959,12 +6179,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/_bodyshape_моск",
     "hasRealWebsite": false,
     "phonePrimary": "+79257387217",
-    "instagram": "_bodyshape_моск",
-    "telegram": "",
-    "tgLink": "https://t.me/+79257387217",
+    "instagram": "body_shape_moskva",
+    "telegram": "body_shape_moskva",
+    "tgLink": "https://t.me/body_shape_moskva",
     "phoneLink": "tel:+79257387217",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%A4%D0%B8%D1%82%D0%BD%D0%B5%D1%81-%D1%81%D1%82%D1%83%D0%B4%D0%B8%D1%8F%20%C2%ABBody%20Shape%C2%BB%2C%20%D0%9F%D1%80%D0%B5%D1%81%D0%BD%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BD%D0%B0%D0%B1.%2C%2052"
   },
   {
     "id": 222,
@@ -5986,12 +6207,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/__санк",
     "hasRealWebsite": false,
     "phonePrimary": "+79219905073",
-    "instagram": "__санк",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "espresso_bar_sankt_peterburg",
+    "telegram": "espresso_bar_sankt_peterburg",
+    "tgLink": "https://t.me/espresso_bar_sankt_peterburg",
     "phoneLink": "tel:+79219905073",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%2C%20%D0%9A%D0%BE%D1%84%D0%B5%D0%B9%D0%BD%D1%8F%20%C2%AB%D0%AD%D1%81%D0%BF%D1%80%D0%B5%D1%81%D1%81%D0%BE%20%D0%91%D0%B0%D1%80%C2%BB%20%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%2C%20%D0%9D%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D1%80-%D1%82%2C%2053"
   },
   {
     "id": 223,
@@ -6013,12 +6235,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+79211031738",
-    "instagram": "_wok__санк",
-    "telegram": "",
-    "tgLink": "https://t.me/+79211031738",
+    "instagram": "sakura_ekspress_sankt_peterb",
+    "telegram": "sakura_ekspress_sankt_peterb",
+    "tgLink": "https://t.me/sakura_ekspress_sankt_peterb",
     "phoneLink": "tel:+79211031738",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%2C%20%D0%A1%D1%83%D1%88%D0%B8%20%26%20Wok%20%C2%AB%D0%A1%D0%B0%D0%BA%D1%83%D1%80%D0%B0%20%D0%AD%D0%BA%D1%81%D0%BF%D1%80%D0%B5%D1%81%D1%81%C2%BB%20%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%2C%20%D1%83%D0%BB.%20%D0%A0%D1%83%D0%B1%D0%B8%D0%BD%D1%88%D1%82%D0%B5%D0%B9%D0%BD%D0%B0%2C%2054"
   },
   {
     "id": 224,
@@ -6040,12 +6263,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/_holidaybox_санк",
     "hasRealWebsite": false,
     "phonePrimary": "+79212418668",
-    "instagram": "_holidaybox_санк",
-    "telegram": "_holidaybox_bot",
-    "tgLink": "https://t.me/_holidaybox_bot",
+    "instagram": "holiday_box_sankt_peterburg",
+    "telegram": "holiday_box_sankt_peterburg",
+    "tgLink": "https://t.me/holiday_box_sankt_peterburg",
     "phoneLink": "tel:+79212418668",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%2C%20%D0%A4%D1%83%D1%80%D1%88%D0%B5%D1%82%D1%8B%20%D0%B8%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BF%D0%B5%20%C2%ABHoliday%20Box%C2%BB%20%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%2C%20%D0%9B%D0%B8%D1%82%D0%B5%D0%B9%D0%BD%D1%8B%D0%B9%20%D0%BF%D1%80-%D1%82%2C%2055"
   },
   {
     "id": 225,
@@ -6067,12 +6291,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/_topgunbarber_санк",
     "hasRealWebsite": false,
     "phonePrimary": "+79218383728",
-    "instagram": "_topgunbarber_санк",
-    "telegram": "",
-    "tgLink": "https://t.me/+79218383728",
+    "instagram": "topgun_barber_sankt_peterbur",
+    "telegram": "topgun_barber_sankt_peterbur",
+    "tgLink": "https://t.me/topgun_barber_sankt_peterbur",
     "phoneLink": "tel:+79218383728",
     "source": "2gis",
-    "crmStatus": "contacted"
+    "crmStatus": "contacted",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%2C%20%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%20%C2%ABTopGun%20Barber%C2%BB%20%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%2C%20%D0%9A%D0%B0%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D1%80-%D1%82%2C%2056"
   },
   {
     "id": 226,
@@ -6094,12 +6319,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/_beautybar_санк",
     "hasRealWebsite": false,
     "phonePrimary": "+79213978266",
-    "instagram": "_beautybar_санк",
-    "telegram": "_beautybar_bot",
-    "tgLink": "https://t.me/_beautybar_bot",
+    "instagram": "beauty_bar_sankt_peterburg",
+    "telegram": "beauty_bar_sankt_peterburg",
+    "tgLink": "https://t.me/beauty_bar_sankt_peterburg",
     "phoneLink": "tel:+79213978266",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%2C%20%D0%9C%D0%B0%D0%BD%D0%B8%D0%BA%D1%8E%D1%80%20%26%20%D0%9F%D0%B5%D0%B4%D0%B8%D0%BA%D1%8E%D1%80%20%C2%ABBeauty%20Bar%C2%BB%20%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%2C%20%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D1%80-%D1%82%2C%2057"
   },
   {
     "id": 227,
@@ -6121,12 +6347,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+79214472092",
-    "instagram": "__санк",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "persona_sankt_peterburg",
+    "telegram": "persona_sankt_peterburg",
+    "tgLink": "https://t.me/persona_sankt_peterburg",
     "phoneLink": "tel:+79214472092",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%2C%20%D0%A1%D0%B0%D0%BB%D0%BE%D0%BD%20%D0%BA%D1%80%D0%B0%D1%81%D0%BE%D1%82%D1%8B%20%C2%AB%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%C2%BB%20%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%2C%20%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9%20%D0%BF%D1%80-%D1%82%20%D0%9F.%D0%A1.%2C%2058"
   },
   {
     "id": 228,
@@ -6148,12 +6375,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/_primeauto_санк",
     "hasRealWebsite": false,
     "phonePrimary": "+79213395160",
-    "instagram": "_primeauto_санк",
-    "telegram": "",
-    "tgLink": "https://t.me/+79213395160",
+    "instagram": "prime_auto_sankt_peterburg",
+    "telegram": "prime_auto_sankt_peterburg",
+    "tgLink": "https://t.me/prime_auto_sankt_peterburg",
     "phoneLink": "tel:+79213395160",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%2C%20%D0%94%D0%B5%D1%82%D0%B5%D0%B9%D0%BB%D0%B8%D0%BD%D0%B3%20%C2%ABPrime%20Auto%C2%BB%20%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%2C%20%D0%9D%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D1%80-%D1%82%2C%2059"
   },
   {
     "id": 229,
@@ -6175,12 +6403,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/_ecowash_санк",
     "hasRealWebsite": false,
     "phonePrimary": "+79215216038",
-    "instagram": "_ecowash_санк",
-    "telegram": "_ecowash_bot",
-    "tgLink": "https://t.me/_ecowash_bot",
+    "instagram": "ecowash_sankt_peterburg",
+    "telegram": "ecowash_sankt_peterburg",
+    "tgLink": "https://t.me/ecowash_sankt_peterburg",
     "phoneLink": "tel:+79215216038",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%2C%20%D0%A5%D0%B8%D0%BC%D1%87%D0%B8%D1%81%D1%82%D0%BA%D0%B0%20%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D0%B0%20%C2%ABEcoWash%C2%BB%20%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%2C%20%D1%83%D0%BB.%20%D0%A0%D1%83%D0%B1%D0%B8%D0%BD%D1%88%D1%82%D0%B5%D0%B9%D0%BD%D0%B0%2C%2060"
   },
   {
     "id": 230,
@@ -6202,12 +6431,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/__санк",
     "hasRealWebsite": false,
     "phonePrimary": "+79219106790",
-    "instagram": "__санк",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "turbo_servis_sankt_peterburg",
+    "telegram": "turbo_servis_sankt_peterburg",
+    "tgLink": "https://t.me/turbo_servis_sankt_peterburg",
     "phoneLink": "tel:+79219106790",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%2C%20%D0%A0%D0%B5%D0%BC%D0%BE%D0%BD%D1%82%20%D0%BF%D0%BE%D0%B4%D0%B2%D0%B5%D1%81%D0%BA%D0%B8%20%D0%B8%20%D1%82%D0%BE%D1%80%D0%BC%D0%BE%D0%B7%D0%BE%D0%B2%20%C2%AB%D0%A2%D1%83%D1%80%D0%B1%D0%BE%20%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81%C2%BB%20%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%2C%20%D0%9B%D0%B8%D1%82%D0%B5%D0%B9%D0%BD%D1%8B%D0%B9%20%D0%BF%D1%80-%D1%82%2C%2061"
   },
   {
     "id": 231,
@@ -6229,12 +6459,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+79211673060",
-    "instagram": "_comforthome_санк",
-    "telegram": "_comforthome_bot",
-    "tgLink": "https://t.me/_comforthome_bot",
+    "instagram": "comfort_home_sankt_peterburg",
+    "telegram": "comfort_home_sankt_peterburg",
+    "tgLink": "https://t.me/comfort_home_sankt_peterburg",
     "phoneLink": "tel:+79211673060",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%2C%20%D0%9A%D1%83%D1%85%D0%BD%D0%B8%20%D0%BF%D0%BE%D0%B4%20%D0%BA%D0%BB%D1%8E%D1%87%20%C2%ABComfort%20Home%C2%BB%20%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%2C%20%D0%9A%D0%B0%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D1%80-%D1%82%2C%2062"
   },
   {
     "id": 232,
@@ -6256,12 +6487,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/_masterbuild_санк",
     "hasRealWebsite": false,
     "phonePrimary": "+79213822166",
-    "instagram": "_masterbuild_санк",
-    "telegram": "_masterbuild_bot",
-    "tgLink": "https://t.me/_masterbuild_bot",
+    "instagram": "master_build_sankt_peterburg",
+    "telegram": "master_build_sankt_peterburg",
+    "tgLink": "https://t.me/master_build_sankt_peterburg",
     "phoneLink": "tel:+79213822166",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%2C%20%D0%A0%D0%B5%D0%BC%D0%BE%D0%BD%D1%82%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%20%D0%B8%20%D0%BA%D0%BE%D1%82%D1%82%D0%B5%D0%B4%D0%B6%D0%B5%D0%B9%20%C2%ABMaster%20Build%C2%BB%20%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%2C%20%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D1%80-%D1%82%2C%2063"
   },
   {
     "id": 233,
@@ -6283,12 +6515,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/__санк",
     "hasRealWebsite": false,
     "phonePrimary": "+79215500289",
-    "instagram": "__санк",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "glyanets_sankt_peterburg",
+    "telegram": "glyanets_sankt_peterburg",
+    "tgLink": "https://t.me/glyanets_sankt_peterburg",
     "phoneLink": "tel:+79215500289",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%2C%20%D0%9F%D0%BE%D1%82%D0%BE%D0%BB%D0%BA%D0%B8%20%D0%BF%D0%BE%D0%B4%20%D0%BA%D0%BB%D1%8E%D1%87%20%C2%AB%D0%93%D0%BB%D1%8F%D0%BD%D0%B5%D1%86%C2%BB%20%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%2C%20%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9%20%D0%BF%D1%80-%D1%82%20%D0%9F.%D0%A1.%2C%2064"
   },
   {
     "id": 234,
@@ -6310,12 +6543,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/__санк",
     "hasRealWebsite": false,
     "phonePrimary": "+79217273634",
-    "instagram": "__санк",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "uyutnaya_zavod_sankt_peterbu",
+    "telegram": "uyutnaya_zavod_sankt_peterbu",
+    "tgLink": "https://t.me/uyutnaya_zavod_sankt_peterbu",
     "phoneLink": "tel:+79217273634",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%2C%20%D0%A3%D1%81%D0%B0%D0%B4%D1%8C%D0%B1%D0%B0%20%C2%AB%D0%A3%D1%8E%D1%82%D0%BD%D0%B0%D1%8F%20%D0%97%D0%B0%D0%B2%D0%BE%D0%B4%D1%8C%C2%BB%20%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%2C%20%D0%9D%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D1%80-%D1%82%2C%2065"
   },
   {
     "id": 235,
@@ -6337,12 +6571,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+79211494590",
-    "instagram": "__санк",
-    "telegram": "",
-    "tgLink": "https://t.me/+79211494590",
+    "instagram": "relaks_sankt_peterburg",
+    "telegram": "relaks_sankt_peterburg",
+    "tgLink": "https://t.me/relaks_sankt_peterburg",
     "phoneLink": "tel:+79211494590",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%2C%20%D0%A1%D0%B0%D1%83%D0%BD%D0%B0%20%26%20%D0%91%D0%B0%D1%81%D1%81%D0%B5%D0%B9%D0%BD%20%C2%AB%D0%A0%D0%B5%D0%BB%D0%B0%D0%BA%D1%81%C2%BB%20%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%2C%20%D1%83%D0%BB.%20%D0%A0%D1%83%D0%B1%D0%B8%D0%BD%D1%88%D1%82%D0%B5%D0%B9%D0%BD%D0%B0%2C%2066"
   },
   {
     "id": 236,
@@ -6364,12 +6599,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/_ecoclean_санк",
     "hasRealWebsite": false,
     "phonePrimary": "+79215727363",
-    "instagram": "_ecoclean_санк",
-    "telegram": "",
-    "tgLink": "https://t.me/+79215727363",
+    "instagram": "ecoclean_sankt_peterburg",
+    "telegram": "ecoclean_sankt_peterburg",
+    "tgLink": "https://t.me/ecoclean_sankt_peterburg",
     "phoneLink": "tel:+79215727363",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%2C%20%D0%A5%D0%B8%D0%BC%D1%87%D0%B8%D1%81%D1%82%D0%BA%D0%B0%20%D0%BC%D0%B5%D0%B1%D0%B5%D0%BB%D0%B8%20%D0%B8%20%D0%BA%D0%BB%D0%B8%D0%BD%D0%B8%D0%BD%D0%B3%20%C2%ABEcoClean%C2%BB%20%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%2C%20%D0%9B%D0%B8%D1%82%D0%B5%D0%B9%D0%BD%D1%8B%D0%B9%20%D0%BF%D1%80-%D1%82%2C%2067"
   },
   {
     "id": 237,
@@ -6391,12 +6627,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/__санк",
     "hasRealWebsite": false,
     "phonePrimary": "+79211337644",
-    "instagram": "__санк",
-    "telegram": "",
-    "tgLink": "https://t.me/+79211337644",
+    "instagram": "ulybka_sankt_peterburg",
+    "telegram": "ulybka_sankt_peterburg",
+    "tgLink": "https://t.me/ulybka_sankt_peterburg",
     "phoneLink": "tel:+79211337644",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%2C%20%D0%A1%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F%20%C2%AB%D0%A3%D0%BB%D1%8B%D0%B1%D0%BA%D0%B0%C2%BB%20%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%2C%20%D0%9A%D0%B0%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D1%80-%D1%82%2C%2068"
   },
   {
     "id": 238,
@@ -6418,12 +6655,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/__санк",
     "hasRealWebsite": false,
     "phonePrimary": "+79211297826",
-    "instagram": "__санк",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "balans_sankt_peterburg",
+    "telegram": "balans_sankt_peterburg",
+    "tgLink": "https://t.me/balans_sankt_peterburg",
     "phoneLink": "tel:+79211297826",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%2C%20%D0%A1%D1%82%D1%83%D0%B4%D0%B8%D1%8F%20%D0%BF%D0%B8%D0%BB%D0%B0%D1%82%D0%B5%D1%81%D0%B0%20%C2%AB%D0%91%D0%B0%D0%BB%D0%B0%D0%BD%D1%81%C2%BB%20%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%2C%20%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D1%80-%D1%82%2C%2069"
   },
   {
     "id": 239,
@@ -6445,12 +6683,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+79109518821",
-    "instagram": "_caramel_смол",
-    "telegram": "_caramel_bot",
-    "tgLink": "https://t.me/_caramel_bot",
+    "instagram": "caramel_smolensk",
+    "telegram": "caramel_smolensk",
+    "tgLink": "https://t.me/caramel_smolensk",
     "phoneLink": "tel:+79109518821",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%A1%D0%BC%D0%BE%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%2C%20%D0%9A%D0%BE%D1%84%D0%B5%20%26%20%D0%94%D0%B5%D1%81%D0%B5%D1%80%D1%82%D1%8B%20%C2%ABCaramel%C2%BB%20%D0%A1%D0%BC%D0%BE%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F%20%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F%2C%2070"
   },
   {
     "id": 240,
@@ -6472,12 +6711,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/_tokyoroll_смол",
     "hasRealWebsite": false,
     "phonePrimary": "+79105893849",
-    "instagram": "_tokyoroll_смол",
-    "telegram": "",
-    "tgLink": "https://t.me/+79105893849",
+    "instagram": "tokyo_roll_smolensk",
+    "telegram": "tokyo_roll_smolensk",
+    "tgLink": "https://t.me/tokyo_roll_smolensk",
     "phoneLink": "tel:+79105893849",
     "source": "yandex",
-    "crmStatus": "contacted"
+    "crmStatus": "contacted",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%A1%D0%BC%D0%BE%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%2C%20%D0%94%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B0%20%D1%81%D1%83%D1%88%D0%B8%20%C2%ABTokyo%20Roll%C2%BB%20%D0%A1%D0%BC%D0%BE%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0%2C%2071"
   },
   {
     "id": 241,
@@ -6499,12 +6739,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/_prestigefood_смол",
     "hasRealWebsite": false,
     "phonePrimary": "+79109944442",
-    "instagram": "_prestigefood_смол",
-    "telegram": "_prestigefood_bot",
-    "tgLink": "https://t.me/_prestigefood_bot",
+    "instagram": "prestige_food_smolensk",
+    "telegram": "prestige_food_smolensk",
+    "tgLink": "https://t.me/prestige_food_smolensk",
     "phoneLink": "tel:+79109944442",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%A1%D0%BC%D0%BE%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%2C%20%D0%9A%D0%B5%D0%B9%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%81%D0%BB%D1%83%D0%B6%D0%B1%D0%B0%20%C2%ABPrestige%20Food%C2%BB%20%D0%A1%D0%BC%D0%BE%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B0%2C%2072"
   },
   {
     "id": 242,
@@ -6526,12 +6767,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/_oldschool_смол",
     "hasRealWebsite": false,
     "phonePrimary": "+79109632268",
-    "instagram": "_oldschool_смол",
-    "telegram": "",
-    "tgLink": "https://t.me/+79109632268",
+    "instagram": "old_school_smolensk",
+    "telegram": "old_school_smolensk",
+    "tgLink": "https://t.me/old_school_smolensk",
     "phoneLink": "tel:+79109632268",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%A1%D0%BC%D0%BE%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%2C%20%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80-%D1%81%D1%82%D1%83%D0%B4%D0%B8%D1%8F%20%C2%ABOld%20School%C2%BB%20%D0%A1%D0%BC%D0%BE%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9A%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%2C%2073"
   },
   {
     "id": 243,
@@ -6553,12 +6795,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+79106611974",
-    "instagram": "_nailartstudio_смол",
-    "telegram": "_nailartstudio_bot",
-    "tgLink": "https://t.me/_nailartstudio_bot",
+    "instagram": "nail_art_studio_smolensk",
+    "telegram": "nail_art_studio_smolensk",
+    "tgLink": "https://t.me/nail_art_studio_smolensk",
     "phoneLink": "tel:+79106611974",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%A1%D0%BC%D0%BE%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%2C%20%D0%9D%D0%BE%D0%B3%D1%82%D0%B5%D0%B2%D0%B0%D1%8F%20%D1%81%D1%82%D1%83%D0%B4%D0%B8%D1%8F%20%C2%ABNail%20Art%20Studio%C2%BB%20%D0%A1%D0%BC%D0%BE%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F%20%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F%2C%2074"
   },
   {
     "id": 244,
@@ -6580,12 +6823,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/_monrobeauty_смол",
     "hasRealWebsite": false,
     "phonePrimary": "+79105370295",
-    "instagram": "_monrobeauty_смол",
-    "telegram": "_monrobeauty_bot",
-    "tgLink": "https://t.me/_monrobeauty_bot",
+    "instagram": "monro_beauty_smolensk",
+    "telegram": "monro_beauty_smolensk",
+    "tgLink": "https://t.me/monro_beauty_smolensk",
     "phoneLink": "tel:+79105370295",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%A1%D0%BC%D0%BE%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%2C%20%D0%A1%D1%82%D1%83%D0%B4%D0%B8%D1%8F%20%D0%BA%D0%BE%D0%BB%D0%BE%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B8%20%C2%ABMonro%20Beauty%C2%BB%20%D0%A1%D0%BC%D0%BE%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0%2C%2075"
   },
   {
     "id": 245,
@@ -6607,12 +6851,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/_proglaze_смол",
     "hasRealWebsite": false,
     "phonePrimary": "+79105797960",
-    "instagram": "_proglaze_смол",
-    "telegram": "_proglaze_bot",
-    "tgLink": "https://t.me/_proglaze_bot",
+    "instagram": "proglaze_smolensk",
+    "telegram": "proglaze_smolensk",
+    "tgLink": "https://t.me/proglaze_smolensk",
     "phoneLink": "tel:+79105797960",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%A1%D0%BC%D0%BE%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%2C%20%D0%94%D0%B5%D1%82%D0%B5%D0%B9%D0%BB%D0%B8%D0%BD%D0%B3-%D1%81%D1%82%D1%83%D0%B4%D0%B8%D1%8F%20%C2%ABProGlaze%C2%BB%20%D0%A1%D0%BC%D0%BE%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B0%2C%2076"
   },
   {
     "id": 246,
@@ -6634,12 +6879,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/_aquaclean_смол",
     "hasRealWebsite": false,
     "phonePrimary": "+79101002114",
-    "instagram": "_aquaclean_смол",
-    "telegram": "_aquaclean_bot",
-    "tgLink": "https://t.me/_aquaclean_bot",
+    "instagram": "aqua_clean_smolensk",
+    "telegram": "aqua_clean_smolensk",
+    "tgLink": "https://t.me/aqua_clean_smolensk",
     "phoneLink": "tel:+79101002114",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%A1%D0%BC%D0%BE%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%2C%20%D0%9C%D0%BE%D0%B9%D0%BA%D0%B0%20%D1%81%D0%B0%D0%BC%D0%BE%D0%BE%D0%B1%D1%81%D0%BB%D1%83%D0%B6%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%C2%ABAqua%20Clean%C2%BB%20%D0%A1%D0%BC%D0%BE%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9A%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%2C%2077"
   },
   {
     "id": 247,
@@ -6661,12 +6907,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+79107945967",
-    "instagram": "__смол",
-    "telegram": "",
-    "tgLink": "https://t.me/+79107945967",
+    "instagram": "avtoekspert_smolensk",
+    "telegram": "avtoekspert_smolensk",
+    "tgLink": "https://t.me/avtoekspert_smolensk",
     "phoneLink": "tel:+79107945967",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%A1%D0%BC%D0%BE%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%2C%20%D0%A2%D0%B5%D1%85%D1%86%D0%B5%D0%BD%D1%82%D1%80%20%C2%AB%D0%90%D0%B2%D1%82%D0%BE%D0%AD%D0%BA%D1%81%D0%BF%D0%B5%D1%80%D1%82%C2%BB%20%D0%A1%D0%BC%D0%BE%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F%20%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F%2C%2078"
   },
   {
     "id": 248,
@@ -6688,12 +6935,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/_loft__смол",
     "hasRealWebsite": false,
     "phonePrimary": "+79102230225",
-    "instagram": "_loft__смол",
-    "telegram": "_loft__bot",
-    "tgLink": "https://t.me/_loft__bot",
+    "instagram": "loft_mebel_smolensk",
+    "telegram": "loft_mebel_smolensk",
+    "tgLink": "https://t.me/loft_mebel_smolensk",
     "phoneLink": "tel:+79102230225",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%A1%D0%BC%D0%BE%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%2C%20%D0%9A%D1%83%D1%85%D0%BD%D0%B8%20%D0%BD%D0%B0%20%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%20%C2%ABLoft%20%D0%9C%D0%B5%D0%B1%D0%B5%D0%BB%D1%8C%C2%BB%20%D0%A1%D0%BC%D0%BE%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0%2C%2079"
   },
   {
     "id": 249,
@@ -6715,12 +6963,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/__смол",
     "hasRealWebsite": false,
     "phonePrimary": "+79103835770",
-    "instagram": "__смол",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "profi_stroy_smolensk",
+    "telegram": "profi_stroy_smolensk",
+    "tgLink": "https://t.me/profi_stroy_smolensk",
     "phoneLink": "tel:+79103835770",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%A1%D0%BC%D0%BE%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%2C%20%D0%95%D0%B2%D1%80%D0%BE%D1%80%D0%B5%D0%BC%D0%BE%D0%BD%D1%82%20%C2%AB%D0%9F%D1%80%D0%BE%D1%84%D0%B8%20%D0%A1%D1%82%D1%80%D0%BE%D0%B9%C2%BB%20%D0%A1%D0%BC%D0%BE%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B0%2C%2080"
   },
   {
     "id": 250,
@@ -6742,12 +6991,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/__смол",
     "hasRealWebsite": false,
     "phonePrimary": "+79101442582",
-    "instagram": "__смол",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "prestizh_smolensk",
+    "telegram": "prestizh_smolensk",
+    "tgLink": "https://t.me/prestizh_smolensk",
     "phoneLink": "tel:+79101442582",
     "source": "yandex",
-    "crmStatus": "in_progress"
+    "crmStatus": "in_progress",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%A1%D0%BC%D0%BE%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%2C%20%D0%9D%D0%B0%D1%82%D1%8F%D0%B6%D0%BD%D1%8B%D0%B5%20%D0%BF%D0%BE%D1%82%D0%BE%D0%BB%D0%BA%D0%B8%20%C2%AB%D0%9F%D1%80%D0%B5%D1%81%D1%82%D0%B8%D0%B6%C2%BB%20%D0%A1%D0%BC%D0%BE%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9A%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%2C%2081"
   },
   {
     "id": 251,
@@ -6769,12 +7019,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+79106869801",
-    "instagram": "__смол",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "lesnaya_skazka_smolensk",
+    "telegram": "lesnaya_skazka_smolensk",
+    "tgLink": "https://t.me/lesnaya_skazka_smolensk",
     "phoneLink": "tel:+79106869801",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%A1%D0%BC%D0%BE%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%2C%20%D0%A3%D1%81%D0%B0%D0%B4%D1%8C%D0%B1%D0%B0%20%D1%83%20%D0%BE%D0%B7%D0%B5%D1%80%D0%B0%20%C2%AB%D0%9B%D0%B5%D1%81%D0%BD%D0%B0%D1%8F%20%D0%A1%D0%BA%D0%B0%D0%B7%D0%BA%D0%B0%C2%BB%20%D0%A1%D0%BC%D0%BE%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F%20%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F%2C%2082"
   },
   {
     "id": 252,
@@ -6796,12 +7047,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/__смол",
     "hasRealWebsite": false,
     "phonePrimary": "+79108317559",
-    "instagram": "__смол",
-    "telegram": "",
-    "tgLink": "https://t.me/+79108317559",
+    "instagram": "dubrava_smolensk",
+    "telegram": "dubrava_smolensk",
+    "tgLink": "https://t.me/dubrava_smolensk",
     "phoneLink": "tel:+79108317559",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%A1%D0%BC%D0%BE%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%2C%20%D0%91%D0%B0%D0%BD%D1%8F%20%D1%81%20%D0%BA%D1%83%D0%BF%D0%B5%D0%BB%D1%8C%D1%8E%20%C2%AB%D0%94%D1%83%D0%B1%D1%80%D0%B0%D0%B2%D0%B0%C2%BB%20%D0%A1%D0%BC%D0%BE%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0%2C%2083"
   },
   {
     "id": 253,
@@ -6823,12 +7075,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/__смол",
     "hasRealWebsite": false,
     "phonePrimary": "+79106526856",
-    "instagram": "__смол",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "myata_smolensk",
+    "telegram": "myata_smolensk",
+    "tgLink": "https://t.me/myata_smolensk",
     "phoneLink": "tel:+79106526856",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%A1%D0%BC%D0%BE%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%2C%20%D0%9A%D0%BB%D0%B8%D0%BD%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F%20%C2%AB%D0%9C%D1%8F%D1%82%D0%B0%C2%BB%20%D0%A1%D0%BC%D0%BE%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B0%2C%2084"
   },
   {
     "id": 254,
@@ -6850,12 +7103,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/__смол",
     "hasRealWebsite": false,
     "phonePrimary": "+79109105232",
-    "instagram": "__смол",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "denta_pro_smolensk",
+    "telegram": "denta_pro_smolensk",
+    "tgLink": "https://t.me/denta_pro_smolensk",
     "phoneLink": "tel:+79109105232",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%A1%D0%BC%D0%BE%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%2C%20%D0%A1%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D1%86%D0%B5%D0%BD%D1%82%D1%80%20%C2%AB%D0%94%D0%B5%D0%BD%D1%82%D0%B0%20%D0%9F%D1%80%D0%BE%C2%BB%20%D0%A1%D0%BC%D0%BE%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9A%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%2C%2085"
   },
   {
     "id": 255,
@@ -6877,12 +7131,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+79101992730",
-    "instagram": "_fitlady_смол",
-    "telegram": "",
-    "tgLink": "https://t.me/+79101992730",
+    "instagram": "fit_lady_smolensk",
+    "telegram": "fit_lady_smolensk",
+    "tgLink": "https://t.me/fit_lady_smolensk",
     "phoneLink": "tel:+79101992730",
     "source": "2gis",
-    "crmStatus": "contacted"
+    "crmStatus": "contacted",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%A1%D0%BC%D0%BE%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%2C%20%D0%96%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D1%84%D0%B8%D1%82%D0%BD%D0%B5%D1%81%20%C2%ABFit%20Lady%C2%BB%20%D0%A1%D0%BC%D0%BE%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F%20%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F%2C%201"
   },
   {
     "id": 256,
@@ -6904,12 +7159,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/__брян",
     "hasRealWebsite": false,
     "phonePrimary": "+79107400891",
-    "instagram": "__брян",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "zyorna_bryansk",
+    "telegram": "zyorna_bryansk",
+    "tgLink": "https://t.me/zyorna_bryansk",
     "phoneLink": "tel:+79107400891",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D1%80%D1%8F%D0%BD%D1%81%D0%BA%2C%20%D0%9A%D0%BE%D1%84%D0%B5%D0%B9%D0%BD%D1%8F%20%C2%AB%D0%97%D1%91%D1%80%D0%BD%D0%B0%C2%BB%20%D0%91%D1%80%D1%8F%D0%BD%D1%81%D0%BA%2C%20%D0%BF%D1%80-%D1%82%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0%2C%202"
   },
   {
     "id": 257,
@@ -6931,12 +7187,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/_mariopizza_брян",
     "hasRealWebsite": false,
     "phonePrimary": "+79103780692",
-    "instagram": "_mariopizza_брян",
-    "telegram": "_mariopizza_bot",
-    "tgLink": "https://t.me/_mariopizza_bot",
+    "instagram": "mario_pizza_bryansk",
+    "telegram": "mario_pizza_bryansk",
+    "tgLink": "https://t.me/mario_pizza_bryansk",
     "phoneLink": "tel:+79103780692",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D1%80%D1%8F%D0%BD%D1%81%D0%BA%2C%20%D0%9F%D0%B8%D1%86%D1%86%D0%B5%D1%80%D0%B8%D1%8F%20%D0%BD%D0%B0%D0%B2%D1%8B%D0%BD%D0%BE%D1%81%20%C2%ABMario%20Pizza%C2%BB%20%D0%91%D1%80%D1%8F%D0%BD%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B0%D1%80%D0%BC%D0%B5%D0%B9%D1%81%D0%BA%D0%B0%D1%8F%2C%203"
   },
   {
     "id": 258,
@@ -6958,12 +7215,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/_furshettime_брян",
     "hasRealWebsite": false,
     "phonePrimary": "+79108951682",
-    "instagram": "_furshettime_брян",
-    "telegram": "",
-    "tgLink": "https://t.me/+79108951682",
+    "instagram": "furshet_time_bryansk",
+    "telegram": "furshet_time_bryansk",
+    "tgLink": "https://t.me/furshet_time_bryansk",
     "phoneLink": "tel:+79108951682",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D1%80%D1%8F%D0%BD%D1%81%D0%BA%2C%20%D0%93%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B1%D0%BE%D0%BA%D1%81%D1%8B%20%26%20%D0%9A%D0%B5%D0%B9%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B3%20%C2%ABFurshet%20Time%C2%BB%20%D0%91%D1%80%D1%8F%D0%BD%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%A4%D0%BE%D0%BA%D0%B8%D0%BD%D0%B0%2C%204"
   },
   {
     "id": 259,
@@ -6985,12 +7243,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+79103115970",
-    "instagram": "_gentlemanclub_брян",
-    "telegram": "_gentlemanclub_bot",
-    "tgLink": "https://t.me/_gentlemanclub_bot",
+    "instagram": "gentleman_club_bryansk",
+    "telegram": "gentleman_club_bryansk",
+    "tgLink": "https://t.me/gentleman_club_bryansk",
     "phoneLink": "tel:+79103115970",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D1%80%D1%8F%D0%BD%D1%81%D0%BA%2C%20%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%20%C2%ABGentleman%20Club%C2%BB%20%D0%91%D1%80%D1%8F%D0%BD%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%94%D1%83%D0%BA%D0%B8%2C%205"
   },
   {
     "id": 260,
@@ -7012,12 +7271,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/_pinkberry_брян",
     "hasRealWebsite": false,
     "phonePrimary": "+79102808716",
-    "instagram": "_pinkberry_брян",
-    "telegram": "",
-    "tgLink": "https://t.me/+79102808716",
+    "instagram": "pink_berry_bryansk",
+    "telegram": "pink_berry_bryansk",
+    "tgLink": "https://t.me/pink_berry_bryansk",
     "phoneLink": "tel:+79102808716",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D1%80%D1%8F%D0%BD%D1%81%D0%BA%2C%20%D0%A1%D1%82%D1%83%D0%B4%D0%B8%D1%8F%20%D0%BC%D0%B0%D0%BD%D0%B8%D0%BA%D1%8E%D1%80%D0%B0%20%C2%ABPink%20Berry%C2%BB%20%D0%91%D1%80%D1%8F%D0%BD%D1%81%D0%BA%2C%20%D0%BF%D1%80-%D1%82%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0%2C%206"
   },
   {
     "id": 261,
@@ -7039,12 +7299,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/__брян",
     "hasRealWebsite": false,
     "phonePrimary": "+79109373017",
-    "instagram": "__брян",
-    "telegram": "",
-    "tgLink": "https://t.me/+79109373017",
+    "instagram": "estet_bryansk",
+    "telegram": "estet_bryansk",
+    "tgLink": "https://t.me/estet_bryansk",
     "phoneLink": "tel:+79109373017",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D1%80%D1%8F%D0%BD%D1%81%D0%BA%2C%20%D0%A1%D0%B0%D0%BB%D0%BE%D0%BD%20%D0%BA%D1%80%D0%B0%D1%81%D0%BE%D1%82%D1%8B%20%C2%AB%D0%AD%D1%81%D1%82%D0%B5%D1%82%C2%BB%20%D0%91%D1%80%D1%8F%D0%BD%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B0%D1%80%D0%BC%D0%B5%D0%B9%D1%81%D0%BA%D0%B0%D1%8F%2C%207"
   },
   {
     "id": 262,
@@ -7066,12 +7327,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/_detailinglab_брян",
     "hasRealWebsite": false,
     "phonePrimary": "+79108379338",
-    "instagram": "_detailinglab_брян",
-    "telegram": "_detailinglab_bot",
-    "tgLink": "https://t.me/_detailinglab_bot",
+    "instagram": "detailing_lab_bryansk",
+    "telegram": "detailing_lab_bryansk",
+    "tgLink": "https://t.me/detailing_lab_bryansk",
     "phoneLink": "tel:+79108379338",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D1%80%D1%8F%D0%BD%D1%81%D0%BA%2C%20%D0%A6%D0%B5%D0%BD%D1%82%D1%80%20%D1%83%D1%85%D0%BE%D0%B4%D0%B0%20%D0%B7%D0%B0%20%D0%B0%D0%B2%D1%82%D0%BE%20%C2%ABDetailing%20Lab%C2%BB%20%D0%91%D1%80%D1%8F%D0%BD%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%A4%D0%BE%D0%BA%D0%B8%D0%BD%D0%B0%2C%208"
   },
   {
     "id": 263,
@@ -7093,12 +7355,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+79107686820",
-    "instagram": "__брян",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "chistyy_stil_bryansk",
+    "telegram": "chistyy_stil_bryansk",
+    "tgLink": "https://t.me/chistyy_stil_bryansk",
     "phoneLink": "tel:+79107686820",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D1%80%D1%8F%D0%BD%D1%81%D0%BA%2C%20%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B9%D0%BA%D0%B0%20%C2%AB%D0%A7%D0%B8%D1%81%D1%82%D1%8B%D0%B9%20%D0%A1%D1%82%D0%B8%D0%BB%D1%8C%C2%BB%20%D0%91%D1%80%D1%8F%D0%BD%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%94%D1%83%D0%BA%D0%B8%2C%209"
   },
   {
     "id": 264,
@@ -7120,12 +7383,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/__брян",
     "hasRealWebsite": false,
     "phonePrimary": "+79102605445",
-    "instagram": "__брян",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "master_avto_bryansk",
+    "telegram": "master_avto_bryansk",
+    "tgLink": "https://t.me/master_avto_bryansk",
     "phoneLink": "tel:+79102605445",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D1%80%D1%8F%D0%BD%D1%81%D0%BA%2C%20%D0%90%D0%B2%D1%82%D0%BE%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%20%C2%AB%D0%9C%D0%B0%D1%81%D1%82%D0%B5%D1%80-%D0%90%D0%B2%D1%82%D0%BE%C2%BB%20%D0%91%D1%80%D1%8F%D0%BD%D1%81%D0%BA%2C%20%D0%BF%D1%80-%D1%82%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0%2C%2010"
   },
   {
     "id": 265,
@@ -7147,12 +7411,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/_modernkitchens_брян",
     "hasRealWebsite": false,
     "phonePrimary": "+79107848205",
-    "instagram": "_modernkitchens_брян",
-    "telegram": "",
-    "tgLink": "https://t.me/+79107848205",
+    "instagram": "modern_kitchens_bryansk",
+    "telegram": "modern_kitchens_bryansk",
+    "tgLink": "https://t.me/modern_kitchens_bryansk",
     "phoneLink": "tel:+79107848205",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D1%80%D1%8F%D0%BD%D1%81%D0%BA%2C%20%D0%9C%D0%B5%D0%B1%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D1%84%D0%B0%D0%B1%D1%80%D0%B8%D0%BA%D0%B0%20%C2%ABModern%20Kitchens%C2%BB%20%D0%91%D1%80%D1%8F%D0%BD%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B0%D1%80%D0%BC%D0%B5%D0%B9%D1%81%D0%BA%D0%B0%D1%8F%2C%2011"
   },
   {
     "id": 266,
@@ -7174,12 +7439,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/__брян",
     "hasRealWebsite": false,
     "phonePrimary": "+79109547387",
-    "instagram": "__брян",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "stroy_brigada_bryansk",
+    "telegram": "stroy_brigada_bryansk",
+    "tgLink": "https://t.me/stroy_brigada_bryansk",
     "phoneLink": "tel:+79109547387",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D1%80%D1%8F%D0%BD%D1%81%D0%BA%2C%20%D0%A0%D0%B5%D0%BC%D0%BE%D0%BD%D1%82%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%20%C2%AB%D0%A1%D1%82%D1%80%D0%BE%D0%B9%20%D0%91%D1%80%D0%B8%D0%B3%D0%B0%D0%B4%D0%B0%C2%BB%20%D0%91%D1%80%D1%8F%D0%BD%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%A4%D0%BE%D0%BA%D0%B8%D0%BD%D0%B0%2C%2012"
   },
   {
     "id": 267,
@@ -7201,12 +7467,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+79102279200",
-    "instagram": "_skyline_брян",
-    "telegram": "_skyline_bot",
-    "tgLink": "https://t.me/_skyline_bot",
+    "instagram": "sky_line_bryansk",
+    "telegram": "sky_line_bryansk",
+    "tgLink": "https://t.me/sky_line_bryansk",
     "phoneLink": "tel:+79102279200",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D1%80%D1%8F%D0%BD%D1%81%D0%BA%2C%20%D0%9F%D0%BE%D1%82%D0%BE%D0%BB%D0%BE%D1%87%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B%20%C2%ABSky%20Line%C2%BB%20%D0%91%D1%80%D1%8F%D0%BD%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%94%D1%83%D0%BA%D0%B8%2C%2013"
   },
   {
     "id": 268,
@@ -7228,12 +7495,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/__брян",
     "hasRealWebsite": false,
     "phonePrimary": "+79103378171",
-    "instagram": "__брян",
-    "telegram": "",
-    "tgLink": "https://t.me/+79103378171",
+    "instagram": "tikhiy_ugolok_bryansk",
+    "telegram": "tikhiy_ugolok_bryansk",
+    "tgLink": "https://t.me/tikhiy_ugolok_bryansk",
     "phoneLink": "tel:+79103378171",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D1%80%D1%8F%D0%BD%D1%81%D0%BA%2C%20%D0%90%D0%B3%D1%80%D0%BE%D1%83%D1%81%D0%B0%D0%B4%D1%8C%D0%B1%D0%B0%20%C2%AB%D0%A2%D0%B8%D1%85%D0%B8%D0%B9%20%D0%A3%D0%B3%D0%BE%D0%BB%D0%BE%D0%BA%C2%BB%20%D0%91%D1%80%D1%8F%D0%BD%D1%81%D0%BA%2C%20%D0%BF%D1%80-%D1%82%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0%2C%2014"
   },
   {
     "id": 269,
@@ -7255,12 +7523,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/__брян",
     "hasRealWebsite": false,
     "phonePrimary": "+79107947145",
-    "instagram": "__брян",
-    "telegram": "",
-    "tgLink": "https://t.me/+79107947145",
+    "instagram": "parnoy_dvorik_bryansk",
+    "telegram": "parnoy_dvorik_bryansk",
+    "tgLink": "https://t.me/parnoy_dvorik_bryansk",
     "phoneLink": "tel:+79107947145",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D1%80%D1%8F%D0%BD%D1%81%D0%BA%2C%20%D0%91%D0%B0%D0%BD%D1%8F%20%D0%BD%D0%B0%20%D0%B4%D1%80%D0%BE%D0%B2%D0%B0%D1%85%20%C2%AB%D0%9F%D0%B0%D1%80%D0%BD%D0%BE%D0%B9%20%D0%94%D0%B2%D0%BE%D1%80%D0%B8%D0%BA%C2%BB%20%D0%91%D1%80%D1%8F%D0%BD%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B0%D1%80%D0%BC%D0%B5%D0%B9%D1%81%D0%BA%D0%B0%D1%8F%2C%2015"
   },
   {
     "id": 270,
@@ -7282,12 +7551,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/__брян",
     "hasRealWebsite": false,
     "phonePrimary": "+79102286514",
-    "instagram": "__брян",
-    "telegram": "",
-    "tgLink": "https://t.me/+79102286514",
+    "instagram": "chistyy_dom_bryansk",
+    "telegram": "chistyy_dom_bryansk",
+    "tgLink": "https://t.me/chistyy_dom_bryansk",
     "phoneLink": "tel:+79102286514",
     "source": "yandex",
-    "crmStatus": "contacted"
+    "crmStatus": "contacted",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D1%80%D1%8F%D0%BD%D1%81%D0%BA%2C%20%D0%9A%D0%BB%D0%B8%D0%BD%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%81%D0%BB%D1%83%D0%B6%D0%B1%D0%B0%20%C2%AB%D0%A7%D0%B8%D1%81%D1%82%D1%8B%D0%B9%20%D0%94%D0%BE%D0%BC%C2%BB%20%D0%91%D1%80%D1%8F%D0%BD%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%A4%D0%BE%D0%BA%D0%B8%D0%BD%D0%B0%2C%2016"
   },
   {
     "id": 271,
@@ -7309,12 +7579,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+79104460342",
-    "instagram": "__брян",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "belyy_zhemchug_bryansk",
+    "telegram": "belyy_zhemchug_bryansk",
+    "tgLink": "https://t.me/belyy_zhemchug_bryansk",
     "phoneLink": "tel:+79104460342",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D1%80%D1%8F%D0%BD%D1%81%D0%BA%2C%20%D0%A1%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B0%D0%B1%D0%B8%D0%BD%D0%B5%D1%82%20%C2%AB%D0%91%D0%B5%D0%BB%D1%8B%D0%B9%20%D0%96%D0%B5%D0%BC%D1%87%D1%83%D0%B3%C2%BB%20%D0%91%D1%80%D1%8F%D0%BD%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%94%D1%83%D0%BA%D0%B8%2C%2017"
   },
   {
     "id": 272,
@@ -7336,12 +7607,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/_airyoga_брян",
     "hasRealWebsite": false,
     "phonePrimary": "+79104176653",
-    "instagram": "_airyoga_брян",
-    "telegram": "_airyoga_bot",
-    "tgLink": "https://t.me/_airyoga_bot",
+    "instagram": "air_yoga_bryansk",
+    "telegram": "air_yoga_bryansk",
+    "tgLink": "https://t.me/air_yoga_bryansk",
     "phoneLink": "tel:+79104176653",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%91%D1%80%D1%8F%D0%BD%D1%81%D0%BA%2C%20%D0%A1%D1%82%D1%83%D0%B4%D0%B8%D1%8F%20%D1%81%D1%82%D1%80%D0%B5%D1%82%D1%87%D0%B8%D0%BD%D0%B3%D0%B0%20%D0%B8%20%D0%B9%D0%BE%D0%B3%D0%B8%20%C2%ABAir%20Yoga%C2%BB%20%D0%91%D1%80%D1%8F%D0%BD%D1%81%D0%BA%2C%20%D0%BF%D1%80-%D1%82%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0%2C%2018"
   },
   {
     "id": 273,
@@ -7363,12 +7635,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/_storiescoffee_пско",
     "hasRealWebsite": false,
     "phonePrimary": "+79112908482",
-    "instagram": "_storiescoffee_пско",
-    "telegram": "",
-    "tgLink": "https://t.me/+79112908482",
+    "instagram": "stories_coffee_pskov",
+    "telegram": "stories_coffee_pskov",
+    "tgLink": "https://t.me/stories_coffee_pskov",
     "phoneLink": "tel:+79112908482",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%2C%20%D0%9A%D0%BE%D1%84%D0%B5-%D0%B1%D0%B0%D1%80%20%C2%ABStories%20Coffee%C2%BB%20%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%2C%20%D1%83%D0%BB.%20%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F%2C%2019"
   },
   {
     "id": 274,
@@ -7390,12 +7663,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/_craftmeat_пско",
     "hasRealWebsite": false,
     "phonePrimary": "+79116186137",
-    "instagram": "_craftmeat_пско",
-    "telegram": "_craftmeat_bot",
-    "tgLink": "https://t.me/_craftmeat_bot",
+    "instagram": "craft_meat_pskov",
+    "telegram": "craft_meat_pskov",
+    "tgLink": "https://t.me/craft_meat_pskov",
     "phoneLink": "tel:+79116186137",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%2C%20%D0%93%D1%80%D0%B8%D0%BB%D1%8C%20%26%20%D0%91%D1%83%D1%80%D0%B3%D0%B5%D1%80%D1%8B%20%C2%ABCraft%20Meat%C2%BB%20%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%2C%20%D0%A0%D0%B8%D0%B6%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D1%80-%D1%82%2C%2020"
   },
   {
     "id": 275,
@@ -7417,12 +7691,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+79114314993",
-    "instagram": "_smartbuffet_пско",
-    "telegram": "_smartbuffet_bot",
-    "tgLink": "https://t.me/_smartbuffet_bot",
+    "instagram": "smart_buffet_pskov",
+    "telegram": "smart_buffet_pskov",
+    "tgLink": "https://t.me/smart_buffet_pskov",
     "phoneLink": "tel:+79114314993",
     "source": "2gis",
-    "crmStatus": "in_progress"
+    "crmStatus": "in_progress",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%2C%20%D0%9A%D0%B5%D0%B9%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B3%20%C2%ABSmart%20Buffet%C2%BB%20%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%2C%20%D1%83%D0%BB.%20%D0%9D%D0%B5%D0%BA%D1%80%D0%B0%D1%81%D0%BE%D0%B2%D0%B0%2C%2021"
   },
   {
     "id": 276,
@@ -7444,12 +7719,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/__пско",
     "hasRealWebsite": false,
     "phonePrimary": "+79117603195",
-    "instagram": "__пско",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "chop_pskov",
+    "telegram": "chop_pskov",
+    "tgLink": "https://t.me/chop_pskov",
     "phoneLink": "tel:+79117603195",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%2C%20%D0%9C%D1%83%D0%B6%D1%81%D0%BA%D0%B8%D0%B5%20%D1%81%D1%82%D1%80%D0%B8%D0%B6%D0%BA%D0%B8%20%C2%AB%D0%A7%D0%BE%D0%BF%C2%BB%20%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%2C%20%D0%9E%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8C%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D1%80-%D1%82%2C%2022"
   },
   {
     "id": 277,
@@ -7471,12 +7747,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/_glossynails_пско",
     "hasRealWebsite": false,
     "phonePrimary": "+79115533071",
-    "instagram": "_glossynails_пско",
-    "telegram": "_glossynails_bot",
-    "tgLink": "https://t.me/_glossynails_bot",
+    "instagram": "glossy_nails_pskov",
+    "telegram": "glossy_nails_pskov",
+    "tgLink": "https://t.me/glossy_nails_pskov",
     "phoneLink": "tel:+79115533071",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%2C%20%D0%A1%D1%82%D1%83%D0%B4%D0%B8%D1%8F%20%D0%BA%D1%80%D0%B0%D1%81%D0%BE%D1%82%D1%8B%20%C2%ABGlossy%20Nails%C2%BB%20%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%2C%20%D1%83%D0%BB.%20%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F%2C%2023"
   },
   {
     "id": 278,
@@ -7498,12 +7775,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/_secretroom_пско",
     "hasRealWebsite": false,
     "phonePrimary": "+79114164952",
-    "instagram": "_secretroom_пско",
-    "telegram": "_secretroom_bot",
-    "tgLink": "https://t.me/_secretroom_bot",
+    "instagram": "secret_room_pskov",
+    "telegram": "secret_room_pskov",
+    "tgLink": "https://t.me/secret_room_pskov",
     "phoneLink": "tel:+79114164952",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%2C%20%D0%9F%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE%20%D0%BA%D1%80%D0%B0%D1%81%D0%BE%D1%82%D1%8B%20%C2%ABSecret%20Room%C2%BB%20%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%2C%20%D0%A0%D0%B8%D0%B6%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D1%80-%D1%82%2C%2024"
   },
   {
     "id": 279,
@@ -7525,12 +7803,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+79111354751",
-    "instagram": "_blackedition_пско",
-    "telegram": "",
-    "tgLink": "https://t.me/+79111354751",
+    "instagram": "black_edition_pskov",
+    "telegram": "black_edition_pskov",
+    "tgLink": "https://t.me/black_edition_pskov",
     "phoneLink": "tel:+79111354751",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%2C%20%D0%A1%D1%82%D1%83%D0%B4%D0%B8%D1%8F%20%D0%B0%D0%B2%D1%82%D0%BE%D1%81%D1%82%D0%B0%D0%B9%D0%BB%D0%B8%D0%BD%D0%B3%D0%B0%20%C2%ABBlack%20Edition%C2%BB%20%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%2C%20%D1%83%D0%BB.%20%D0%9D%D0%B5%D0%BA%D1%80%D0%B0%D1%81%D0%BE%D0%B2%D0%B0%2C%2025"
   },
   {
     "id": 280,
@@ -7552,12 +7831,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/_h2o__пско",
     "hasRealWebsite": false,
     "phonePrimary": "+79113433134",
-    "instagram": "_h2o__пско",
-    "telegram": "",
-    "tgLink": "https://t.me/+79113433134",
+    "instagram": "h2o_ekspress_pskov",
+    "telegram": "h2o_ekspress_pskov",
+    "tgLink": "https://t.me/h2o_ekspress_pskov",
     "phoneLink": "tel:+79113433134",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%2C%20%D0%9A%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%D0%BD%D0%B0%D1%8F%20%D0%BC%D0%BE%D0%B9%D0%BA%D0%B0%20%C2%ABH2O%20%D0%AD%D0%BA%D1%81%D0%BF%D1%80%D0%B5%D1%81%D1%81%C2%BB%20%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%2C%20%D0%9E%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8C%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D1%80-%D1%82%2C%2026"
   },
   {
     "id": 281,
@@ -7579,12 +7859,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/__пско",
     "hasRealWebsite": false,
     "phonePrimary": "+79115518748",
-    "instagram": "__пско",
-    "telegram": "",
-    "tgLink": "https://t.me/+79115518748",
+    "instagram": "dizel_motors_pskov",
+    "telegram": "dizel_motors_pskov",
+    "tgLink": "https://t.me/dizel_motors_pskov",
     "phoneLink": "tel:+79115518748",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%2C%20%D0%A1%D0%A2%D0%9E%20%C2%AB%D0%94%D0%B8%D0%B7%D0%B5%D0%BB%D1%8C%20%D0%9C%D0%BE%D1%82%D0%BE%D1%80%D1%81%C2%BB%20%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%2C%20%D1%83%D0%BB.%20%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F%2C%2027"
   },
   {
     "id": 282,
@@ -7606,12 +7887,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/__пско",
     "hasRealWebsite": false,
     "phonePrimary": "+79114090447",
-    "instagram": "__пско",
-    "telegram": "",
-    "tgLink": "https://t.me/+79114090447",
+    "instagram": "master_vud_pskov",
+    "telegram": "master_vud_pskov",
+    "tgLink": "https://t.me/master_vud_pskov",
     "phoneLink": "tel:+79114090447",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%2C%20%D0%9A%D0%BE%D1%80%D0%BF%D1%83%D1%81%D0%BD%D0%B0%D1%8F%20%D0%BC%D0%B5%D0%B1%D0%B5%D0%BB%D1%8C%20%C2%AB%D0%9C%D0%B0%D1%81%D1%82%D0%B5%D1%80%20%D0%92%D1%83%D0%B4%C2%BB%20%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%2C%20%D0%A0%D0%B8%D0%B6%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D1%80-%D1%82%2C%2028"
   },
   {
     "id": 283,
@@ -7633,12 +7915,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+79115559884",
-    "instagram": "__пско",
-    "telegram": "",
-    "tgLink": "https://t.me/+79115559884",
+    "instagram": "novyy_dom_pskov",
+    "telegram": "novyy_dom_pskov",
+    "tgLink": "https://t.me/novyy_dom_pskov",
     "phoneLink": "tel:+79115559884",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%2C%20%D0%9E%D1%82%D0%B4%D0%B5%D0%BB%D0%BA%D0%B0%20%D0%BF%D0%BE%D0%B4%20%D0%BA%D0%BB%D1%8E%D1%87%20%C2%AB%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%94%D0%BE%D0%BC%C2%BB%20%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%2C%20%D1%83%D0%BB.%20%D0%9D%D0%B5%D0%BA%D1%80%D0%B0%D1%81%D0%BE%D0%B2%D0%B0%2C%2029"
   },
   {
     "id": 284,
@@ -7660,12 +7943,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/__пско",
     "hasRealWebsite": false,
     "phonePrimary": "+79116593197",
-    "instagram": "__пско",
-    "telegram": "",
-    "tgLink": "https://t.me/+79116593197",
+    "instagram": "glyanets_pskov",
+    "telegram": "glyanets_pskov",
+    "tgLink": "https://t.me/glyanets_pskov",
     "phoneLink": "tel:+79116593197",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%2C%20%D0%9F%D0%BE%D1%82%D0%BE%D0%BB%D0%BA%D0%B8%20%D0%BF%D0%BE%D0%B4%20%D0%BA%D0%BB%D1%8E%D1%87%20%C2%AB%D0%93%D0%BB%D1%8F%D0%BD%D0%B5%D1%86%C2%BB%20%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%2C%20%D0%9E%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8C%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D1%80-%D1%82%2C%2030"
   },
   {
     "id": 285,
@@ -7687,12 +7971,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/__пско",
     "hasRealWebsite": false,
     "phonePrimary": "+79118026612",
-    "instagram": "__пско",
-    "telegram": "",
-    "tgLink": "https://t.me/+79118026612",
+    "instagram": "khutorok_pskov",
+    "telegram": "khutorok_pskov",
+    "tgLink": "https://t.me/khutorok_pskov",
     "phoneLink": "tel:+79118026612",
     "source": "2gis",
-    "crmStatus": "contacted"
+    "crmStatus": "contacted",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%2C%20%D0%97%D0%B0%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%20%C2%AB%D0%A5%D1%83%D1%82%D0%BE%D1%80%D0%BE%D0%BA%C2%BB%20%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%2C%20%D1%83%D0%BB.%20%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F%2C%2031"
   },
   {
     "id": 286,
@@ -7714,12 +7999,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/__пско",
     "hasRealWebsite": false,
     "phonePrimary": "+79112090429",
-    "instagram": "__пско",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "russkiy_par_pskov",
+    "telegram": "russkiy_par_pskov",
+    "tgLink": "https://t.me/russkiy_par_pskov",
     "phoneLink": "tel:+79112090429",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%2C%20%D0%91%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%20%D1%81%20%D1%87%D0%B0%D0%BD%D0%BE%D0%BC%20%C2%AB%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9%20%D0%9F%D0%B0%D1%80%C2%BB%20%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%2C%20%D0%A0%D0%B8%D0%B6%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D1%80-%D1%82%2C%2032"
   },
   {
     "id": 287,
@@ -7741,12 +8027,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+79113454250",
-    "instagram": "__пско",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "kristall_pskov",
+    "telegram": "kristall_pskov",
+    "tgLink": "https://t.me/kristall_pskov",
     "phoneLink": "tel:+79113454250",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%2C%20%D0%9A%D0%BB%D0%B8%D0%BD%D0%B8%D0%BD%D0%B3%20%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%20%D1%80%D0%B5%D0%BC%D0%BE%D0%BD%D1%82%D0%B0%20%C2%AB%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B0%D0%BB%D0%BB%C2%BB%20%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%2C%20%D1%83%D0%BB.%20%D0%9D%D0%B5%D0%BA%D1%80%D0%B0%D1%81%D0%BE%D0%B2%D0%B0%2C%2033"
   },
   {
     "id": 288,
@@ -7768,12 +8055,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/_dentart_пско",
     "hasRealWebsite": false,
     "phonePrimary": "+79115309404",
-    "instagram": "_dentart_пско",
-    "telegram": "",
-    "tgLink": "https://t.me/+79115309404",
+    "instagram": "dent_art_pskov",
+    "telegram": "dent_art_pskov",
+    "tgLink": "https://t.me/dent_art_pskov",
     "phoneLink": "tel:+79115309404",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%2C%20%D0%9A%D0%BB%D0%B8%D0%BD%D0%B8%D0%BA%D0%B0%20%D1%8D%D1%81%D1%82%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B9%20%D1%81%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8%20%C2%ABDent%20Art%C2%BB%20%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%2C%20%D0%9E%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8C%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D1%80-%D1%82%2C%2034"
   },
   {
     "id": 289,
@@ -7795,12 +8083,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/_bodyshape_пско",
     "hasRealWebsite": false,
     "phonePrimary": "+79114724077",
-    "instagram": "_bodyshape_пско",
-    "telegram": "_bodyshape_bot",
-    "tgLink": "https://t.me/_bodyshape_bot",
+    "instagram": "body_shape_pskov",
+    "telegram": "body_shape_pskov",
+    "tgLink": "https://t.me/body_shape_pskov",
     "phoneLink": "tel:+79114724077",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%2C%20%D0%A4%D0%B8%D1%82%D0%BD%D0%B5%D1%81-%D1%81%D1%82%D1%83%D0%B4%D0%B8%D1%8F%20%C2%ABBody%20Shape%C2%BB%20%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%2C%20%D1%83%D0%BB.%20%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F%2C%2035"
   },
   {
     "id": 290,
@@ -7822,12 +8111,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/_wakeup_каза",
     "hasRealWebsite": false,
     "phonePrimary": "+79278616971",
-    "instagram": "_wakeup_каза",
-    "telegram": "_wakeup_bot",
-    "tgLink": "https://t.me/_wakeup_bot",
+    "instagram": "wake_up_kazan",
+    "telegram": "wake_up_kazan",
+    "tgLink": "https://t.me/wake_up_kazan",
     "phoneLink": "tel:+79278616971",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%2C%20%D0%A1%D0%BF%D0%B5%D1%88%D0%B5%D0%BB%D1%82%D0%B8-%D0%BA%D0%BE%D1%84%D0%B5%20%C2%ABWake%20Up%C2%BB%20%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%2C%20%D1%83%D0%BB.%20%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D0%B0%2C%2036"
   },
   {
     "id": 291,
@@ -7849,12 +8139,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+79279091482",
-    "instagram": "__каза",
-    "telegram": "",
-    "tgLink": "https://t.me/+79279091482",
+    "instagram": "myaso_na_uglyakh_kazan",
+    "telegram": "myaso_na_uglyakh_kazan",
+    "tgLink": "https://t.me/myaso_na_uglyakh_kazan",
     "phoneLink": "tel:+79279091482",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%2C%20%D0%94%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B0%20%D1%88%D0%B0%D1%88%D0%BB%D1%8B%D0%BA%D0%B0%20%C2%AB%D0%9C%D1%8F%D1%81%D0%BE%20%D0%BD%D0%B0%20%D0%A3%D0%B3%D0%BB%D1%8F%D1%85%C2%BB%20%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%2C%20%D1%83%D0%BB.%20%D0%A7%D0%B8%D1%81%D1%82%D0%BE%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F%2C%2037"
   },
   {
     "id": 292,
@@ -7876,12 +8167,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/_holidaybox_каза",
     "hasRealWebsite": false,
     "phonePrimary": "+79273042562",
-    "instagram": "_holidaybox_каза",
-    "telegram": "",
-    "tgLink": "https://t.me/+79273042562",
+    "instagram": "holiday_box_kazan",
+    "telegram": "holiday_box_kazan",
+    "tgLink": "https://t.me/holiday_box_kazan",
     "phoneLink": "tel:+79273042562",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%2C%20%D0%A4%D1%83%D1%80%D1%88%D0%B5%D1%82%D1%8B%20%D0%B8%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BF%D0%B5%20%C2%ABHoliday%20Box%C2%BB%20%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%2C%20%D1%83%D0%BB.%20%D0%91%D0%B0%D1%83%D0%BC%D0%B0%D0%BD%D0%B0%2C%2038"
   },
   {
     "id": 293,
@@ -7903,12 +8195,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/__каза",
     "hasRealWebsite": false,
     "phonePrimary": "+79275261099",
-    "instagram": "__каза",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "britva_kazan",
+    "telegram": "britva_kazan",
+    "tgLink": "https://t.me/britva_kazan",
     "phoneLink": "tel:+79275261099",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%2C%20%D0%9C%D1%83%D0%B6%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BF%D0%B0%D1%80%D0%B8%D0%BA%D0%BC%D0%B0%D1%85%D0%B5%D1%80%D1%81%D0%BA%D0%B0%D1%8F%20%C2%AB%D0%91%D1%80%D0%B8%D1%82%D0%B2%D0%B0%C2%BB%20%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%2C%20%D1%83%D0%BB.%20%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%2C%2039"
   },
   {
     "id": 294,
@@ -7930,12 +8223,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/_french_каза",
     "hasRealWebsite": false,
     "phonePrimary": "+79277578688",
-    "instagram": "_french_каза",
-    "telegram": "",
-    "tgLink": "https://t.me/+79277578688",
+    "instagram": "french_kazan",
+    "telegram": "french_kazan",
+    "tgLink": "https://t.me/french_kazan",
     "phoneLink": "tel:+79277578688",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%2C%20%D0%A1%D1%82%D1%83%D0%B4%D0%B8%D1%8F%20%D0%BD%D0%BE%D0%B3%D1%82%D0%B5%D0%B2%D0%BE%D0%B3%D0%BE%20%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D0%B0%20%C2%ABFrench%C2%BB%20%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%2C%20%D1%83%D0%BB.%20%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D0%B0%2C%2040"
   },
   {
     "id": 295,
@@ -7957,12 +8251,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+79279071557",
-    "instagram": "__каза",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "obraz_kazan",
+    "telegram": "obraz_kazan",
+    "tgLink": "https://t.me/obraz_kazan",
     "phoneLink": "tel:+79279071557",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%2C%20%D0%A1%D1%82%D1%83%D0%B4%D0%B8%D1%8F%20%D1%81%D1%82%D0%B8%D0%BB%D1%8F%20%C2%AB%D0%9E%D0%B1%D1%80%D0%B0%D0%B7%C2%BB%20%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%2C%20%D1%83%D0%BB.%20%D0%A7%D0%B8%D1%81%D1%82%D0%BE%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F%2C%2041"
   },
   {
     "id": 296,
@@ -7984,12 +8279,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/_shinegarage_каза",
     "hasRealWebsite": false,
     "phonePrimary": "+79272103986",
-    "instagram": "_shinegarage_каза",
-    "telegram": "",
-    "tgLink": "https://t.me/+79272103986",
+    "instagram": "shine_garage_kazan",
+    "telegram": "shine_garage_kazan",
+    "tgLink": "https://t.me/shine_garage_kazan",
     "phoneLink": "tel:+79272103986",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%2C%20%D0%9F%D0%BE%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0%20%D0%B8%20%D0%BA%D0%B5%D1%80%D0%B0%D0%BC%D0%B8%D0%BA%D0%B0%20%C2%ABShine%20Garage%C2%BB%20%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%2C%20%D1%83%D0%BB.%20%D0%91%D0%B0%D1%83%D0%BC%D0%B0%D0%BD%D0%B0%2C%2042"
   },
   {
     "id": 297,
@@ -8011,12 +8307,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/_ecowash_каза",
     "hasRealWebsite": false,
     "phonePrimary": "+79278176290",
-    "instagram": "_ecowash_каза",
-    "telegram": "",
-    "tgLink": "https://t.me/+79278176290",
+    "instagram": "ecowash_kazan",
+    "telegram": "ecowash_kazan",
+    "tgLink": "https://t.me/ecowash_kazan",
     "phoneLink": "tel:+79278176290",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%2C%20%D0%A5%D0%B8%D0%BC%D1%87%D0%B8%D1%81%D1%82%D0%BA%D0%B0%20%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D0%B0%20%C2%ABEcoWash%C2%BB%20%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%2C%20%D1%83%D0%BB.%20%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%2C%2043"
   },
   {
     "id": 298,
@@ -8038,12 +8335,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/__каза",
     "hasRealWebsite": false,
     "phonePrimary": "+79277449363",
-    "instagram": "__каза",
-    "telegram": "",
-    "tgLink": "https://t.me/+79277449363",
+    "instagram": "turbo_servis_kazan",
+    "telegram": "turbo_servis_kazan",
+    "tgLink": "https://t.me/turbo_servis_kazan",
     "phoneLink": "tel:+79277449363",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%2C%20%D0%A0%D0%B5%D0%BC%D0%BE%D0%BD%D1%82%20%D0%BF%D0%BE%D0%B4%D0%B2%D0%B5%D1%81%D0%BA%D0%B8%20%D0%B8%20%D1%82%D0%BE%D1%80%D0%BC%D0%BE%D0%B7%D0%BE%D0%B2%20%C2%AB%D0%A2%D1%83%D1%80%D0%B1%D0%BE%20%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81%C2%BB%20%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%2C%20%D1%83%D0%BB.%20%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D0%B0%2C%2044"
   },
   {
     "id": 299,
@@ -8065,12 +8363,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+79271350674",
-    "instagram": "_artdesign_каза",
-    "telegram": "",
-    "tgLink": "https://t.me/+79271350674",
+    "instagram": "art_design_kazan",
+    "telegram": "art_design_kazan",
+    "tgLink": "https://t.me/art_design_kazan",
     "phoneLink": "tel:+79271350674",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%2C%20%D0%A8%D0%BA%D0%B0%D1%84%D1%8B-%D0%BA%D1%83%D0%BF%D0%B5%20%D0%B8%20%D0%BA%D1%83%D1%85%D0%BD%D0%B8%20%C2%ABArt%20Design%C2%BB%20%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%2C%20%D1%83%D0%BB.%20%D0%A7%D0%B8%D1%81%D1%82%D0%BE%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F%2C%2045"
   },
   {
     "id": 300,
@@ -8092,12 +8391,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/_masterbuild_каза",
     "hasRealWebsite": false,
     "phonePrimary": "+79277825046",
-    "instagram": "_masterbuild_каза",
-    "telegram": "",
-    "tgLink": "https://t.me/+79277825046",
+    "instagram": "master_build_kazan",
+    "telegram": "master_build_kazan",
+    "tgLink": "https://t.me/master_build_kazan",
     "phoneLink": "tel:+79277825046",
     "source": "yandex",
-    "crmStatus": "contacted"
+    "crmStatus": "contacted",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%2C%20%D0%A0%D0%B5%D0%BC%D0%BE%D0%BD%D1%82%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%20%D0%B8%20%D0%BA%D0%BE%D1%82%D1%82%D0%B5%D0%B4%D0%B6%D0%B5%D0%B9%20%C2%ABMaster%20Build%C2%BB%20%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%2C%20%D1%83%D0%BB.%20%D0%91%D0%B0%D1%83%D0%BC%D0%B0%D0%BD%D0%B0%2C%2046"
   },
   {
     "id": 301,
@@ -8119,12 +8419,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/__каза",
     "hasRealWebsite": false,
     "phonePrimary": "+79276391187",
-    "instagram": "__каза",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "prestizh_kazan",
+    "telegram": "prestizh_kazan",
+    "tgLink": "https://t.me/prestizh_kazan",
     "phoneLink": "tel:+79276391187",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%2C%20%D0%9D%D0%B0%D1%82%D1%8F%D0%B6%D0%BD%D1%8B%D0%B5%20%D0%BF%D0%BE%D1%82%D0%BE%D0%BB%D0%BA%D0%B8%20%C2%AB%D0%9F%D1%80%D0%B5%D1%81%D1%82%D0%B8%D0%B6%C2%BB%20%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%2C%20%D1%83%D0%BB.%20%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%2C%2047"
   },
   {
     "id": 302,
@@ -8146,12 +8447,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/__каза",
     "hasRealWebsite": false,
     "phonePrimary": "+79271601368",
-    "instagram": "__каза",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "sosnovyy_bor_kazan",
+    "telegram": "sosnovyy_bor_kazan",
+    "tgLink": "https://t.me/sosnovyy_bor_kazan",
     "phoneLink": "tel:+79271601368",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%2C%20%D0%93%D0%BE%D1%81%D1%82%D0%B5%D0%B2%D0%BE%D0%B9%20%D0%B4%D0%BE%D0%BC%20%C2%AB%D0%A1%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%91%D0%BE%D1%80%C2%BB%20%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%2C%20%D1%83%D0%BB.%20%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D0%B0%2C%2048"
   },
   {
     "id": 303,
@@ -8173,12 +8475,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+79271863906",
-    "instagram": "__каза",
-    "telegram": "",
-    "tgLink": "https://t.me/+79271863906",
+    "instagram": "relaks_kazan",
+    "telegram": "relaks_kazan",
+    "tgLink": "https://t.me/relaks_kazan",
     "phoneLink": "tel:+79271863906",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%2C%20%D0%A1%D0%B0%D1%83%D0%BD%D0%B0%20%26%20%D0%91%D0%B0%D1%81%D1%81%D0%B5%D0%B9%D0%BD%20%C2%AB%D0%A0%D0%B5%D0%BB%D0%B0%D0%BA%D1%81%C2%BB%20%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%2C%20%D1%83%D0%BB.%20%D0%A7%D0%B8%D1%81%D1%82%D0%BE%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F%2C%2049"
   },
   {
     "id": 304,
@@ -8200,12 +8503,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/_ecoclean_каза",
     "hasRealWebsite": false,
     "phonePrimary": "+79278323443",
-    "instagram": "_ecoclean_каза",
-    "telegram": "",
-    "tgLink": "https://t.me/+79278323443",
+    "instagram": "ecoclean_kazan",
+    "telegram": "ecoclean_kazan",
+    "tgLink": "https://t.me/ecoclean_kazan",
     "phoneLink": "tel:+79278323443",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%2C%20%D0%A5%D0%B8%D0%BC%D1%87%D0%B8%D1%81%D1%82%D0%BA%D0%B0%20%D0%BC%D0%B5%D0%B1%D0%B5%D0%BB%D0%B8%20%D0%B8%20%D0%BA%D0%BB%D0%B8%D0%BD%D0%B8%D0%BD%D0%B3%20%C2%ABEcoClean%C2%BB%20%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%2C%20%D1%83%D0%BB.%20%D0%91%D0%B0%D1%83%D0%BC%D0%B0%D0%BD%D0%B0%2C%2050"
   },
   {
     "id": 305,
@@ -8227,12 +8531,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/__каза",
     "hasRealWebsite": false,
     "phonePrimary": "+79272324034",
-    "instagram": "__каза",
-    "telegram": "",
-    "tgLink": "https://t.me/+79272324034",
+    "instagram": "ulybka_kazan",
+    "telegram": "ulybka_kazan",
+    "tgLink": "https://t.me/ulybka_kazan",
     "phoneLink": "tel:+79272324034",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%2C%20%D0%A1%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F%20%C2%AB%D0%A3%D0%BB%D1%8B%D0%B1%D0%BA%D0%B0%C2%BB%20%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%2C%20%D1%83%D0%BB.%20%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%2C%2051"
   },
   {
     "id": 306,
@@ -8254,12 +8559,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/__каза",
     "hasRealWebsite": false,
     "phonePrimary": "+79274048877",
-    "instagram": "__каза",
-    "telegram": "",
-    "tgLink": "https://t.me/+79274048877",
+    "instagram": "balans_kazan",
+    "telegram": "balans_kazan",
+    "tgLink": "https://t.me/balans_kazan",
     "phoneLink": "tel:+79274048877",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%2C%20%D0%A1%D1%82%D1%83%D0%B4%D0%B8%D1%8F%20%D0%BF%D0%B8%D0%BB%D0%B0%D1%82%D0%B5%D1%81%D0%B0%20%C2%AB%D0%91%D0%B0%D0%BB%D0%B0%D0%BD%D1%81%C2%BB%20%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%2C%20%D1%83%D0%BB.%20%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D0%B0%2C%2052"
   },
   {
     "id": 307,
@@ -8281,12 +8587,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+79205350618",
-    "instagram": "__нижн",
-    "telegram": "",
-    "tgLink": "https://t.me/+79205350618",
+    "instagram": "teplo_i_penka_nizhniy_novgor",
+    "telegram": "teplo_i_penka_nizhniy_novgor",
+    "tgLink": "https://t.me/teplo_i_penka_nizhniy_novgor",
     "phoneLink": "tel:+79205350618",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9D%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9%20%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%2C%20%D0%9A%D0%BE%D1%84%D0%B5%D0%B9%D0%BD%D1%8F%20%C2%AB%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%20%D0%B8%20%D0%9F%D0%B5%D0%BD%D0%BA%D0%B0%C2%BB%20%D0%9D%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9%20%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%2C%20%D0%BF%D1%80-%D1%82%20%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0%2C%2053"
   },
   {
     "id": 308,
@@ -8308,12 +8615,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/_wok__нижн",
     "hasRealWebsite": false,
     "phonePrimary": "+79203170540",
-    "instagram": "_wok__нижн",
-    "telegram": "_wok__bot",
-    "tgLink": "https://t.me/_wok__bot",
+    "instagram": "sakura_ekspress_nizhniy_novg",
+    "telegram": "sakura_ekspress_nizhniy_novg",
+    "tgLink": "https://t.me/sakura_ekspress_nizhniy_novg",
     "phoneLink": "tel:+79203170540",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9D%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9%20%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%2C%20%D0%A1%D1%83%D1%88%D0%B8%20%26%20Wok%20%C2%AB%D0%A1%D0%B0%D0%BA%D1%83%D1%80%D0%B0%20%D0%AD%D0%BA%D1%81%D0%BF%D1%80%D0%B5%D1%81%D1%81%C2%BB%20%D0%9D%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9%20%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%2C%20%D1%83%D0%BB.%20%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F%20%D0%9F%D0%BE%D0%BA%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%2C%2054"
   },
   {
     "id": 309,
@@ -8335,12 +8643,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/_prestigefood_нижн",
     "hasRealWebsite": false,
     "phonePrimary": "+79209634110",
-    "instagram": "_prestigefood_нижн",
-    "telegram": "",
-    "tgLink": "https://t.me/+79209634110",
+    "instagram": "prestige_food_nizhniy_novgor",
+    "telegram": "prestige_food_nizhniy_novgor",
+    "tgLink": "https://t.me/prestige_food_nizhniy_novgor",
     "phoneLink": "tel:+79209634110",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9D%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9%20%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%2C%20%D0%9A%D0%B5%D0%B9%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%81%D0%BB%D1%83%D0%B6%D0%B1%D0%B0%20%C2%ABPrestige%20Food%C2%BB%20%D0%9D%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9%20%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%2C%20%D1%83%D0%BB.%20%D0%A0%D0%BE%D0%B4%D0%B8%D0%BE%D0%BD%D0%BE%D0%B2%D0%B0%2C%2055"
   },
   {
     "id": 310,
@@ -8362,12 +8671,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/_blackbeard_нижн",
     "hasRealWebsite": false,
     "phonePrimary": "+79204058077",
-    "instagram": "_blackbeard_нижн",
-    "telegram": "",
-    "tgLink": "https://t.me/+79204058077",
+    "instagram": "black_beard_nizhniy_novgorod",
+    "telegram": "black_beard_nizhniy_novgorod",
+    "tgLink": "https://t.me/black_beard_nizhniy_novgorod",
     "phoneLink": "tel:+79204058077",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9D%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9%20%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%2C%20%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%20%C2%ABBlack%20Beard%C2%BB%20%D0%9D%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9%20%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%2C%20%D1%83%D0%BB.%20%D0%91%D0%B5%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%2C%2056"
   },
   {
     "id": 311,
@@ -8389,12 +8699,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+79202292064",
-    "instagram": "_beautybar_нижн",
-    "telegram": "_beautybar_bot",
-    "tgLink": "https://t.me/_beautybar_bot",
+    "instagram": "beauty_bar_nizhniy_novgorod",
+    "telegram": "beauty_bar_nizhniy_novgorod",
+    "tgLink": "https://t.me/beauty_bar_nizhniy_novgorod",
     "phoneLink": "tel:+79202292064",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9D%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9%20%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%2C%20%D0%9C%D0%B0%D0%BD%D0%B8%D0%BA%D1%8E%D1%80%20%26%20%D0%9F%D0%B5%D0%B4%D0%B8%D0%BA%D1%8E%D1%80%20%C2%ABBeauty%20Bar%C2%BB%20%D0%9D%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9%20%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%2C%20%D0%BF%D1%80-%D1%82%20%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0%2C%2057"
   },
   {
     "id": 312,
@@ -8416,12 +8727,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/__нижн",
     "hasRealWebsite": false,
     "phonePrimary": "+79201143532",
-    "instagram": "__нижн",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "persona_nizhniy_novgorod",
+    "telegram": "persona_nizhniy_novgorod",
+    "tgLink": "https://t.me/persona_nizhniy_novgorod",
     "phoneLink": "tel:+79201143532",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9D%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9%20%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%2C%20%D0%A1%D0%B0%D0%BB%D0%BE%D0%BD%20%D0%BA%D1%80%D0%B0%D1%81%D0%BE%D1%82%D1%8B%20%C2%AB%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%C2%BB%20%D0%9D%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9%20%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%2C%20%D1%83%D0%BB.%20%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F%20%D0%9F%D0%BE%D0%BA%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%2C%2058"
   },
   {
     "id": 313,
@@ -8443,12 +8755,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/_primeauto_нижн",
     "hasRealWebsite": false,
     "phonePrimary": "+79203763972",
-    "instagram": "_primeauto_нижн",
-    "telegram": "_primeauto_bot",
-    "tgLink": "https://t.me/_primeauto_bot",
+    "instagram": "prime_auto_nizhniy_novgorod",
+    "telegram": "prime_auto_nizhniy_novgorod",
+    "tgLink": "https://t.me/prime_auto_nizhniy_novgorod",
     "phoneLink": "tel:+79203763972",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9D%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9%20%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%2C%20%D0%94%D0%B5%D1%82%D0%B5%D0%B9%D0%BB%D0%B8%D0%BD%D0%B3%20%C2%ABPrime%20Auto%C2%BB%20%D0%9D%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9%20%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%2C%20%D1%83%D0%BB.%20%D0%A0%D0%BE%D0%B4%D0%B8%D0%BE%D0%BD%D0%BE%D0%B2%D0%B0%2C%2059"
   },
   {
     "id": 314,
@@ -8470,12 +8783,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/_aquaclean_нижн",
     "hasRealWebsite": false,
     "phonePrimary": "+79206971047",
-    "instagram": "_aquaclean_нижн",
-    "telegram": "",
-    "tgLink": "https://t.me/+79206971047",
+    "instagram": "aqua_clean_nizhniy_novgorod",
+    "telegram": "aqua_clean_nizhniy_novgorod",
+    "tgLink": "https://t.me/aqua_clean_nizhniy_novgorod",
     "phoneLink": "tel:+79206971047",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9D%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9%20%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%2C%20%D0%9C%D0%BE%D0%B9%D0%BA%D0%B0%20%D1%81%D0%B0%D0%BC%D0%BE%D0%BE%D0%B1%D1%81%D0%BB%D1%83%D0%B6%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%C2%ABAqua%20Clean%C2%BB%20%D0%9D%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9%20%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%2C%20%D1%83%D0%BB.%20%D0%91%D0%B5%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%2C%2060"
   },
   {
     "id": 315,
@@ -8497,12 +8811,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+79206570699",
-    "instagram": "__нижн",
-    "telegram": "",
-    "tgLink": "https://t.me/+79206570699",
+    "instagram": "avtoekspert_nizhniy_novgorod",
+    "telegram": "avtoekspert_nizhniy_novgorod",
+    "tgLink": "https://t.me/avtoekspert_nizhniy_novgorod",
     "phoneLink": "tel:+79206570699",
     "source": "2gis",
-    "crmStatus": "contacted"
+    "crmStatus": "contacted",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9D%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9%20%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%2C%20%D0%A2%D0%B5%D1%85%D1%86%D0%B5%D0%BD%D1%82%D1%80%20%C2%AB%D0%90%D0%B2%D1%82%D0%BE%D0%AD%D0%BA%D1%81%D0%BF%D0%B5%D1%80%D1%82%C2%BB%20%D0%9D%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9%20%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%2C%20%D0%BF%D1%80-%D1%82%20%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0%2C%2061"
   },
   {
     "id": 316,
@@ -8524,12 +8839,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/_comforthome_нижн",
     "hasRealWebsite": false,
     "phonePrimary": "+79203140025",
-    "instagram": "_comforthome_нижн",
-    "telegram": "_comforthome_bot",
-    "tgLink": "https://t.me/_comforthome_bot",
+    "instagram": "comfort_home_nizhniy_novgoro",
+    "telegram": "comfort_home_nizhniy_novgoro",
+    "tgLink": "https://t.me/comfort_home_nizhniy_novgoro",
     "phoneLink": "tel:+79203140025",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9D%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9%20%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%2C%20%D0%9A%D1%83%D1%85%D0%BD%D0%B8%20%D0%BF%D0%BE%D0%B4%20%D0%BA%D0%BB%D1%8E%D1%87%20%C2%ABComfort%20Home%C2%BB%20%D0%9D%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9%20%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%2C%20%D1%83%D0%BB.%20%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F%20%D0%9F%D0%BE%D0%BA%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%2C%2062"
   },
   {
     "id": 317,
@@ -8551,12 +8867,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/__нижн",
     "hasRealWebsite": false,
     "phonePrimary": "+79206133376",
-    "instagram": "__нижн",
-    "telegram": "",
-    "tgLink": "https://t.me/+79206133376",
+    "instagram": "profi_stroy_nizhniy_novgorod",
+    "telegram": "profi_stroy_nizhniy_novgorod",
+    "tgLink": "https://t.me/profi_stroy_nizhniy_novgorod",
     "phoneLink": "tel:+79206133376",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9D%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9%20%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%2C%20%D0%95%D0%B2%D1%80%D0%BE%D1%80%D0%B5%D0%BC%D0%BE%D0%BD%D1%82%20%C2%AB%D0%9F%D1%80%D0%BE%D1%84%D0%B8%20%D0%A1%D1%82%D1%80%D0%BE%D0%B9%C2%BB%20%D0%9D%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9%20%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%2C%20%D1%83%D0%BB.%20%D0%A0%D0%BE%D0%B4%D0%B8%D0%BE%D0%BD%D0%BE%D0%B2%D0%B0%2C%2063"
   },
   {
     "id": 318,
@@ -8578,12 +8895,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/_skyline_нижн",
     "hasRealWebsite": false,
     "phonePrimary": "+79208292346",
-    "instagram": "_skyline_нижн",
-    "telegram": "",
-    "tgLink": "https://t.me/+79208292346",
+    "instagram": "sky_line_nizhniy_novgorod",
+    "telegram": "sky_line_nizhniy_novgorod",
+    "tgLink": "https://t.me/sky_line_nizhniy_novgorod",
     "phoneLink": "tel:+79208292346",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9D%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9%20%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%2C%20%D0%9F%D0%BE%D1%82%D0%BE%D0%BB%D0%BE%D1%87%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B%20%C2%ABSky%20Line%C2%BB%20%D0%9D%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9%20%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%2C%20%D1%83%D0%BB.%20%D0%91%D0%B5%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%2C%2064"
   },
   {
     "id": 319,
@@ -8605,12 +8923,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+79208268129",
-    "instagram": "__нижн",
-    "telegram": "",
-    "tgLink": "https://t.me/+79208268129",
+    "instagram": "uyutnaya_zavod_nizhniy_novgo",
+    "telegram": "uyutnaya_zavod_nizhniy_novgo",
+    "tgLink": "https://t.me/uyutnaya_zavod_nizhniy_novgo",
     "phoneLink": "tel:+79208268129",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9D%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9%20%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%2C%20%D0%A3%D1%81%D0%B0%D0%B4%D1%8C%D0%B1%D0%B0%20%C2%AB%D0%A3%D1%8E%D1%82%D0%BD%D0%B0%D1%8F%20%D0%97%D0%B0%D0%B2%D0%BE%D0%B4%D1%8C%C2%BB%20%D0%9D%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9%20%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%2C%20%D0%BF%D1%80-%D1%82%20%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0%2C%2065"
   },
   {
     "id": 320,
@@ -8632,12 +8951,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/__нижн",
     "hasRealWebsite": false,
     "phonePrimary": "+79203746216",
-    "instagram": "__нижн",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "dubrava_nizhniy_novgorod",
+    "telegram": "dubrava_nizhniy_novgorod",
+    "tgLink": "https://t.me/dubrava_nizhniy_novgorod",
     "phoneLink": "tel:+79203746216",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9D%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9%20%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%2C%20%D0%91%D0%B0%D0%BD%D1%8F%20%D1%81%20%D0%BA%D1%83%D0%BF%D0%B5%D0%BB%D1%8C%D1%8E%20%C2%AB%D0%94%D1%83%D0%B1%D1%80%D0%B0%D0%B2%D0%B0%C2%BB%20%D0%9D%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9%20%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%2C%20%D1%83%D0%BB.%20%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F%20%D0%9F%D0%BE%D0%BA%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%2C%2066"
   },
   {
     "id": 321,
@@ -8659,12 +8979,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/__нижн",
     "hasRealWebsite": false,
     "phonePrimary": "+79202298710",
-    "instagram": "__нижн",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "myata_nizhniy_novgorod",
+    "telegram": "myata_nizhniy_novgorod",
+    "tgLink": "https://t.me/myata_nizhniy_novgorod",
     "phoneLink": "tel:+79202298710",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9D%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9%20%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%2C%20%D0%9A%D0%BB%D0%B8%D0%BD%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F%20%C2%AB%D0%9C%D1%8F%D1%82%D0%B0%C2%BB%20%D0%9D%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9%20%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%2C%20%D1%83%D0%BB.%20%D0%A0%D0%BE%D0%B4%D0%B8%D0%BE%D0%BD%D0%BE%D0%B2%D0%B0%2C%2067"
   },
   {
     "id": 322,
@@ -8686,12 +9007,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/__нижн",
     "hasRealWebsite": false,
     "phonePrimary": "+79202614498",
-    "instagram": "__нижн",
-    "telegram": "",
-    "tgLink": "https://t.me/+79202614498",
+    "instagram": "denta_pro_nizhniy_novgorod",
+    "telegram": "denta_pro_nizhniy_novgorod",
+    "tgLink": "https://t.me/denta_pro_nizhniy_novgorod",
     "phoneLink": "tel:+79202614498",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9D%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9%20%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%2C%20%D0%A1%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D1%86%D0%B5%D0%BD%D1%82%D1%80%20%C2%AB%D0%94%D0%B5%D0%BD%D1%82%D0%B0%20%D0%9F%D1%80%D0%BE%C2%BB%20%D0%9D%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9%20%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%2C%20%D1%83%D0%BB.%20%D0%91%D0%B5%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%2C%2068"
   },
   {
     "id": 323,
@@ -8713,12 +9035,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+79203362627",
-    "instagram": "_fitlady_нижн",
-    "telegram": "_fitlady_bot",
-    "tgLink": "https://t.me/_fitlady_bot",
+    "instagram": "fit_lady_nizhniy_novgorod",
+    "telegram": "fit_lady_nizhniy_novgorod",
+    "tgLink": "https://t.me/fit_lady_nizhniy_novgorod",
     "phoneLink": "tel:+79203362627",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9D%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9%20%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%2C%20%D0%96%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D1%84%D0%B8%D1%82%D0%BD%D0%B5%D1%81%20%C2%ABFit%20Lady%C2%BB%20%D0%9D%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9%20%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%2C%20%D0%BF%D1%80-%D1%82%20%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0%2C%2069"
   },
   {
     "id": 324,
@@ -8740,12 +9063,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/coffeepointblackroas_екат",
     "hasRealWebsite": false,
     "phonePrimary": "+79225060035",
-    "instagram": "coffeepointblackroas_екат",
-    "telegram": "coffeepointblackroas_bot",
-    "tgLink": "https://t.me/coffeepointblackroas_bot",
+    "instagram": "black_roast_ekaterinburg",
+    "telegram": "black_roast_ekaterinburg",
+    "tgLink": "https://t.me/black_roast_ekaterinburg",
     "phoneLink": "tel:+79225060035",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B1%D1%83%D1%80%D0%B3%2C%20Coffee%20Point%20%C2%ABBlack%20Roast%C2%BB%20%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B1%D1%83%D1%80%D0%B3%2C%20%D1%83%D0%BB.%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0%2C%2070"
   },
   {
     "id": 325,
@@ -8767,12 +9091,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/_tokyoroll_екат",
     "hasRealWebsite": false,
     "phonePrimary": "+79225123493",
-    "instagram": "_tokyoroll_екат",
-    "telegram": "",
-    "tgLink": "https://t.me/+79225123493",
+    "instagram": "tokyo_roll_ekaterinburg",
+    "telegram": "tokyo_roll_ekaterinburg",
+    "tgLink": "https://t.me/tokyo_roll_ekaterinburg",
     "phoneLink": "tel:+79225123493",
     "source": "2gis",
-    "crmStatus": "in_progress"
+    "crmStatus": "in_progress",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B1%D1%83%D1%80%D0%B3%2C%20%D0%94%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B0%20%D1%81%D1%83%D1%88%D0%B8%20%C2%ABTokyo%20Roll%C2%BB%20%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B1%D1%83%D1%80%D0%B3%2C%20%D1%83%D0%BB.%20%D0%9C%D0%B0%D0%BB%D1%8B%D1%88%D0%B5%D0%B2%D0%B0%2C%2071"
   },
   {
     "id": 326,
@@ -8794,12 +9119,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/_furshettime_екат",
     "hasRealWebsite": false,
     "phonePrimary": "+79222386914",
-    "instagram": "_furshettime_екат",
-    "telegram": "",
-    "tgLink": "https://t.me/+79222386914",
+    "instagram": "furshet_time_ekaterinburg",
+    "telegram": "furshet_time_ekaterinburg",
+    "tgLink": "https://t.me/furshet_time_ekaterinburg",
     "phoneLink": "tel:+79222386914",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B1%D1%83%D1%80%D0%B3%2C%20%D0%93%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B1%D0%BE%D0%BA%D1%81%D1%8B%20%26%20%D0%9A%D0%B5%D0%B9%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B3%20%C2%ABFurshet%20Time%C2%BB%20%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B1%D1%83%D1%80%D0%B3%2C%20%D1%83%D0%BB.%20%D0%A0%D0%B0%D0%B4%D0%B8%D1%89%D0%B5%D0%B2%D0%B0%2C%2072"
   },
   {
     "id": 327,
@@ -8821,12 +9147,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+79226596861",
-    "instagram": "_topgunbarber_екат",
-    "telegram": "",
-    "tgLink": "https://t.me/+79226596861",
+    "instagram": "topgun_barber_ekaterinburg",
+    "telegram": "topgun_barber_ekaterinburg",
+    "tgLink": "https://t.me/topgun_barber_ekaterinburg",
     "phoneLink": "tel:+79226596861",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B1%D1%83%D1%80%D0%B3%2C%20%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%20%C2%ABTopGun%20Barber%C2%BB%20%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B1%D1%83%D1%80%D0%B3%2C%20%D1%83%D0%BB.%208%20%D0%9C%D0%B0%D1%80%D1%82%D0%B0%2C%2073"
   },
   {
     "id": 328,
@@ -8848,12 +9175,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/_nailartstudio_екат",
     "hasRealWebsite": false,
     "phonePrimary": "+79224338758",
-    "instagram": "_nailartstudio_екат",
-    "telegram": "_nailartstudio_bot",
-    "tgLink": "https://t.me/_nailartstudio_bot",
+    "instagram": "nail_art_studio_ekaterinburg",
+    "telegram": "nail_art_studio_ekaterinburg",
+    "tgLink": "https://t.me/nail_art_studio_ekaterinburg",
     "phoneLink": "tel:+79224338758",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B1%D1%83%D1%80%D0%B3%2C%20%D0%9D%D0%BE%D0%B3%D1%82%D0%B5%D0%B2%D0%B0%D1%8F%20%D1%81%D1%82%D1%83%D0%B4%D0%B8%D1%8F%20%C2%ABNail%20Art%20Studio%C2%BB%20%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B1%D1%83%D1%80%D0%B3%2C%20%D1%83%D0%BB.%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0%2C%2074"
   },
   {
     "id": 329,
@@ -8875,12 +9203,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/_monrobeauty_екат",
     "hasRealWebsite": false,
     "phonePrimary": "+79224777744",
-    "instagram": "_monrobeauty_екат",
-    "telegram": "",
-    "tgLink": "https://t.me/+79224777744",
+    "instagram": "monro_beauty_ekaterinburg",
+    "telegram": "monro_beauty_ekaterinburg",
+    "tgLink": "https://t.me/monro_beauty_ekaterinburg",
     "phoneLink": "tel:+79224777744",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B1%D1%83%D1%80%D0%B3%2C%20%D0%A1%D1%82%D1%83%D0%B4%D0%B8%D1%8F%20%D0%BA%D0%BE%D0%BB%D0%BE%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B8%20%C2%ABMonro%20Beauty%C2%BB%20%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B1%D1%83%D1%80%D0%B3%2C%20%D1%83%D0%BB.%20%D0%9C%D0%B0%D0%BB%D1%8B%D1%88%D0%B5%D0%B2%D0%B0%2C%2075"
   },
   {
     "id": 330,
@@ -8902,12 +9231,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/_proglaze_екат",
     "hasRealWebsite": false,
     "phonePrimary": "+79221149410",
-    "instagram": "_proglaze_екат",
-    "telegram": "_proglaze_bot",
-    "tgLink": "https://t.me/_proglaze_bot",
+    "instagram": "proglaze_ekaterinburg",
+    "telegram": "proglaze_ekaterinburg",
+    "tgLink": "https://t.me/proglaze_ekaterinburg",
     "phoneLink": "tel:+79221149410",
     "source": "yandex",
-    "crmStatus": "contacted"
+    "crmStatus": "contacted",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B1%D1%83%D1%80%D0%B3%2C%20%D0%94%D0%B5%D1%82%D0%B5%D0%B9%D0%BB%D0%B8%D0%BD%D0%B3-%D1%81%D1%82%D1%83%D0%B4%D0%B8%D1%8F%20%C2%ABProGlaze%C2%BB%20%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B1%D1%83%D1%80%D0%B3%2C%20%D1%83%D0%BB.%20%D0%A0%D0%B0%D0%B4%D0%B8%D1%89%D0%B5%D0%B2%D0%B0%2C%2076"
   },
   {
     "id": 331,
@@ -8929,12 +9259,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+79223557917",
-    "instagram": "__екат",
-    "telegram": "",
-    "tgLink": "https://t.me/+79223557917",
+    "instagram": "chistyy_stil_ekaterinburg",
+    "telegram": "chistyy_stil_ekaterinburg",
+    "tgLink": "https://t.me/chistyy_stil_ekaterinburg",
     "phoneLink": "tel:+79223557917",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B1%D1%83%D1%80%D0%B3%2C%20%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B9%D0%BA%D0%B0%20%C2%AB%D0%A7%D0%B8%D1%81%D1%82%D1%8B%D0%B9%20%D0%A1%D1%82%D0%B8%D0%BB%D1%8C%C2%BB%20%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B1%D1%83%D1%80%D0%B3%2C%20%D1%83%D0%BB.%208%20%D0%9C%D0%B0%D1%80%D1%82%D0%B0%2C%2077"
   },
   {
     "id": 332,
@@ -8956,12 +9287,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/__екат",
     "hasRealWebsite": false,
     "phonePrimary": "+79225203386",
-    "instagram": "__екат",
-    "telegram": "",
-    "tgLink": "https://t.me/+79225203386",
+    "instagram": "master_avto_ekaterinburg",
+    "telegram": "master_avto_ekaterinburg",
+    "tgLink": "https://t.me/master_avto_ekaterinburg",
     "phoneLink": "tel:+79225203386",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B1%D1%83%D1%80%D0%B3%2C%20%D0%90%D0%B2%D1%82%D0%BE%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%20%C2%AB%D0%9C%D0%B0%D1%81%D1%82%D0%B5%D1%80-%D0%90%D0%B2%D1%82%D0%BE%C2%BB%20%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B1%D1%83%D1%80%D0%B3%2C%20%D1%83%D0%BB.%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0%2C%2078"
   },
   {
     "id": 333,
@@ -8983,12 +9315,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/_loft__екат",
     "hasRealWebsite": false,
     "phonePrimary": "+79221600618",
-    "instagram": "_loft__екат",
-    "telegram": "",
-    "tgLink": "https://t.me/+79221600618",
+    "instagram": "loft_mebel_ekaterinburg",
+    "telegram": "loft_mebel_ekaterinburg",
+    "tgLink": "https://t.me/loft_mebel_ekaterinburg",
     "phoneLink": "tel:+79221600618",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B1%D1%83%D1%80%D0%B3%2C%20%D0%9A%D1%83%D1%85%D0%BD%D0%B8%20%D0%BD%D0%B0%20%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%20%C2%ABLoft%20%D0%9C%D0%B5%D0%B1%D0%B5%D0%BB%D1%8C%C2%BB%20%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B1%D1%83%D1%80%D0%B3%2C%20%D1%83%D0%BB.%20%D0%9C%D0%B0%D0%BB%D1%8B%D1%88%D0%B5%D0%B2%D0%B0%2C%2079"
   },
   {
     "id": 334,
@@ -9010,12 +9343,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/__екат",
     "hasRealWebsite": false,
     "phonePrimary": "+79224861542",
-    "instagram": "__екат",
-    "telegram": "",
-    "tgLink": "https://t.me/+79224861542",
+    "instagram": "stroy_brigada_ekaterinburg",
+    "telegram": "stroy_brigada_ekaterinburg",
+    "tgLink": "https://t.me/stroy_brigada_ekaterinburg",
     "phoneLink": "tel:+79224861542",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B1%D1%83%D1%80%D0%B3%2C%20%D0%A0%D0%B5%D0%BC%D0%BE%D0%BD%D1%82%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%20%C2%AB%D0%A1%D1%82%D1%80%D0%BE%D0%B9%20%D0%91%D1%80%D0%B8%D0%B3%D0%B0%D0%B4%D0%B0%C2%BB%20%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B1%D1%83%D1%80%D0%B3%2C%20%D1%83%D0%BB.%20%D0%A0%D0%B0%D0%B4%D0%B8%D1%89%D0%B5%D0%B2%D0%B0%2C%2080"
   },
   {
     "id": 335,
@@ -9037,12 +9371,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+79222227790",
-    "instagram": "__екат",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "glyanets_ekaterinburg",
+    "telegram": "glyanets_ekaterinburg",
+    "tgLink": "https://t.me/glyanets_ekaterinburg",
     "phoneLink": "tel:+79222227790",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B1%D1%83%D1%80%D0%B3%2C%20%D0%9F%D0%BE%D1%82%D0%BE%D0%BB%D0%BA%D0%B8%20%D0%BF%D0%BE%D0%B4%20%D0%BA%D0%BB%D1%8E%D1%87%20%C2%AB%D0%93%D0%BB%D1%8F%D0%BD%D0%B5%D1%86%C2%BB%20%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B1%D1%83%D1%80%D0%B3%2C%20%D1%83%D0%BB.%208%20%D0%9C%D0%B0%D1%80%D1%82%D0%B0%2C%2081"
   },
   {
     "id": 336,
@@ -9064,12 +9399,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/__екат",
     "hasRealWebsite": false,
     "phonePrimary": "+79221458764",
-    "instagram": "__екат",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "lesnaya_skazka_ekaterinburg",
+    "telegram": "lesnaya_skazka_ekaterinburg",
+    "tgLink": "https://t.me/lesnaya_skazka_ekaterinburg",
     "phoneLink": "tel:+79221458764",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B1%D1%83%D1%80%D0%B3%2C%20%D0%A3%D1%81%D0%B0%D0%B4%D1%8C%D0%B1%D0%B0%20%D1%83%20%D0%BE%D0%B7%D0%B5%D1%80%D0%B0%20%C2%AB%D0%9B%D0%B5%D1%81%D0%BD%D0%B0%D1%8F%20%D0%A1%D0%BA%D0%B0%D0%B7%D0%BA%D0%B0%C2%BB%20%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B1%D1%83%D1%80%D0%B3%2C%20%D1%83%D0%BB.%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0%2C%2082"
   },
   {
     "id": 337,
@@ -9091,12 +9427,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/__екат",
     "hasRealWebsite": false,
     "phonePrimary": "+79223725035",
-    "instagram": "__екат",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "parnoy_dvorik_ekaterinburg",
+    "telegram": "parnoy_dvorik_ekaterinburg",
+    "tgLink": "https://t.me/parnoy_dvorik_ekaterinburg",
     "phoneLink": "tel:+79223725035",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B1%D1%83%D1%80%D0%B3%2C%20%D0%91%D0%B0%D0%BD%D1%8F%20%D0%BD%D0%B0%20%D0%B4%D1%80%D0%BE%D0%B2%D0%B0%D1%85%20%C2%AB%D0%9F%D0%B0%D1%80%D0%BD%D0%BE%D0%B9%20%D0%94%D0%B2%D0%BE%D1%80%D0%B8%D0%BA%C2%BB%20%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B1%D1%83%D1%80%D0%B3%2C%20%D1%83%D0%BB.%20%D0%9C%D0%B0%D0%BB%D1%8B%D1%88%D0%B5%D0%B2%D0%B0%2C%2083"
   },
   {
     "id": 338,
@@ -9118,12 +9455,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/__екат",
     "hasRealWebsite": false,
     "phonePrimary": "+79227502736",
-    "instagram": "__екат",
-    "telegram": "",
-    "tgLink": "https://t.me/+79227502736",
+    "instagram": "chistyy_dom_ekaterinburg",
+    "telegram": "chistyy_dom_ekaterinburg",
+    "tgLink": "https://t.me/chistyy_dom_ekaterinburg",
     "phoneLink": "tel:+79227502736",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B1%D1%83%D1%80%D0%B3%2C%20%D0%9A%D0%BB%D0%B8%D0%BD%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%81%D0%BB%D1%83%D0%B6%D0%B1%D0%B0%20%C2%AB%D0%A7%D0%B8%D1%81%D1%82%D1%8B%D0%B9%20%D0%94%D0%BE%D0%BC%C2%BB%20%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B1%D1%83%D1%80%D0%B3%2C%20%D1%83%D0%BB.%20%D0%A0%D0%B0%D0%B4%D0%B8%D1%89%D0%B5%D0%B2%D0%B0%2C%2084"
   },
   {
     "id": 339,
@@ -9145,12 +9483,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+79221458677",
-    "instagram": "__екат",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "belyy_zhemchug_ekaterinburg",
+    "telegram": "belyy_zhemchug_ekaterinburg",
+    "tgLink": "https://t.me/belyy_zhemchug_ekaterinburg",
     "phoneLink": "tel:+79221458677",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B1%D1%83%D1%80%D0%B3%2C%20%D0%A1%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B0%D0%B1%D0%B8%D0%BD%D0%B5%D1%82%20%C2%AB%D0%91%D0%B5%D0%BB%D1%8B%D0%B9%20%D0%96%D0%B5%D0%BC%D1%87%D1%83%D0%B3%C2%BB%20%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B1%D1%83%D1%80%D0%B3%2C%20%D1%83%D0%BB.%208%20%D0%9C%D0%B0%D1%80%D1%82%D0%B0%2C%2085"
   },
   {
     "id": 340,
@@ -9172,12 +9511,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/_airyoga_екат",
     "hasRealWebsite": false,
     "phonePrimary": "+79226142686",
-    "instagram": "_airyoga_екат",
-    "telegram": "_airyoga_bot",
-    "tgLink": "https://t.me/_airyoga_bot",
+    "instagram": "air_yoga_ekaterinburg",
+    "telegram": "air_yoga_ekaterinburg",
+    "tgLink": "https://t.me/air_yoga_ekaterinburg",
     "phoneLink": "tel:+79226142686",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B1%D1%83%D1%80%D0%B3%2C%20%D0%A1%D1%82%D1%83%D0%B4%D0%B8%D1%8F%20%D1%81%D1%82%D1%80%D0%B5%D1%82%D1%87%D0%B8%D0%BD%D0%B3%D0%B0%20%D0%B8%20%D0%B9%D0%BE%D0%B3%D0%B8%20%C2%ABAir%20Yoga%C2%BB%20%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B1%D1%83%D1%80%D0%B3%2C%20%D1%83%D0%BB.%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0%2C%201"
   },
   {
     "id": 341,
@@ -9199,12 +9539,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/__крас",
     "hasRealWebsite": false,
     "phonePrimary": "+79188046854",
-    "instagram": "__крас",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "uyut_krasnodar",
+    "telegram": "uyut_krasnodar",
+    "tgLink": "https://t.me/uyut_krasnodar",
     "phoneLink": "tel:+79188046854",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B4%D0%B0%D1%80%2C%20%D0%90%D1%82%D0%BC%D0%BE%D1%81%D1%84%D0%B5%D1%80%D0%BD%D0%B0%D1%8F%20%D0%BA%D0%BE%D1%84%D0%B5%D0%B9%D0%BD%D1%8F%20%C2%AB%D0%A3%D1%8E%D1%82%C2%BB%20%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B4%D0%B0%D1%80%2C%20%D1%83%D0%BB.%20%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D0%B0%D1%8F%2C%202"
   },
   {
     "id": 342,
@@ -9226,12 +9567,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/_mariopizza_крас",
     "hasRealWebsite": false,
     "phonePrimary": "+79185073291",
-    "instagram": "_mariopizza_крас",
-    "telegram": "_mariopizza_bot",
-    "tgLink": "https://t.me/_mariopizza_bot",
+    "instagram": "mario_pizza_krasnodar",
+    "telegram": "mario_pizza_krasnodar",
+    "tgLink": "https://t.me/mario_pizza_krasnodar",
     "phoneLink": "tel:+79185073291",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B4%D0%B0%D1%80%2C%20%D0%9F%D0%B8%D1%86%D1%86%D0%B5%D1%80%D0%B8%D1%8F%20%D0%BD%D0%B0%D0%B2%D1%8B%D0%BD%D0%BE%D1%81%20%C2%ABMario%20Pizza%C2%BB%20%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B4%D0%B0%D1%80%2C%20%D1%83%D0%BB.%20%D0%A1%D1%82%D0%B0%D0%B2%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F%2C%203"
   },
   {
     "id": 343,
@@ -9253,12 +9595,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+79182304081",
-    "instagram": "_smartbuffet_крас",
-    "telegram": "_smartbuffet_bot",
-    "tgLink": "https://t.me/_smartbuffet_bot",
+    "instagram": "smart_buffet_krasnodar",
+    "telegram": "smart_buffet_krasnodar",
+    "tgLink": "https://t.me/smart_buffet_krasnodar",
     "phoneLink": "tel:+79182304081",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B4%D0%B0%D1%80%2C%20%D0%9A%D0%B5%D0%B9%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B3%20%C2%ABSmart%20Buffet%C2%BB%20%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B4%D0%B0%D1%80%2C%20%D1%83%D0%BB.%20%D0%9A%D1%83%D0%B1%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BD%D0%B0%D0%B1.%2C%204"
   },
   {
     "id": 344,
@@ -9280,12 +9623,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/_oldschool_крас",
     "hasRealWebsite": false,
     "phonePrimary": "+79181715045",
-    "instagram": "_oldschool_крас",
-    "telegram": "",
-    "tgLink": "https://t.me/+79181715045",
+    "instagram": "old_school_krasnodar",
+    "telegram": "old_school_krasnodar",
+    "tgLink": "https://t.me/old_school_krasnodar",
     "phoneLink": "tel:+79181715045",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B4%D0%B0%D1%80%2C%20%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80-%D1%81%D1%82%D1%83%D0%B4%D0%B8%D1%8F%20%C2%ABOld%20School%C2%BB%20%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B4%D0%B0%D1%80%2C%20%D1%83%D0%BB.%20%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%B0%D1%8F%2C%205"
   },
   {
     "id": 345,
@@ -9307,12 +9651,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/_pinkberry_крас",
     "hasRealWebsite": false,
     "phonePrimary": "+79183892092",
-    "instagram": "_pinkberry_крас",
-    "telegram": "_pinkberry_bot",
-    "tgLink": "https://t.me/_pinkberry_bot",
+    "instagram": "pink_berry_krasnodar",
+    "telegram": "pink_berry_krasnodar",
+    "tgLink": "https://t.me/pink_berry_krasnodar",
     "phoneLink": "tel:+79183892092",
     "source": "2gis",
-    "crmStatus": "contacted"
+    "crmStatus": "contacted",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B4%D0%B0%D1%80%2C%20%D0%A1%D1%82%D1%83%D0%B4%D0%B8%D1%8F%20%D0%BC%D0%B0%D0%BD%D0%B8%D0%BA%D1%8E%D1%80%D0%B0%20%C2%ABPink%20Berry%C2%BB%20%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B4%D0%B0%D1%80%2C%20%D1%83%D0%BB.%20%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D0%B0%D1%8F%2C%206"
   },
   {
     "id": 346,
@@ -9334,12 +9679,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/__крас",
     "hasRealWebsite": false,
     "phonePrimary": "+79188502845",
-    "instagram": "__крас",
-    "telegram": "",
-    "tgLink": "https://t.me/+79188502845",
+    "instagram": "estet_krasnodar",
+    "telegram": "estet_krasnodar",
+    "tgLink": "https://t.me/estet_krasnodar",
     "phoneLink": "tel:+79188502845",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B4%D0%B0%D1%80%2C%20%D0%A1%D0%B0%D0%BB%D0%BE%D0%BD%20%D0%BA%D1%80%D0%B0%D1%81%D0%BE%D1%82%D1%8B%20%C2%AB%D0%AD%D1%81%D1%82%D0%B5%D1%82%C2%BB%20%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B4%D0%B0%D1%80%2C%20%D1%83%D0%BB.%20%D0%A1%D1%82%D0%B0%D0%B2%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F%2C%207"
   },
   {
     "id": 347,
@@ -9361,12 +9707,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+79185510843",
-    "instagram": "_detailinglab_крас",
-    "telegram": "",
-    "tgLink": "https://t.me/+79185510843",
+    "instagram": "detailing_lab_krasnodar",
+    "telegram": "detailing_lab_krasnodar",
+    "tgLink": "https://t.me/detailing_lab_krasnodar",
     "phoneLink": "tel:+79185510843",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B4%D0%B0%D1%80%2C%20%D0%A6%D0%B5%D0%BD%D1%82%D1%80%20%D1%83%D1%85%D0%BE%D0%B4%D0%B0%20%D0%B7%D0%B0%20%D0%B0%D0%B2%D1%82%D0%BE%20%C2%ABDetailing%20Lab%C2%BB%20%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B4%D0%B0%D1%80%2C%20%D1%83%D0%BB.%20%D0%9A%D1%83%D0%B1%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BD%D0%B0%D0%B1.%2C%208"
   },
   {
     "id": 348,
@@ -9388,12 +9735,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/_h2o__крас",
     "hasRealWebsite": false,
     "phonePrimary": "+79181550183",
-    "instagram": "_h2o__крас",
-    "telegram": "",
-    "tgLink": "https://t.me/+79181550183",
+    "instagram": "h2o_ekspress_krasnodar",
+    "telegram": "h2o_ekspress_krasnodar",
+    "tgLink": "https://t.me/h2o_ekspress_krasnodar",
     "phoneLink": "tel:+79181550183",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B4%D0%B0%D1%80%2C%20%D0%9A%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%D0%BD%D0%B0%D1%8F%20%D0%BC%D0%BE%D0%B9%D0%BA%D0%B0%20%C2%ABH2O%20%D0%AD%D0%BA%D1%81%D0%BF%D1%80%D0%B5%D1%81%D1%81%C2%BB%20%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B4%D0%B0%D1%80%2C%20%D1%83%D0%BB.%20%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%B0%D1%8F%2C%209"
   },
   {
     "id": 349,
@@ -9415,12 +9763,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/__крас",
     "hasRealWebsite": false,
     "phonePrimary": "+79189535941",
-    "instagram": "__крас",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "dizel_motors_krasnodar",
+    "telegram": "dizel_motors_krasnodar",
+    "tgLink": "https://t.me/dizel_motors_krasnodar",
     "phoneLink": "tel:+79189535941",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B4%D0%B0%D1%80%2C%20%D0%A1%D0%A2%D0%9E%20%C2%AB%D0%94%D0%B8%D0%B7%D0%B5%D0%BB%D1%8C%20%D0%9C%D0%BE%D1%82%D0%BE%D1%80%D1%81%C2%BB%20%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B4%D0%B0%D1%80%2C%20%D1%83%D0%BB.%20%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D0%B0%D1%8F%2C%2010"
   },
   {
     "id": 350,
@@ -9442,12 +9791,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/_modernkitchens_крас",
     "hasRealWebsite": false,
     "phonePrimary": "+79182661722",
-    "instagram": "_modernkitchens_крас",
-    "telegram": "_modernkitchens_bot",
-    "tgLink": "https://t.me/_modernkitchens_bot",
+    "instagram": "modern_kitchens_krasnodar",
+    "telegram": "modern_kitchens_krasnodar",
+    "tgLink": "https://t.me/modern_kitchens_krasnodar",
     "phoneLink": "tel:+79182661722",
     "source": "yandex",
-    "crmStatus": "in_progress"
+    "crmStatus": "in_progress",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B4%D0%B0%D1%80%2C%20%D0%9C%D0%B5%D0%B1%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D1%84%D0%B0%D0%B1%D1%80%D0%B8%D0%BA%D0%B0%20%C2%ABModern%20Kitchens%C2%BB%20%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B4%D0%B0%D1%80%2C%20%D1%83%D0%BB.%20%D0%A1%D1%82%D0%B0%D0%B2%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F%2C%2011"
   },
   {
     "id": 351,
@@ -9469,12 +9819,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+79187376826",
-    "instagram": "__крас",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "novyy_dom_krasnodar",
+    "telegram": "novyy_dom_krasnodar",
+    "tgLink": "https://t.me/novyy_dom_krasnodar",
     "phoneLink": "tel:+79187376826",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B4%D0%B0%D1%80%2C%20%D0%9E%D1%82%D0%B4%D0%B5%D0%BB%D0%BA%D0%B0%20%D0%BF%D0%BE%D0%B4%20%D0%BA%D0%BB%D1%8E%D1%87%20%C2%AB%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%94%D0%BE%D0%BC%C2%BB%20%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B4%D0%B0%D1%80%2C%20%D1%83%D0%BB.%20%D0%9A%D1%83%D0%B1%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BD%D0%B0%D0%B1.%2C%2012"
   },
   {
     "id": 352,
@@ -9496,12 +9847,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/__крас",
     "hasRealWebsite": false,
     "phonePrimary": "+79183202854",
-    "instagram": "__крас",
-    "telegram": "",
-    "tgLink": "https://t.me/+79183202854",
+    "instagram": "prestizh_krasnodar",
+    "telegram": "prestizh_krasnodar",
+    "tgLink": "https://t.me/prestizh_krasnodar",
     "phoneLink": "tel:+79183202854",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B4%D0%B0%D1%80%2C%20%D0%9D%D0%B0%D1%82%D1%8F%D0%B6%D0%BD%D1%8B%D0%B5%20%D0%BF%D0%BE%D1%82%D0%BE%D0%BB%D0%BA%D0%B8%20%C2%AB%D0%9F%D1%80%D0%B5%D1%81%D1%82%D0%B8%D0%B6%C2%BB%20%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B4%D0%B0%D1%80%2C%20%D1%83%D0%BB.%20%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%B0%D1%8F%2C%2013"
   },
   {
     "id": 353,
@@ -9523,12 +9875,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/__крас",
     "hasRealWebsite": false,
     "phonePrimary": "+79185096249",
-    "instagram": "__крас",
-    "telegram": "",
-    "tgLink": "https://t.me/+79185096249",
+    "instagram": "tikhiy_ugolok_krasnodar",
+    "telegram": "tikhiy_ugolok_krasnodar",
+    "tgLink": "https://t.me/tikhiy_ugolok_krasnodar",
     "phoneLink": "tel:+79185096249",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B4%D0%B0%D1%80%2C%20%D0%90%D0%B3%D1%80%D0%BE%D1%83%D1%81%D0%B0%D0%B4%D1%8C%D0%B1%D0%B0%20%C2%AB%D0%A2%D0%B8%D1%85%D0%B8%D0%B9%20%D0%A3%D0%B3%D0%BE%D0%BB%D0%BE%D0%BA%C2%BB%20%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B4%D0%B0%D1%80%2C%20%D1%83%D0%BB.%20%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D0%B0%D1%8F%2C%2014"
   },
   {
     "id": 354,
@@ -9550,12 +9903,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/__крас",
     "hasRealWebsite": false,
     "phonePrimary": "+79187846287",
-    "instagram": "__крас",
-    "telegram": "",
-    "tgLink": "https://t.me/+79187846287",
+    "instagram": "russkiy_par_krasnodar",
+    "telegram": "russkiy_par_krasnodar",
+    "tgLink": "https://t.me/russkiy_par_krasnodar",
     "phoneLink": "tel:+79187846287",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B4%D0%B0%D1%80%2C%20%D0%91%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%20%D1%81%20%D1%87%D0%B0%D0%BD%D0%BE%D0%BC%20%C2%AB%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9%20%D0%9F%D0%B0%D1%80%C2%BB%20%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B4%D0%B0%D1%80%2C%20%D1%83%D0%BB.%20%D0%A1%D1%82%D0%B0%D0%B2%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F%2C%2015"
   },
   {
     "id": 355,
@@ -9577,12 +9931,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+79187912231",
-    "instagram": "__крас",
-    "telegram": "",
-    "tgLink": "https://t.me/+79187912231",
+    "instagram": "kristall_krasnodar",
+    "telegram": "kristall_krasnodar",
+    "tgLink": "https://t.me/kristall_krasnodar",
     "phoneLink": "tel:+79187912231",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B4%D0%B0%D1%80%2C%20%D0%9A%D0%BB%D0%B8%D0%BD%D0%B8%D0%BD%D0%B3%20%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%20%D1%80%D0%B5%D0%BC%D0%BE%D0%BD%D1%82%D0%B0%20%C2%AB%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B0%D0%BB%D0%BB%C2%BB%20%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B4%D0%B0%D1%80%2C%20%D1%83%D0%BB.%20%D0%9A%D1%83%D0%B1%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BD%D0%B0%D0%B1.%2C%2016"
   },
   {
     "id": 356,
@@ -9604,12 +9959,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/_dentart_крас",
     "hasRealWebsite": false,
     "phonePrimary": "+79184365047",
-    "instagram": "_dentart_крас",
-    "telegram": "_dentart_bot",
-    "tgLink": "https://t.me/_dentart_bot",
+    "instagram": "dent_art_krasnodar",
+    "telegram": "dent_art_krasnodar",
+    "tgLink": "https://t.me/dent_art_krasnodar",
     "phoneLink": "tel:+79184365047",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B4%D0%B0%D1%80%2C%20%D0%9A%D0%BB%D0%B8%D0%BD%D0%B8%D0%BA%D0%B0%20%D1%8D%D1%81%D1%82%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B9%20%D1%81%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8%20%C2%ABDent%20Art%C2%BB%20%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B4%D0%B0%D1%80%2C%20%D1%83%D0%BB.%20%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%B0%D1%8F%2C%2017"
   },
   {
     "id": 357,
@@ -9631,12 +9987,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/_bodyshape_крас",
     "hasRealWebsite": false,
     "phonePrimary": "+79189004955",
-    "instagram": "_bodyshape_крас",
-    "telegram": "_bodyshape_bot",
-    "tgLink": "https://t.me/_bodyshape_bot",
+    "instagram": "body_shape_krasnodar",
+    "telegram": "body_shape_krasnodar",
+    "tgLink": "https://t.me/body_shape_krasnodar",
     "phoneLink": "tel:+79189004955",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B4%D0%B0%D1%80%2C%20%D0%A4%D0%B8%D1%82%D0%BD%D0%B5%D1%81-%D1%81%D1%82%D1%83%D0%B4%D0%B8%D1%8F%20%C2%ABBody%20Shape%C2%BB%20%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B4%D0%B0%D1%80%2C%20%D1%83%D0%BB.%20%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D0%B0%D1%8F%2C%2018"
   },
   {
     "id": 358,
@@ -9658,12 +10015,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/__сочи",
     "hasRealWebsite": false,
     "phonePrimary": "+79187460913",
-    "instagram": "__сочи",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "espresso_bar_sochi",
+    "telegram": "espresso_bar_sochi",
+    "tgLink": "https://t.me/espresso_bar_sochi",
     "phoneLink": "tel:+79187460913",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%A1%D0%BE%D1%87%D0%B8%2C%20%D0%9A%D0%BE%D1%84%D0%B5%D0%B9%D0%BD%D1%8F%20%C2%AB%D0%AD%D1%81%D0%BF%D1%80%D0%B5%D1%81%D1%81%D0%BE%20%D0%91%D0%B0%D1%80%C2%BB%20%D0%A1%D0%BE%D1%87%D0%B8%2C%20%D1%83%D0%BB.%20%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C%2019"
   },
   {
     "id": 359,
@@ -9685,12 +10043,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+79185405191",
-    "instagram": "_craftmeat_сочи",
-    "telegram": "_craftmeat_bot",
-    "tgLink": "https://t.me/_craftmeat_bot",
+    "instagram": "craft_meat_sochi",
+    "telegram": "craft_meat_sochi",
+    "tgLink": "https://t.me/craft_meat_sochi",
     "phoneLink": "tel:+79185405191",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%A1%D0%BE%D1%87%D0%B8%2C%20%D0%93%D1%80%D0%B8%D0%BB%D1%8C%20%26%20%D0%91%D1%83%D1%80%D0%B3%D0%B5%D1%80%D1%8B%20%C2%ABCraft%20Meat%C2%BB%20%D0%A1%D0%BE%D1%87%D0%B8%2C%20%D1%83%D0%BB.%20%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%BC%D0%BE%D1%80%D1%81%D0%BA%D0%B0%D1%8F%2C%2020"
   },
   {
     "id": 360,
@@ -9712,12 +10071,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/_holidaybox_сочи",
     "hasRealWebsite": false,
     "phonePrimary": "+79183368625",
-    "instagram": "_holidaybox_сочи",
-    "telegram": "",
-    "tgLink": "https://t.me/+79183368625",
+    "instagram": "holiday_box_sochi",
+    "telegram": "holiday_box_sochi",
+    "tgLink": "https://t.me/holiday_box_sochi",
     "phoneLink": "tel:+79183368625",
     "source": "yandex",
-    "crmStatus": "contacted"
+    "crmStatus": "contacted",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%A1%D0%BE%D1%87%D0%B8%2C%20%D0%A4%D1%83%D1%80%D1%88%D0%B5%D1%82%D1%8B%20%D0%B8%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BF%D0%B5%20%C2%ABHoliday%20Box%C2%BB%20%D0%A1%D0%BE%D1%87%D0%B8%2C%20%D0%9A%D1%83%D1%80%D0%BE%D1%80%D1%82%D0%BD%D1%8B%D0%B9%20%D0%BF%D1%80-%D1%82%2C%2021"
   },
   {
     "id": 361,
@@ -9739,12 +10099,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/_gentlemanclub_сочи",
     "hasRealWebsite": false,
     "phonePrimary": "+79189022614",
-    "instagram": "_gentlemanclub_сочи",
-    "telegram": "",
-    "tgLink": "https://t.me/+79189022614",
+    "instagram": "gentleman_club_sochi",
+    "telegram": "gentleman_club_sochi",
+    "tgLink": "https://t.me/gentleman_club_sochi",
     "phoneLink": "tel:+79189022614",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%A1%D0%BE%D1%87%D0%B8%2C%20%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF%20%C2%ABGentleman%20Club%C2%BB%20%D0%A1%D0%BE%D1%87%D0%B8%2C%20%D1%83%D0%BB.%20%D0%9D%D0%B0%D0%B2%D0%B0%D0%B3%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%2C%2022"
   },
   {
     "id": 362,
@@ -9766,12 +10127,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/_glossynails_сочи",
     "hasRealWebsite": false,
     "phonePrimary": "+79185832143",
-    "instagram": "_glossynails_сочи",
-    "telegram": "_glossynails_bot",
-    "tgLink": "https://t.me/_glossynails_bot",
+    "instagram": "glossy_nails_sochi",
+    "telegram": "glossy_nails_sochi",
+    "tgLink": "https://t.me/glossy_nails_sochi",
     "phoneLink": "tel:+79185832143",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%A1%D0%BE%D1%87%D0%B8%2C%20%D0%A1%D1%82%D1%83%D0%B4%D0%B8%D1%8F%20%D0%BA%D1%80%D0%B0%D1%81%D0%BE%D1%82%D1%8B%20%C2%ABGlossy%20Nails%C2%BB%20%D0%A1%D0%BE%D1%87%D0%B8%2C%20%D1%83%D0%BB.%20%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C%2023"
   },
   {
     "id": 363,
@@ -9793,12 +10155,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+79188025764",
-    "instagram": "_secretroom_сочи",
-    "telegram": "_secretroom_bot",
-    "tgLink": "https://t.me/_secretroom_bot",
+    "instagram": "secret_room_sochi",
+    "telegram": "secret_room_sochi",
+    "tgLink": "https://t.me/secret_room_sochi",
     "phoneLink": "tel:+79188025764",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%A1%D0%BE%D1%87%D0%B8%2C%20%D0%9F%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE%20%D0%BA%D1%80%D0%B0%D1%81%D0%BE%D1%82%D1%8B%20%C2%ABSecret%20Room%C2%BB%20%D0%A1%D0%BE%D1%87%D0%B8%2C%20%D1%83%D0%BB.%20%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%BC%D0%BE%D1%80%D1%81%D0%BA%D0%B0%D1%8F%2C%2024"
   },
   {
     "id": 364,
@@ -9820,12 +10183,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/_blackedition_сочи",
     "hasRealWebsite": false,
     "phonePrimary": "+79189774008",
-    "instagram": "_blackedition_сочи",
-    "telegram": "_blackedition_bot",
-    "tgLink": "https://t.me/_blackedition_bot",
+    "instagram": "black_edition_sochi",
+    "telegram": "black_edition_sochi",
+    "tgLink": "https://t.me/black_edition_sochi",
     "phoneLink": "tel:+79189774008",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%A1%D0%BE%D1%87%D0%B8%2C%20%D0%A1%D1%82%D1%83%D0%B4%D0%B8%D1%8F%20%D0%B0%D0%B2%D1%82%D0%BE%D1%81%D1%82%D0%B0%D0%B9%D0%BB%D0%B8%D0%BD%D0%B3%D0%B0%20%C2%ABBlack%20Edition%C2%BB%20%D0%A1%D0%BE%D1%87%D0%B8%2C%20%D0%9A%D1%83%D1%80%D0%BE%D1%80%D1%82%D0%BD%D1%8B%D0%B9%20%D0%BF%D1%80-%D1%82%2C%2025"
   },
   {
     "id": 365,
@@ -9847,12 +10211,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/_ecowash_сочи",
     "hasRealWebsite": false,
     "phonePrimary": "+79182242967",
-    "instagram": "_ecowash_сочи",
-    "telegram": "",
-    "tgLink": "https://t.me/+79182242967",
+    "instagram": "ecowash_sochi",
+    "telegram": "ecowash_sochi",
+    "tgLink": "https://t.me/ecowash_sochi",
     "phoneLink": "tel:+79182242967",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%A1%D0%BE%D1%87%D0%B8%2C%20%D0%A5%D0%B8%D0%BC%D1%87%D0%B8%D1%81%D1%82%D0%BA%D0%B0%20%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D0%B0%20%C2%ABEcoWash%C2%BB%20%D0%A1%D0%BE%D1%87%D0%B8%2C%20%D1%83%D0%BB.%20%D0%9D%D0%B0%D0%B2%D0%B0%D0%B3%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%2C%2026"
   },
   {
     "id": 366,
@@ -9874,12 +10239,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/__сочи",
     "hasRealWebsite": false,
     "phonePrimary": "+79183374191",
-    "instagram": "__сочи",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "turbo_servis_sochi",
+    "telegram": "turbo_servis_sochi",
+    "tgLink": "https://t.me/turbo_servis_sochi",
     "phoneLink": "tel:+79183374191",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%A1%D0%BE%D1%87%D0%B8%2C%20%D0%A0%D0%B5%D0%BC%D0%BE%D0%BD%D1%82%20%D0%BF%D0%BE%D0%B4%D0%B2%D0%B5%D1%81%D0%BA%D0%B8%20%D0%B8%20%D1%82%D0%BE%D1%80%D0%BC%D0%BE%D0%B7%D0%BE%D0%B2%20%C2%AB%D0%A2%D1%83%D1%80%D0%B1%D0%BE%20%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81%C2%BB%20%D0%A1%D0%BE%D1%87%D0%B8%2C%20%D1%83%D0%BB.%20%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C%2027"
   },
   {
     "id": 367,
@@ -9901,12 +10267,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+79184372578",
-    "instagram": "__сочи",
-    "telegram": "",
-    "tgLink": "https://t.me/+79184372578",
+    "instagram": "master_vud_sochi",
+    "telegram": "master_vud_sochi",
+    "tgLink": "https://t.me/master_vud_sochi",
     "phoneLink": "tel:+79184372578",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%A1%D0%BE%D1%87%D0%B8%2C%20%D0%9A%D0%BE%D1%80%D0%BF%D1%83%D1%81%D0%BD%D0%B0%D1%8F%20%D0%BC%D0%B5%D0%B1%D0%B5%D0%BB%D1%8C%20%C2%AB%D0%9C%D0%B0%D1%81%D1%82%D0%B5%D1%80%20%D0%92%D1%83%D0%B4%C2%BB%20%D0%A1%D0%BE%D1%87%D0%B8%2C%20%D1%83%D0%BB.%20%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%BC%D0%BE%D1%80%D1%81%D0%BA%D0%B0%D1%8F%2C%2028"
   },
   {
     "id": 368,
@@ -9928,12 +10295,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/_masterbuild_сочи",
     "hasRealWebsite": false,
     "phonePrimary": "+79187712633",
-    "instagram": "_masterbuild_сочи",
-    "telegram": "_masterbuild_bot",
-    "tgLink": "https://t.me/_masterbuild_bot",
+    "instagram": "master_build_sochi",
+    "telegram": "master_build_sochi",
+    "tgLink": "https://t.me/master_build_sochi",
     "phoneLink": "tel:+79187712633",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%A1%D0%BE%D1%87%D0%B8%2C%20%D0%A0%D0%B5%D0%BC%D0%BE%D0%BD%D1%82%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%20%D0%B8%20%D0%BA%D0%BE%D1%82%D1%82%D0%B5%D0%B4%D0%B6%D0%B5%D0%B9%20%C2%ABMaster%20Build%C2%BB%20%D0%A1%D0%BE%D1%87%D0%B8%2C%20%D0%9A%D1%83%D1%80%D0%BE%D1%80%D1%82%D0%BD%D1%8B%D0%B9%20%D0%BF%D1%80-%D1%82%2C%2029"
   },
   {
     "id": 369,
@@ -9955,12 +10323,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/_skyline_сочи",
     "hasRealWebsite": false,
     "phonePrimary": "+79182939411",
-    "instagram": "_skyline_сочи",
-    "telegram": "",
-    "tgLink": "https://t.me/+79182939411",
+    "instagram": "sky_line_sochi",
+    "telegram": "sky_line_sochi",
+    "tgLink": "https://t.me/sky_line_sochi",
     "phoneLink": "tel:+79182939411",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%A1%D0%BE%D1%87%D0%B8%2C%20%D0%9F%D0%BE%D1%82%D0%BE%D0%BB%D0%BE%D1%87%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B%20%C2%ABSky%20Line%C2%BB%20%D0%A1%D0%BE%D1%87%D0%B8%2C%20%D1%83%D0%BB.%20%D0%9D%D0%B0%D0%B2%D0%B0%D0%B3%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%2C%2030"
   },
   {
     "id": 370,
@@ -9982,12 +10351,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/__сочи",
     "hasRealWebsite": false,
     "phonePrimary": "+79189353118",
-    "instagram": "__сочи",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "khutorok_sochi",
+    "telegram": "khutorok_sochi",
+    "tgLink": "https://t.me/khutorok_sochi",
     "phoneLink": "tel:+79189353118",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%A1%D0%BE%D1%87%D0%B8%2C%20%D0%97%D0%B0%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%20%C2%AB%D0%A5%D1%83%D1%82%D0%BE%D1%80%D0%BE%D0%BA%C2%BB%20%D0%A1%D0%BE%D1%87%D0%B8%2C%20%D1%83%D0%BB.%20%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C%2031"
   },
   {
     "id": 371,
@@ -10009,12 +10379,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "",
     "hasRealWebsite": false,
     "phonePrimary": "+79181895626",
-    "instagram": "__сочи",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "relaks_sochi",
+    "telegram": "relaks_sochi",
+    "tgLink": "https://t.me/relaks_sochi",
     "phoneLink": "tel:+79181895626",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%A1%D0%BE%D1%87%D0%B8%2C%20%D0%A1%D0%B0%D1%83%D0%BD%D0%B0%20%26%20%D0%91%D0%B0%D1%81%D1%81%D0%B5%D0%B9%D0%BD%20%C2%AB%D0%A0%D0%B5%D0%BB%D0%B0%D0%BA%D1%81%C2%BB%20%D0%A1%D0%BE%D1%87%D0%B8%2C%20%D1%83%D0%BB.%20%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%BC%D0%BE%D1%80%D1%81%D0%BA%D0%B0%D1%8F%2C%2032"
   },
   {
     "id": 372,
@@ -10036,12 +10407,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://instagram.com/_ecoclean_сочи",
     "hasRealWebsite": false,
     "phonePrimary": "+79187525227",
-    "instagram": "_ecoclean_сочи",
-    "telegram": "",
-    "tgLink": "https://t.me/+79187525227",
+    "instagram": "ecoclean_sochi",
+    "telegram": "ecoclean_sochi",
+    "tgLink": "https://t.me/ecoclean_sochi",
     "phoneLink": "tel:+79187525227",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%A1%D0%BE%D1%87%D0%B8%2C%20%D0%A5%D0%B8%D0%BC%D1%87%D0%B8%D1%81%D1%82%D0%BA%D0%B0%20%D0%BC%D0%B5%D0%B1%D0%B5%D0%BB%D0%B8%20%D0%B8%20%D0%BA%D0%BB%D0%B8%D0%BD%D0%B8%D0%BD%D0%B3%20%C2%ABEcoClean%C2%BB%20%D0%A1%D0%BE%D1%87%D0%B8%2C%20%D0%9A%D1%83%D1%80%D0%BE%D1%80%D1%82%D0%BD%D1%8B%D0%B9%20%D0%BF%D1%80-%D1%82%2C%2033"
   },
   {
     "id": 373,
@@ -10063,12 +10435,13 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://taplink.cc/__сочи",
     "hasRealWebsite": false,
     "phonePrimary": "+79183486813",
-    "instagram": "__сочи",
-    "telegram": "__bot",
-    "tgLink": "https://t.me/__bot",
+    "instagram": "ulybka_sochi",
+    "telegram": "ulybka_sochi",
+    "tgLink": "https://t.me/ulybka_sochi",
     "phoneLink": "tel:+79183486813",
     "source": "2gis",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%A1%D0%BE%D1%87%D0%B8%2C%20%D0%A1%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F%20%C2%AB%D0%A3%D0%BB%D1%8B%D0%B1%D0%BA%D0%B0%C2%BB%20%D0%A1%D0%BE%D1%87%D0%B8%2C%20%D1%83%D0%BB.%20%D0%9D%D0%B0%D0%B2%D0%B0%D0%B3%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%2C%2034"
   },
   {
     "id": 374,
@@ -10090,11 +10463,12 @@ export const STATIC_LEADS = [
     "rawWebsite": "https://vk.com/__сочи",
     "hasRealWebsite": false,
     "phonePrimary": "+79188598050",
-    "instagram": "__сочи",
-    "telegram": "",
-    "tgLink": "https://t.me/+79188598050",
+    "instagram": "balans_sochi",
+    "telegram": "balans_sochi",
+    "tgLink": "https://t.me/balans_sochi",
     "phoneLink": "tel:+79188598050",
     "source": "yandex",
-    "crmStatus": "new"
+    "crmStatus": "new",
+    "yandexMapsUrl": "https://yandex.ru/maps/?text=%D0%A1%D0%BE%D1%87%D0%B8%2C%20%D0%A1%D1%82%D1%83%D0%B4%D0%B8%D1%8F%20%D0%BF%D0%B8%D0%BB%D0%B0%D1%82%D0%B5%D1%81%D0%B0%20%C2%AB%D0%91%D0%B0%D0%BB%D0%B0%D0%BD%D1%81%C2%BB%20%D0%A1%D0%BE%D1%87%D0%B8%2C%20%D1%83%D0%BB.%20%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C%2035"
   }
 ];

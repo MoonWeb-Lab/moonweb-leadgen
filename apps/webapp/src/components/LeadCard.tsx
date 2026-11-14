@@ -1,7 +1,7 @@
 import React from 'react';
-import { Star, MapPin, Send, Phone, Instagram, Sparkles, ChevronDown } from 'lucide-react';
+import { Star, MapPin, Send, Phone, Instagram, Sparkles, ChevronDown, ExternalLink } from 'lucide-react';
 
-interface Lead {
+export interface Lead {
   id: number;
   name: string;
   cityName: string;
@@ -16,6 +16,7 @@ interface Lead {
   telegram?: string;
   tgLink?: string;
   phoneLink?: string;
+  yandexMapsUrl?: string;
   crmStatus: string;
 }
 
@@ -42,8 +43,42 @@ export const LeadCard: React.FC<LeadCardProps> = ({
 }) => {
   const currentCrm = CRM_STATUSES.find(s => s.key === lead.crmStatus) || CRM_STATUSES[0];
 
+  // Guaranteed working Yandex Maps URL
+  const yandexUrl = lead.yandexMapsUrl || `https://yandex.ru/maps/?text=${encodeURIComponent(lead.cityName + ', ' + lead.name + (lead.address ? ', ' + lead.address : ''))}`;
+
+  // Safe external link opener for Telegram Mini App and Web
+  const openExternal = (e: React.MouseEvent, url?: string) => {
+    e.preventDefault();
+    e.stopPropagation();
+    if (!url) return;
+    onHaptic?.();
+    const tg = window.Telegram?.WebApp;
+    if (tg && typeof tg.openLink === 'function') {
+      tg.openLink(url);
+    } else {
+      window.open(url, '_blank', 'noopener,noreferrer');
+    }
+  };
+
+  // Safe Telegram link opener for Telegram Mini App
+  const openTelegram = (e: React.MouseEvent, tgUrl?: string) => {
+    e.preventDefault();
+    e.stopPropagation();
+    if (!tgUrl) return;
+    onHaptic?.();
+    const tg = window.Telegram?.WebApp;
+    if (tg && typeof tg.openTelegramLink === 'function') {
+      tg.openTelegramLink(tgUrl);
+    } else {
+      window.open(tgUrl, '_blank', 'noopener,noreferrer');
+    }
+  };
+
+  const cleanPhone = (lead.phonePrimary || '').replace(/[^0-9]/g, '');
+  const effectiveTgLink = lead.tgLink || (lead.telegram ? `https://t.me/${lead.telegram.replace('@', '')}` : (cleanPhone ? `https://t.me/+${cleanPhone}` : ''));
+
   return (
-    <div className="glass-card rounded-2xl p-4 border border-white/10 space-y-3 relative overflow-hidden">
+    <div className="glass-card rounded-2xl p-4 border border-white/10 space-y-3 relative overflow-hidden bg-slate-900/60 shadow-lg">
       {/* Top row: Badges and CRM selector */}
       <div className="flex items-start justify-between gap-2">
         <div className="flex flex-wrap items-center gap-1.5">
@@ -92,12 +127,19 @@ export const LeadCard: React.FC<LeadCardProps> = ({
         <h3 className="font-bold text-base text-white tracking-tight leading-snug">
           {lead.name}
         </h3>
-        <div className="flex items-center gap-2 mt-1 text-xs text-slate-400">
-          <span className="flex items-center gap-1">
-            <MapPin className="w-3.5 h-3.5 text-sky-400" />
-            <strong className="text-slate-300">{lead.cityName}</strong>
-            {lead.address && <span className="text-slate-500">• {lead.address}</span>}
-          </span>
+        
+        {/* Clickable address with Yandex Maps integration */}
+        <div className="flex items-center gap-2 mt-1.5 text-xs">
+          <button
+            type="button"
+            onClick={(e) => openExternal(e, yandexUrl)}
+            className="flex items-center gap-1 text-slate-300 hover:text-amber-400 transition-colors text-left group"
+            title="Открыть адрес на Яндекс Картах"
+          >
+            <MapPin className="w-3.5 h-3.5 text-amber-400 shrink-0 group-hover:scale-110 transition-transform" />
+            <strong className="text-slate-200">{lead.cityName}</strong>
+            {lead.address && <span className="text-slate-400">• {lead.address}</span>}
+          </button>
         </div>
 
         {/* Rating and Reviews */}
@@ -116,30 +158,52 @@ export const LeadCard: React.FC<LeadCardProps> = ({
         )}
       </div>
 
-      {/* Phone and Socials bar */}
-      <div className="flex items-center justify-between pt-1 border-t border-white/5 text-xs">
-        <div className="flex items-center gap-2">
+      {/* Contacts, Yandex Maps & Socials bar */}
+      <div className="flex flex-wrap items-center justify-between gap-2 pt-2 border-t border-white/5 text-xs">
+        {/* Phone call button */}
+        <div className="flex items-center gap-1.5">
           {lead.phonePrimary && (
             <a
               href={lead.phoneLink || `tel:${lead.phonePrimary}`}
-              className="font-mono text-emerald-400 font-semibold hover:underline"
+              className="font-mono text-emerald-400 font-semibold hover:underline flex items-center gap-1 py-1"
             >
-              {lead.phonePrimary}
+              <Phone className="w-3 h-3 text-emerald-400/80" />
+              <span>{lead.phonePrimary}</span>
             </a>
           )}
         </div>
 
-        <div className="flex items-center gap-2">
+        {/* Action icons: Yandex Maps & Instagram */}
+        <div className="flex items-center gap-1.5">
+          {/* YANDEX MAPS BUTTON */}
+          <button
+            type="button"
+            onClick={(e) => openExternal(e, yandexUrl)}
+            className="flex items-center gap-1 px-2.5 py-1 rounded-lg bg-amber-500/15 hover:bg-amber-500/25 text-amber-300 hover:text-amber-200 border border-amber-500/30 text-[11px] font-semibold transition-all shadow-sm"
+            title="Открыть организацию в Яндекс Картах"
+          >
+            <MapPin className="w-3 h-3 text-amber-400" />
+            <span>Яндекс Карты</span>
+            <ExternalLink className="w-2.5 h-2.5 text-amber-400/70" />
+          </button>
+
+          {/* INSTAGRAM BUTTON */}
           {lead.instagram && (
-            <a
-              href={lead.instagram.startsWith('http') ? lead.instagram : `https://instagram.com/${lead.instagram}`}
-              target="_blank"
-              rel="noreferrer"
-              className="flex items-center gap-1 px-2 py-0.5 rounded bg-fuchsia-500/10 text-fuchsia-400 hover:bg-fuchsia-500/20 text-[11px] font-semibold border border-fuchsia-500/30 transition-all"
+            <button
+              type="button"
+              onClick={(e) => {
+                const cleanInsta = lead.instagram!.replace('@', '').trim();
+                const url = cleanInsta.startsWith('http') 
+                  ? cleanInsta 
+                  : `https://www.instagram.com/${cleanInsta}/`;
+                openExternal(e, url);
+              }}
+              className="flex items-center gap-1 px-2.5 py-1 rounded-lg bg-fuchsia-500/15 hover:bg-fuchsia-500/25 text-fuchsia-300 hover:text-fuchsia-200 text-[11px] font-semibold border border-fuchsia-500/30 transition-all shadow-sm"
+              title="Открыть Instagram организации"
             >
-              <Instagram className="w-3 h-3" />
+              <Instagram className="w-3 h-3 text-fuchsia-400" />
               <span>Insta</span>
-            </a>
+            </button>
           )}
         </div>
       </div>
@@ -147,17 +211,15 @@ export const LeadCard: React.FC<LeadCardProps> = ({
       {/* Action Buttons Row */}
       <div className="grid grid-cols-2 gap-2 pt-1">
         {/* Telegram Direct Button */}
-        {lead.tgLink ? (
-          <a
-            href={lead.tgLink}
-            target="_blank"
-            rel="noreferrer"
-            onClick={() => onHaptic?.()}
+        {effectiveTgLink ? (
+          <button
+            type="button"
+            onClick={(e) => openTelegram(e, effectiveTgLink)}
             className="flex items-center justify-center gap-1.5 py-2 px-3 rounded-xl bg-gradient-to-r from-sky-500 to-indigo-600 hover:from-sky-400 hover:to-indigo-500 text-white font-semibold text-xs shadow-sm shadow-sky-500/20 transition-all"
           >
             <Send className="w-3.5 h-3.5" />
             <span>В Telegram</span>
-          </a>
+          </button>
         ) : (
           <a
             href={lead.phoneLink || `tel:${lead.phonePrimary}`}
@@ -171,6 +233,7 @@ export const LeadCard: React.FC<LeadCardProps> = ({
 
         {/* Generate Offer Button */}
         <button
+          type="button"
           onClick={() => {
             onOpenOffer(lead);
             onHaptic?.();

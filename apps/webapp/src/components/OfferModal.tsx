@@ -114,15 +114,22 @@ export const OfferModal: React.FC<OfferModalProps> = ({
 
           {/* Direct TG send */}
           {tgLink ? (
-            <a
-              href={tgLink}
-              target="_blank"
-              rel="noreferrer"
+            <button
+              type="button"
+              onClick={() => {
+                onHaptic?.();
+                const tg = window.Telegram?.WebApp;
+                if (tg && typeof tg.openTelegramLink === 'function') {
+                  tg.openTelegramLink(tgLink);
+                } else {
+                  window.open(tgLink, '_blank', 'noopener,noreferrer');
+                }
+              }}
               className="flex items-center justify-center gap-2 py-2.5 px-4 rounded-xl bg-indigo-600 hover:bg-indigo-500 text-white text-xs font-bold shadow-md shadow-indigo-500/20 transition-all"
             >
               <Send className="w-4 h-4" />
               <span>Перейти в чат</span>
-            </a>
+            </button>
           ) : (
             <button
               onClick={handleCopy}

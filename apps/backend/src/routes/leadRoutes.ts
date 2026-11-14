@@ -125,6 +125,7 @@ export async function leadRoutes(fastify: FastifyInstance) {
       
       const viberLink = cleanPhone ? `viber://chat?number=%2B${cleanPhone}` : undefined;
       const phoneLink = row.phone_primary ? `tel:${row.phone_primary}` : undefined;
+      const yandexMapsUrl = row.yandex_maps_url || `https://yandex.ru/maps/?text=${encodeURIComponent(row.cityName + ', ' + row.name + (row.address ? ', ' + row.address : ''))}`;
 
       return {
         id: row.id,
@@ -158,7 +159,8 @@ export async function leadRoutes(fastify: FastifyInstance) {
         updatedAt: row.updated_at,
         tgLink,
         viberLink,
-        phoneLink
+        phoneLink,
+        yandexMapsUrl
       };
     });
 
