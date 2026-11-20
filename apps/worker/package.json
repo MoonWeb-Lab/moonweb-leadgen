@@ -9,6 +9,7 @@
     "seed": "tsx src/seeds/seedLeads.ts",
     "parse": "tsx src/parsers/engine.ts",
     "sync": "tsx src/parsers/syncToStatic.ts",
+    "instagram:login": "tsx src/instagram/login.ts",
     "instagram:outreach": "tsx src/instagram/outreachBot.ts",
     "build": "tsc"
   },

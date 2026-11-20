@@ -12,6 +12,8 @@ import { DatabaseSync } from 'node:sqlite';
 import path from 'node:path';
 import fs from 'node:fs';
 import { fileURLToPath } from 'node:url';
+import readline from 'node:readline/promises';
+import { stdin as input, stdout as output } from 'node:process';
 import { chromium, type BrowserContext, type Page } from 'playwright-core';
 import { buildHumanizedPitch, DEFAULT_PITCH_CONFIG } from '../parsers/pitchTemplates.js';
 
@@ -128,21 +130,20 @@ export async function runInstagramOutreach(): Promise<void> {
     // Проверяем, есть ли поле ввода логина (значит не авторизован)
     const isLoginNeeded = await page.$('input[name="username"]');
     if (isLoginNeeded) {
-      console.log('\n⚠️ ВНИМАНИЕ: Требуется разовая авторизация в Instagram!');
-      console.log('Пожалуйста, войдите в свой аккаунт (@moonweb_labs) в открывшемся окне Chrome.');
-      console.log('Сессия сохранится, и в следующие разы вход будет автоматическим.');
-      console.log('Ожидание входа (до 180 секунд)...');
+      console.log('\n===============================================================');
+      console.log('⚠️  ВНИМАНИЕ: Требуется разовая авторизация в Instagram!');
+      console.log('👉 В открывшемся окне Chrome спокойно войдите в свой аккаунт');
+      console.log('   (введите логин, пароль, подтвердите код SMS/2FA, если потребуется).');
+      console.log('');
+      console.log('⏳ ВРЕМЯ НЕ ОГРАНИЧЕНО: браузер НЕ закроется!');
+      console.log('👉 Как только войдёте на страницу Instagram, вернитесь сюда и:');
+      console.log('===============================================================\n');
 
-      try {
-        await page.waitForSelector('svg[aria-label="Direct"], svg[aria-label="Сообщения"], a[href*="/direct/"]', {
-          timeout: 180000,
-        });
-        console.log('🎉 Успешный вход в аккаунт Instagram!\n');
-      } catch {
-        console.log('❌ Время ожидания авторизации истекло. Перезапустите бота после входа.');
-        await context.close();
-        return;
-      }
+      const rl = readline.createInterface({ input, output });
+      await rl.question('   Нажмите [ENTER] в этой консоли, чтобы начать рассылку: ');
+      rl.close();
+
+      console.log('\n🎉 Вход подтвержден! Начинаем рассылку офферов...\n');
     } else {
       console.log('✅ Авторизация подтверждена (сессия активна).');
     }
