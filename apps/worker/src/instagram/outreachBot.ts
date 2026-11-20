@@ -107,16 +107,26 @@ export async function runInstagramOutreach(): Promise<void> {
     fs.mkdirSync(USER_DATA_DIR, { recursive: true });
   }
 
-  console.log('\n🚀 Запуск браузера Chrome с профилем сессии...');
+  console.log('\n🚀 Запуск браузера Chrome с профилем сессии (stealth mode)...');
   const context: BrowserContext = await chromium.launchPersistentContext(USER_DATA_DIR, {
     executablePath: CHROME_PATH,
-    headless: false, // Открываем в видимом окне для безопасности и контроля
-    viewport: { width: 1280, height: 800 },
+    headless: false,
+    viewport: null,
+    ignoreDefaultArgs: ['--enable-automation'],
     args: [
       '--disable-blink-features=AutomationControlled',
       '--no-sandbox',
       '--disable-infobars',
+      '--start-maximized',
+      '--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36',
     ],
+  });
+
+  // Маскировка webdriver под реального человека
+  await context.addInitScript(() => {
+    Object.defineProperty(navigator, 'webdriver', {
+      get: () => undefined,
+    });
   });
 
   const page: Page = context.pages().length > 0 ? context.pages()[0] : await context.newPage();
