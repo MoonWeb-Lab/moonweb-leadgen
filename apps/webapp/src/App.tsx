@@ -8,7 +8,8 @@ import { FilterBar } from './components/FilterBar.js';
 import { LeadCard } from './components/LeadCard.js';
 import { OfferModal } from './components/OfferModal.js';
 import { ExportModal } from './components/ExportModal.js';
-import { Loader2, RefreshCw } from 'lucide-react';
+import { InstagramAutopilotModal } from './components/InstagramAutopilotModal.js';
+import { Loader2, RefreshCw, Instagram, Zap } from 'lucide-react';
 
 export const App: React.FC = () => {
   const { user, userId, triggerHaptic, triggerNotificationHaptic } = useTelegram();
@@ -46,6 +47,7 @@ export const App: React.FC = () => {
   const [activeOffer, setActiveOffer] = useState<any | null>(null);
   const [activeOfferLead, setActiveOfferLead] = useState<any | null>(null);
   const [isExportOpen, setIsExportOpen] = useState(false);
+  const [isIgAutopilotOpen, setIsIgAutopilotOpen] = useState(false);
 
   // Initial load of catalog
   useEffect(() => {
@@ -137,7 +139,14 @@ export const App: React.FC = () => {
   return (
     <div className="min-h-screen bg-[#070C18] text-slate-100 flex flex-col">
       {/* Sticky Top Header */}
-      <Header user={user} metrics={stats} />
+      <Header
+        user={user}
+        metrics={stats}
+        onOpenInstagramAutopilot={() => {
+          setIsIgAutopilotOpen(true);
+          triggerHaptic('light');
+        }}
+      />
 
       <main className="max-w-4xl mx-auto w-full px-4 py-4 space-y-4 flex-1">
         {/* Country & City Selector */}
@@ -181,6 +190,40 @@ export const App: React.FC = () => {
           onOpenExport={() => setIsExportOpen(true)}
           onHaptic={() => triggerHaptic('light')}
         />
+
+        {/* Instagram Autopilot Quick Action Banner */}
+        <div className="relative overflow-hidden rounded-2xl p-4 bg-gradient-to-r from-pink-950/40 via-purple-950/30 to-[#0A101F] border border-pink-500/30 shadow-lg shadow-pink-950/20 flex flex-col sm:flex-row sm:items-center justify-between gap-3">
+          <div className="flex items-center gap-3">
+            <div className="w-10 h-10 rounded-xl bg-gradient-to-tr from-amber-500 via-pink-600 to-purple-600 p-[1.5px] shrink-0">
+              <div className="w-full h-full bg-[#0A101F] rounded-[10px] flex items-center justify-center">
+                <Instagram className="w-5 h-5 text-pink-400" />
+              </div>
+            </div>
+            <div>
+              <div className="flex items-center gap-2">
+                <h3 className="font-extrabold text-sm text-white">Автопилот Instagram</h3>
+                <span className="text-[10px] font-bold px-1.5 py-0.2 rounded-md bg-pink-500/20 text-pink-300 border border-pink-500/30">
+                  15 лидов в день
+                </span>
+              </div>
+              <p className="text-xs text-slate-400">
+                Готовые живые офферы для отобранных бизнесов без сайта
+              </p>
+            </div>
+          </div>
+
+          <button
+            type="button"
+            onClick={() => {
+              setIsIgAutopilotOpen(true);
+              triggerHaptic('medium');
+            }}
+            className="flex items-center justify-center gap-1.5 px-4 py-2.5 rounded-xl bg-gradient-to-r from-pink-600 to-purple-600 hover:from-pink-500 hover:to-purple-500 text-white font-bold text-xs shadow-md shadow-pink-600/25 transition-all cursor-pointer shrink-0"
+          >
+            <Zap className="w-3.5 h-3.5 fill-white text-white" />
+            <span>Запустить 15 в Direct</span>
+          </button>
+        </div>
 
         {/* Leads Feed */}
         {loading ? (
@@ -254,6 +297,14 @@ export const App: React.FC = () => {
         filters={filters}
         userChatId={userId}
         totalLeads={totalFound}
+        onHaptic={triggerNotificationHaptic}
+      />
+
+      {/* Instagram Autopilot Modal (15 per day) */}
+      <InstagramAutopilotModal
+        isOpen={isIgAutopilotOpen}
+        onClose={() => setIsIgAutopilotOpen(false)}
+        leads={leads}
         onHaptic={triggerNotificationHaptic}
       />
     </div>
