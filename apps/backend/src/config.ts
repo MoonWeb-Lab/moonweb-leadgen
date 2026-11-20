@@ -16,8 +16,8 @@ export const config = {
   dbPath: path.resolve(__dirname, '../../backend/data/leadgen.sqlite'),
   studio: {
     name: process.env.STUDIO_NAME || 'MoonWeb Lab',
-    telegram: process.env.STUDIO_TELEGRAM || 'moonweb_labs',
+    telegram: process.env.STUDIO_TELEGRAM || 'moonweb_lab',
     instagram: process.env.STUDIO_INSTAGRAM || 'moonweb_labs',
-    portfolioUrl: process.env.STUDIO_PORTFOLIO_URL || 'https://moonweb-lab.github.io/botanica-bistro/'
+    portfolioUrl: process.env.STUDIO_PORTFOLIO_URL || 'https://moonweb-lab.github.io/moonweb-lab/'
   }
 };

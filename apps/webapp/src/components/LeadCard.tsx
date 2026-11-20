@@ -35,7 +35,7 @@ const CRM_STATUSES = [
   { key: 'rejected', label: '❌ Отказ', color: 'bg-rose-500/20 text-rose-300 border-rose-500/40' }
 ];
 
-export const LeadCard: React.FC<LeadCardProps> = ({
+export const LeadCard: React.FC<LeadCardProps> = React.memo(({
   lead,
   onOpenOffer,
   onUpdateCrmStatus,
@@ -246,4 +246,6 @@ export const LeadCard: React.FC<LeadCardProps> = ({
       </div>
     </div>
   );
-};
+});
+
+LeadCard.displayName = 'LeadCard';

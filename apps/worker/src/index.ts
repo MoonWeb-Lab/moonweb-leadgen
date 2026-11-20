@@ -1,10 +1,22 @@
 import { runSeed } from './seeds/seedLeads.js';
+import { runFullLeadHuntingPipeline } from './parsers/engine.js';
+import { syncDatabaseToStaticLeads } from './parsers/syncToStatic.js';
 
 console.log(`=======================================================`);
-console.log(`🛠️ MoonWeb Lab • Background Worker`);
+console.log(`🛠️ MoonWeb Lab • Lead Hunter & Background Worker`);
 console.log(`=======================================================`);
 
-// Ensure seed data is populated
-runSeed();
+async function main() {
+  // 1. Run seeds if DB is empty
+  await runSeed();
 
-console.log(`✨ Воркер готов к обработке очередей сбора данных.`);
+  // 2. Run full parsing pipeline
+  await runFullLeadHuntingPipeline();
+
+  // 3. Sync database to staticLeads for client-side webapp
+  syncDatabaseToStaticLeads();
+
+  console.log(`✨ Воркер и парсер успешно завершили цикл сбора данных.`);
+}
+
+main().catch(console.error);

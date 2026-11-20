@@ -243,6 +243,7 @@ export const App: React.FC = () => {
         }}
         offer={activeOffer}
         tgLink={activeOfferLead?.tgLink}
+        instagram={activeOfferLead?.instagram}
         onHaptic={triggerNotificationHaptic}
       />
 

@@ -12,6 +12,8 @@
     "dev:webapp": "cmd /c \"cd apps/webapp && npm run dev\"",
     "dev:worker": "cmd /c \"cd apps/worker && npm run dev\"",
     "seed": "cmd /c \"cd apps/worker && npm run seed\"",
+    "parse": "cmd /c \"cd apps/worker && npm run parse\"",
+    "sync": "cmd /c \"cd apps/worker && npm run sync\"",
     "build:all": "cmd /c \"cd apps/backend && npm run build && cd ../webapp && npm run build\""
   },
   "keywords": ["telegram-mini-app", "lead-generation", "moonweb-lab", "fastify", "react"],

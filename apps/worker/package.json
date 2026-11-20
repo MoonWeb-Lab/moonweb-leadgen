@@ -2,10 +2,13 @@
   "name": "@moonweb/worker",
   "version": "1.0.0",
   "private": true,
+  "type": "module",
   "main": "src/index.ts",
   "scripts": {
     "dev": "tsx src/index.ts",
     "seed": "tsx src/seeds/seedLeads.ts",
+    "parse": "tsx src/parsers/engine.ts",
+    "sync": "tsx src/parsers/syncToStatic.ts",
     "build": "tsc"
   },
   "dependencies": {
