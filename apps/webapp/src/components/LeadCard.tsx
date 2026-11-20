@@ -1,5 +1,5 @@
-import React from 'react';
-import { Star, MapPin, Send, Phone, Instagram, Sparkles, ChevronDown, ExternalLink } from 'lucide-react';
+import React, { useState } from 'react';
+import { Star, MapPin, Send, Phone, Instagram, Sparkles, ChevronDown, ExternalLink, Check, MessageSquare } from 'lucide-react';
 
 export interface Lead {
   id: number;
@@ -41,9 +41,10 @@ export const LeadCard: React.FC<LeadCardProps> = React.memo(({
   onUpdateCrmStatus,
   onHaptic
 }) => {
+  const [copiedNotice, setCopiedNotice] = useState<string | null>(null);
   const currentCrm = CRM_STATUSES.find(s => s.key === lead.crmStatus) || CRM_STATUSES[0];
 
-  // Guaranteed working Yandex Maps URL
+  // Guaranteed working Yandex Maps search URL
   const yandexUrl = lead.yandexMapsUrl || `https://yandex.ru/maps/?text=${encodeURIComponent(lead.cityName + ', ' + lead.name + (lead.address ? ', ' + lead.address : ''))}`;
 
   // Safe external link opener for Telegram Mini App and Web
@@ -60,25 +61,58 @@ export const LeadCard: React.FC<LeadCardProps> = React.memo(({
     }
   };
 
-  // Safe Telegram link opener for Telegram Mini App
-  const openTelegram = (e: React.MouseEvent, tgUrl?: string) => {
+  const cleanPhone = (lead.phonePrimary || '').replace(/[^0-9]/g, '');
+  const isUsername = Boolean(lead.telegram && !/^\+?\d+$/.test(lead.telegram));
+  const effectiveUsername = isUsername ? lead.telegram!.replace('@', '').trim() : '';
+
+  // Bulletproof Telegram Handler: NEVER redirects to telegram.org
+  const handleTelegramClick = (e: React.MouseEvent) => {
     e.preventDefault();
     e.stopPropagation();
-    if (!tgUrl) return;
     onHaptic?.();
-    const tg = window.Telegram?.WebApp;
-    if (tg && typeof tg.openTelegramLink === 'function') {
-      tg.openTelegramLink(tgUrl);
-    } else {
-      window.open(tgUrl, '_blank', 'noopener,noreferrer');
+
+    if (effectiveUsername) {
+      // Direct username URL works 100% reliably
+      const tgUsernameUrl = `https://t.me/${effectiveUsername}`;
+      const tg = window.Telegram?.WebApp;
+      if (tg && typeof tg.openTelegramLink === 'function') {
+        tg.openTelegramLink(tgUsernameUrl);
+      } else {
+        window.open(tgUsernameUrl, '_blank', 'noopener,noreferrer');
+      }
+      return;
+    }
+
+    if (cleanPhone) {
+      // Copy phone number to clipboard so user can immediately paste in Telegram search
+      if (navigator.clipboard) {
+        navigator.clipboard.writeText('+' + cleanPhone);
+      }
+      setCopiedNotice(`Номер +${cleanPhone} скопирован для поиска в Telegram!`);
+      setTimeout(() => setCopiedNotice(null), 3500);
+
+      // Deep link to native client
+      const tgAppUrl = `tg://resolve?phone=${cleanPhone}`;
+      const tg = window.Telegram?.WebApp;
+      if (tg && typeof tg.openTelegramLink === 'function') {
+        tg.openTelegramLink(tgAppUrl);
+      } else {
+        window.location.href = tgAppUrl;
+      }
     }
   };
 
-  const cleanPhone = (lead.phonePrimary || '').replace(/[^0-9]/g, '');
-  const effectiveTgLink = lead.tgLink || (lead.telegram ? `https://t.me/${lead.telegram.replace('@', '')}` : (cleanPhone ? `https://t.me/+${cleanPhone}` : ''));
-
   return (
     <div className="glass-card rounded-2xl p-4 border border-white/10 space-y-3 relative overflow-hidden bg-slate-900/60 shadow-lg">
+      
+      {/* Toast Notice when phone is copied */}
+      {copiedNotice && (
+        <div className="absolute top-2 left-2 right-2 z-20 bg-emerald-600 text-white text-xs py-1.5 px-3 rounded-xl flex items-center gap-2 shadow-xl animate-fade-in">
+          <Check className="w-3.5 h-3.5 text-white shrink-0" />
+          <span className="font-semibold truncate">{copiedNotice}</span>
+        </div>
+      )}
+
       {/* Top row: Badges and CRM selector */}
       <div className="flex items-start justify-between gap-2">
         <div className="flex flex-wrap items-center gap-1.5">
@@ -110,7 +144,7 @@ export const LeadCard: React.FC<LeadCardProps> = React.memo(({
               onUpdateCrmStatus(lead.id, e.target.value);
               onHaptic?.();
             }}
-            className={`appearance-none text-[11px] font-semibold py-1 pl-2.5 pr-6 rounded-lg border cursor-pointer focus:outline-none transition-all ${currentCrm.color}`}
+            className={`appearance-none text-[11px] font-semibold py-1 pl-2.5 pr-6 rounded-lg border cursor-pointer focus:outline-none transition-colors ${currentCrm.color}`}
           >
             {CRM_STATUSES.map(s => (
               <option key={s.key} value={s.key} className="bg-slate-900 text-slate-200">
@@ -133,7 +167,7 @@ export const LeadCard: React.FC<LeadCardProps> = React.memo(({
           <button
             type="button"
             onClick={(e) => openExternal(e, yandexUrl)}
-            className="flex items-center gap-1 text-slate-300 hover:text-amber-400 transition-colors text-left group"
+            className="flex items-center gap-1 text-slate-300 hover:text-amber-400 transition-colors text-left group cursor-pointer"
             title="Открыть адрес на Яндекс Картах"
           >
             <MapPin className="w-3.5 h-3.5 text-amber-400 shrink-0 group-hover:scale-110 transition-transform" />
@@ -179,11 +213,11 @@ export const LeadCard: React.FC<LeadCardProps> = React.memo(({
           <button
             type="button"
             onClick={(e) => openExternal(e, yandexUrl)}
-            className="flex items-center gap-1 px-2.5 py-1 rounded-lg bg-amber-500/15 hover:bg-amber-500/25 text-amber-300 hover:text-amber-200 border border-amber-500/30 text-[11px] font-semibold transition-all shadow-sm"
+            className="flex items-center gap-1 px-2.5 py-1 rounded-lg bg-amber-500/15 hover:bg-amber-500/25 text-amber-300 hover:text-amber-200 border border-amber-500/30 text-[11px] font-semibold transition-colors shadow-sm cursor-pointer"
             title="Открыть организацию в Яндекс Картах"
           >
             <MapPin className="w-3 h-3 text-amber-400" />
-            <span>Яндекс Карты</span>
+            <span>Карты</span>
             <ExternalLink className="w-2.5 h-2.5 text-amber-400/70" />
           </button>
 
@@ -198,11 +232,24 @@ export const LeadCard: React.FC<LeadCardProps> = React.memo(({
                   : `https://www.instagram.com/${cleanInsta}/`;
                 openExternal(e, url);
               }}
-              className="flex items-center gap-1 px-2.5 py-1 rounded-lg bg-fuchsia-500/15 hover:bg-fuchsia-500/25 text-fuchsia-300 hover:text-fuchsia-200 text-[11px] font-semibold border border-fuchsia-500/30 transition-all shadow-sm"
+              className="flex items-center gap-1 px-2.5 py-1 rounded-lg bg-fuchsia-500/15 hover:bg-fuchsia-500/25 text-fuchsia-300 hover:text-fuchsia-200 text-[11px] font-semibold border border-fuchsia-500/30 transition-colors shadow-sm cursor-pointer"
               title="Открыть Instagram организации"
             >
               <Instagram className="w-3 h-3 text-fuchsia-400" />
               <span>Insta</span>
+            </button>
+          )}
+
+          {/* WhatsApp Direct link if phone is present */}
+          {cleanPhone && (
+            <button
+              type="button"
+              onClick={(e) => openExternal(e, `https://wa.me/${cleanPhone}`)}
+              className="flex items-center gap-1 px-2.5 py-1 rounded-lg bg-emerald-500/15 hover:bg-emerald-500/25 text-emerald-300 hover:text-emerald-200 text-[11px] font-semibold border border-emerald-500/30 transition-colors shadow-sm cursor-pointer"
+              title="Написать в WhatsApp"
+            >
+              <MessageSquare className="w-3 h-3 text-emerald-400" />
+              <span>WA</span>
             </button>
           )}
         </div>
@@ -210,26 +257,16 @@ export const LeadCard: React.FC<LeadCardProps> = React.memo(({
 
       {/* Action Buttons Row */}
       <div className="grid grid-cols-2 gap-2 pt-1">
-        {/* Telegram Direct Button */}
-        {effectiveTgLink ? (
-          <button
-            type="button"
-            onClick={(e) => openTelegram(e, effectiveTgLink)}
-            className="flex items-center justify-center gap-1.5 py-2 px-3 rounded-xl bg-gradient-to-r from-sky-500 to-indigo-600 hover:from-sky-400 hover:to-indigo-500 text-white font-semibold text-xs shadow-sm shadow-sky-500/20 transition-all"
-          >
-            <Send className="w-3.5 h-3.5" />
-            <span>В Telegram</span>
-          </button>
-        ) : (
-          <a
-            href={lead.phoneLink || `tel:${lead.phonePrimary}`}
-            onClick={() => onHaptic?.()}
-            className="flex items-center justify-center gap-1.5 py-2 px-3 rounded-xl bg-slate-800 hover:bg-slate-700 text-slate-200 font-semibold text-xs border border-slate-700 transition-all"
-          >
-            <Phone className="w-3.5 h-3.5 text-emerald-400" />
-            <span>Позвонить</span>
-          </a>
-        )}
+        {/* Telegram Direct Button with Bulletproof Safe Handler */}
+        <button
+          type="button"
+          onClick={handleTelegramClick}
+          className="flex items-center justify-center gap-1.5 py-2.5 px-3 rounded-xl bg-gradient-to-r from-sky-500 to-indigo-600 hover:from-sky-400 hover:to-indigo-500 text-white font-semibold text-xs shadow-sm shadow-sky-500/20 transition-all cursor-pointer"
+          title={effectiveUsername ? `Открыть @${effectiveUsername}` : `Скопировать +${cleanPhone} и открыть Telegram`}
+        >
+          <Send className="w-3.5 h-3.5" />
+          <span>{effectiveUsername ? 'В Telegram (@)' : 'В Telegram (номер)'}</span>
+        </button>
 
         {/* Generate Offer Button */}
         <button
@@ -238,7 +275,7 @@ export const LeadCard: React.FC<LeadCardProps> = React.memo(({
             onOpenOffer(lead);
             onHaptic?.();
           }}
-          className="flex items-center justify-center gap-1.5 py-2 px-3 rounded-xl bg-slate-800/90 hover:bg-slate-700/90 text-sky-300 border border-sky-500/40 font-semibold text-xs transition-all"
+          className="flex items-center justify-center gap-1.5 py-2.5 px-3 rounded-xl bg-slate-800/90 hover:bg-slate-700/90 text-sky-300 border border-sky-500/40 font-semibold text-xs transition-colors cursor-pointer"
         >
           <Sparkles className="w-3.5 h-3.5 text-sky-400" />
           <span>Оффер MoonWeb</span>

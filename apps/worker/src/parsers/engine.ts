@@ -6,6 +6,7 @@ import { RawLead, ParserRunStats } from './types.js';
 import { checkHasRealWebsite, normalizePhone } from './normalizer.js';
 import { parseHolidayBy } from './sources/holidayParser.js';
 import { parseOsmLeads } from './sources/osmParser.js';
+import { harvestInstagramLeads } from './sources/instagramHunter.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -159,7 +160,12 @@ export async function runFullLeadHuntingPipeline(): Promise<void> {
   const osmBarbersMinsk = await parseOsmLeads('minsk', 'hairdresser', 20);
   summary.push(await processAndSaveLeads(osmBarbersMinsk, 'OSM (Минск • Барбершопы)'));
 
-  // 3. Вывод итоговой статистики
+  // 3. Instagram Hunter: поиск верифицированных бизнес-аккаунтов без сайта
+  console.log('\n[3/3] Запуск сбора бизнес-аккаунтов из Instagram...');
+  const instagramLeads = await harvestInstagramLeads();
+  summary.push(await processAndSaveLeads(instagramLeads, 'Instagram Hunter (Верифицированные аккаунты)'));
+
+  // 4. Вывод итоговой статистики
   const totalDurationSec = ((Date.now() - overallStart) / 1000).toFixed(1);
   const totalLeadsInDb = (db.prepare('SELECT COUNT(*) as cnt FROM leads').get() as { cnt: number }).cnt;
   const targetLeadsInDb = (db.prepare('SELECT COUNT(*) as cnt FROM leads WHERE has_real_website = 0').get() as { cnt: number }).cnt;
