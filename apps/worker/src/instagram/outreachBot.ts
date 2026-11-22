@@ -85,6 +85,7 @@ export async function runInstagramOutreach(): Promise<void> {
     WHERE has_real_website = 0 
       AND instagram IS NOT NULL 
       AND instagram != ''
+      AND (crm_status IS NULL OR crm_status = 'new')
       AND id NOT IN (
         SELECT lead_id FROM instagram_outreach_log WHERE status = 'sent'
       )
@@ -165,7 +166,21 @@ export async function runInstagramOutreach(): Promise<void> {
       const lead = leads[i];
       const cleanHandle = lead.instagram.replace('@', '').trim().toLowerCase();
       const profileUrl = `https://www.instagram.com/${cleanHandle}/`;
-      const cityName = lead.city_id === 1 ? 'Минске' : 'вашем городе';
+      const cityPrepositionMap: Record<number, string> = {
+        1: 'Минске',
+        2: 'Бресте',
+        3: 'Гродно',
+        4: 'Гомеле',
+        5: 'Могилёве',
+        6: 'Витебске',
+        7: 'Барановичах',
+        8: 'Пинске',
+        9: 'Бобруйске',
+        10: 'Борисове',
+        11: 'Солигорске',
+        12: 'Лиде',
+      };
+      const cityName = cityPrepositionMap[lead.city_id] || 'вашем городе';
 
       console.log(`\n---------------------------------------------------------------`);
       console.log(`[${i + 1}/${leads.length}] Обработка: ${lead.name} (@${cleanHandle})`);
